@@ -29,7 +29,7 @@ P t "Paula the Cat" by Nikki Giovanni.**        [  giovanni  ]: (M)
 R t Black American Spiritual                    [ spiritual  ]: (N)
 S * from IVORY TUSKS AND OTHER POEMS. Copyright © 1968 by Samuel W. Allen, used by permission of the author.   [   author   ]: (E)
 T * "Theology" by Paul Laurence Dunbar from I GREET THE DAWN, poems by Paul Laurence Dunbar, selected by Ashley Bryan, Atheneum, New York, 1978.   [    five    ]: (D)
-U * "SOS" from BLACK MAGIC POETRY 1961-1967 by Imamu Amiri Baraka. Reprinted by permission of Sterling Lord Llteristlc Inc. © 1965 by Amiri Baraka.   [  baraka*   ]: (O)
+U * "SOS" from BLACK MAGIC POETRY 1961-1967 by Imamu Amiri Baraka. Reprinted by permission of Sterling Lord Llteristlc Inc. © 1965 by Amiri Baraka.   [    aka     ]: (O)
 V t four lines from "To Sally, Walking" from SOUTHERN ROAD by Sterling A Brown. Copyright 1932 by Harcourt, Brace, &amp; Co. Copyright renewed 1960 by Sterling Brown. Included in The COLLECTED POEMS OF STERLING A BROWN, selected by Michael S. Harper. Copyright © 1980 by Sterling A. Brown. Reprinted by permission of HarperCollins Publishers. Inc.   [    inc     ]: (I)
 W * "Who Can Be Born Black" from I AM A BLACK WOMAN by Mari Evans.**   [   evans    ]: (P)
 X t from "Summer Oracle", copyright © 1992, 1973, 1970, 1968 by Audre Lorde, from UNDERSONG: Chosen Poems Old and New by Audre Lorde. Reprinted by permission of W. W. Norton &amp; Company, Inc.   [    inc     ]: (I)
@@ -81,7 +81,7 @@ C
 (Sojourner Truth)                               [   truth    ]: (A)
 Comes walking barefoot                          [  barefoot  ]: (B)
 out of slavery                                  [  slavery   ]: (C)
-ancestress                                      [ancestress* ]: (D)
+ancestress                                      [   stress   ]: (D)
 childless mother                                [   mother   ]: (E)
 following the stars                             [   stars    ]: (F)
 her mind a star                                 [    star    ]: (G)
@@ -91,8 +91,8 @@ D
 Dear Noah: Please save me a spot                [    spot    ]: (A)
 Exposed to the sun, where the Mice are not;     [    not     ]: (A)
 But if I must share my chamber, the Ant         [    ant     ]: (B)
-Is the one I should welcome. Yours: L. E. Phant   [   phant*   ]: (C)
-COUNTEE CULLEN                                  [   cullen   ]: (D)
+Is the one I should welcome. Yours: L. E. Phant   [    ant     ]: (B)
+COUNTEE CULLEN                                  [   cullen   ]: (C)
 
 E
 Each man                                        [    man     ]: (A)
@@ -141,7 +141,7 @@ ELOISE GREENFIELD                               [ greenfield ]: (D)
 
 I
 If I could imagine the shaping of Fate          [    fate    ]: (A)
-I would think of blackmen                       [ blackmen*  ]: (B)
+I would think of blackmen                       [    men     ]: (B)
 Handling the sun.                               [    sun     ]: (C)
 RAYMOND PATTERSON                               [ patterson  ]: (D)
 
@@ -154,7 +154,7 @@ Burns the blue air to ribbons.                  [  ribbons   ]: (E)
 RITA DOVE                                       [    dove    ]: (F)
 
 K
-I am Kojo. In West Afrika Kojo                  [   kojo*    ]: (A)
+I am Kojo. In West Afrika Kojo                  [     jo     ]: (A)
 means Unconquerable. My parents                 [  parents   ]: (B)
 named me the seventh day from my birth          [   birth    ]: (C)
 in Black spirit. Black faith, Black communion.   [ communion  ]: (D)
@@ -198,7 +198,7 @@ must be loved and cared for,                    [    for     ]: (F)
 must be treated with highest respect,           [  respect   ]: (G)
 the elders of the race                          [    race    ]: (B)
 are the reason we are here.                     [    here    ]: (H)
-HAKI MADHUBUTI                                  [ madhubuti* ]: (I)
+HAKI MADHUBUTI                                  [     ti     ]: (I)
 
 P
 I’m Paula the cat                               [    cat     ]: (A)
@@ -213,8 +213,8 @@ NIKKI GIOVANNI                                  [  giovanni  ]: (F)
 Q
 My hair, a hive of honey bees                   [    bees    ]: (A)
 Is a Queenly glory                              [   glory    ]: (B)
-Crackles like castanets                         [ castanets* ]: (C)
-Hums like marimbas.                             [ marimbas*  ]: (D)
+Crackles like castanets                         [    nets    ]: (C)
+Hums like marimbas.                             [     as     ]: (D)
 MAYA ANGELOU                                    [  angelou   ]: (E)
 
 R
@@ -225,10 +225,10 @@ To hear old Jordan roll.                        [    roll    ]: (A)
 BLACK AMERICAN SPIRITUAL                        [ spiritual  ]: (C)
 
 S
-To Satch                                        [   satch*   ]: (A)
+To Satch                                        [     h      ]: (A)
 Sometimes I feel like I will never stop         [    stop    ]: (B)
 Just go on forever                              [  forever   ]: (C)
-Till one fine mornin                            [  mornin*   ]: (D)
+Till one fine mornin                            [     in     ]: (D)
 I'm gonna reach up and grab me a handfulla stars   [   stars    ]: (E)
 Swing out my long lean leg                      [    leg     ]: (F)
 And whip three hot strikes burnin down the heavens   [  heavens   ]: (G)
@@ -251,7 +251,7 @@ Black People, come in, wherever you are, urgent, calling   [  calling   ]: (D)
 you, calling all black people                   [   people   ]: (A)
 calling all black people, come in, black people, come   [    come    ]: (E)
 on in.                                          [     in     ]: (C)
-IMAMU AMIRI BARAKA                              [  baraka*   ]: (F)
+IMAMU AMIRI BARAKA                              [    aka     ]: (F)
 
 V
 Your Vividness grants color where               [   where    ]: (A)
@@ -282,7 +282,7 @@ Without expectation                             [expectation ]: (A)
 there is no end                                 [    end     ]: (B)
 to the shock of morning                         [  morning   ]: (C)
 or even a small summer.                         [   summer   ]: (D)
-AUDRE LORDE                                     [   lorde*   ]: (E)
+AUDRE LORDE                                     [     de     ]: (E)
 
 Y
 Young Neptune dashed the waters                 [   waters   ]: (A)

@@ -12,7 +12,7 @@ B also stands for:                              [    for     ]: (A)
 BANANA, BASKET, BAT,                            [    bat     ]: (D)
 BLUE, BOY, BUSH.                                [    bush    ]: (E)
 C also stands for:                              [    for     ]: (A)
-CAT, CANARY, CASSAVA,                           [  cassava*  ]: (F)
+CAT, CANARY, CASSAVA,                           [    sava    ]: (F)
 CORN, COW, CAP.                                 [    cap     ]: (G)
 D also stands for:                              [    for     ]: (A)
 DANCE, DAY, DOG,                                [    dog     ]: (H)
@@ -235,7 +235,7 @@ we dance in the street.                         [   street   ]: (B)
 Y
 Y is for YAM                                    [    yam     ]: (A)
 that we all love to eat                         [    eat     ]: (B)
-And Mother makes fufu                           [   fufu*    ]: (C)
+And Mother makes fufu                           [     fu     ]: (C)
 to serve without meat.                          [    meat    ]: (B)
 
 Z

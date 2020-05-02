@@ -50,7 +50,7 @@ L A LIEUTENANT                                  [ lieutenant ]: (A)
 JUST TAKING A TURN                              [    turn    ]: (B)
 
 M
-M WAS A MIDDY                                   [   middy*   ]: (A)
+M WAS A MIDDY                                   [     y      ]: (A)
 WHO CARRIED A DIRK                              [    dirk    ]: (B)
 
 N
@@ -59,14 +59,14 @@ THAT DID ARMY WORK                              [    work    ]: (B)
 
 N
 NAVAL ALPHABET                                  [  alphabet  ]: (A)
-John Hassall.                                   [  hassall*  ]: (B)
+John Hassall.                                   [    sall    ]: (B)
 Being a companion to                            [     to     ]: (C)
 An Active Army Alphabet.                        [  alphabet  ]: (A)
 London                                          [   london   ]: (D)
 Sands Co                                        [     co     ]: (E)
 
 O
-O WERE THE OILSKINS                             [ oilskins*  ]: (A)
+O WERE THE OILSKINS                             [   skins    ]: (A)
 TO WEAR IN A SQUALL                             [   squall   ]: (B)
 
 P
@@ -99,7 +99,7 @@ EXCEEDINGLY FAST                                [    fast    ]: (B)
 
 W
 W _ A WEAPON                                    [   weapon   ]: (A)
-WITH WHICH JACK EXCELLS                         [  excells*  ]: (B)
+WITH WHICH JACK EXCELLS                         [   cells    ]: (B)
 
 X
 X STANDS FOR X                                  [     x      ]: (A)

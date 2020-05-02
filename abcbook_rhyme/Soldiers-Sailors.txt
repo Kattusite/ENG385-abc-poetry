@@ -4,7 +4,7 @@ B is the Belgian, They were very sad.           [    sad     ]: (A)
 C is the Canadians So healthy and strong        [   strong   ]: (B)
 
 D
-D is the Dreadnaughts                           [dreadnaughts*]: (A)
+D is the Dreadnaughts                           [     ts     ]: (A)
 To us they belong.                              [   belong   ]: (B)
 
 E
@@ -16,7 +16,7 @@ F is the French,                                [   french   ]: (A)
 The guns well they work.                        [    work    ]: (B)
 
 G
-G is the Ghurka                                 [  ghurka*   ]: (A)
+G is the Ghurka                                 [     ka     ]: (A)
 with knife and with gun.                        [    gun     ]: (B)
 
 H

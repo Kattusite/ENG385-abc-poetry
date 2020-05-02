@@ -6,7 +6,7 @@ Are the flower of our Empire's irregular force.   [   force    ]: (B)
 
 B
 B is a baby once known as a Boer.               [    boer    ]: (A)
-He was troublesome then, but all troubles are o'er:   [   o'er*    ]: (B)
+He was troublesome then, but all troubles are o'er:   [     er     ]: (B)
 Now his trekking and wrecking and fighting are done.   [    done    ]: (C)
 Britain welcomes in peace her recalcitrant son !   [    son     ]: (C)
 
@@ -38,7 +38,7 @@ PRUDENCE BOURCHIER
 B
 Babes of the Empire where sun never sets,       [    sets    ]: (A)
 Yours is the manfullest banner unfurled !       [  unfurled  ]: (B)
-Yours is the proudest of all alphabets,         [ alphabets* ]: (C)
+Yours is the proudest of all alphabets,         [    bets    ]: (A)
 Babes of an Empire as wide as the world !       [   world    ]: (B)
 
 B
@@ -54,10 +54,10 @@ And the flelds of his harvest, so golden and free,   [    free    ]: (B)
 Find food for the Empire from sea unto sea.     [    sea     ]: (B)
 
 D
-D is a Dervish from sunny Soudan ;              [  soudan*   ]: (A)
-He dances no more his eccentric can-can,        [    can     ]: (B)
-But, trained to our manners, is eagerly fain,   [    fain    ]: (C)
-When Britain once calls him, to dance in her train.   [   train    ]: (C)
+D is a Dervish from sunny Soudan ;              [    dan     ]: (A)
+He dances no more his eccentric can-can,        [    can     ]: (A)
+But, trained to our manners, is eagerly fain,   [    fain    ]: (B)
+When Britain once calls him, to dance in her train.   [   train    ]: (B)
 
 E
 E is an English babe, ready to take             [    take    ]: (A)
@@ -103,15 +103,15 @@ And he'll never be missed but at dinner and prayers.   [  prayers   ]: (B)
 
 K
 K is a sweet little, neat little Khan,          [    khan    ]: (A)
-Who lives in a country called Beluchistan;      [beluchistan*]: (B)
+Who lives in a country called Beluchistan;      [    stan    ]: (B)
 His head sports a turban, which looks a bit vain,   [    vain    ]: (C)
 But it covers a thoroughly competent brain.     [   brain    ]: (C)
 
 L
-L is from Labrador - wee Esquimaux -            [ esquimaux* ]: (A)
-Who lives in an ice-house all covered with snow;   [    snow    ]: (B)
-She has sealskin for jackets, with nothing to pay,   [    pay     ]: (C)
-And is pleased with a land where's it night in the day!   [    day     ]: (C)
+L is from Labrador - wee Esquimaux -            [    aux     ]: (A)
+Who lives in an ice-house all covered with snow;   [    snow    ]: (A)
+She has sealskin for jackets, with nothing to pay,   [    pay     ]: (B)
+And is pleased with a land where's it night in the day!   [    day     ]: (B)
 
 M
 M's a Masai baby, fierce, dark, and strong -    [   strong   ]: (A)
@@ -139,8 +139,8 @@ And so copy their fashions, make coin, and retire.   [   retire   ]: (B)
 Q
 Q comes from Queensland, the land of the Queen,   [   queen    ]: (A)
 The cleverest riders that ever were seen!       [    seen    ]: (A)
-With a whip and a gun and a swinging lassoo     [  lassoo*   ]: (B)
-They're as swift as the wind to the swift Kangaroo.   [  kangaroo  ]: (C)
+With a whip and a gun and a swinging lassoo     [    soo     ]: (B)
+They're as swift as the wind to the swift Kangaroo.   [  kangaroo  ]: (B)
 
 R
 R is a Rajput, who's haughty and proud,         [   proud    ]: (A)
@@ -185,15 +185,15 @@ And we hope every year, as the centuries fade,   [    fade    ]: (B)
 More xcellent xtras will come to our aid.       [    aid     ]: (B)
 
 Y
-Y is a Yukon, - a wee red papoose,              [  papoose*  ]: (A)
+Y is a Yukon, - a wee red papoose,              [    ose     ]: (A)
 In a snug blanket-coat, and smart moccassin shoes.   [   shoes    ]: (B)
 He's a creature of summer, without any doubt,   [   doubt    ]: (C)
 For in winter it's always too cold to go out.   [    out     ]: (C)
 
 Z
-Z is a Zulu, with fierce assagai:               [  assagai*  ]: (A)
+Z is a Zulu, with fierce assagai:               [    gai     ]: (A)
 Do you think he could hurt you ? I'd rather not try!   [    try     ]: (B)
-But he won't, if he could, for our battles are o'er,   [   o'er*    ]: (C)
+But he won't, if he could, for our battles are o'er,   [     er     ]: (C)
 And now we're all friends - Briton, Zulu, and Boer!   [    boer    ]: (D)
 
 

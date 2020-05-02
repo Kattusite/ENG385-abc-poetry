@@ -21,6 +21,21 @@ texts.
 
 Ships with version 0.7b of the CMU Pronouncing Dictionary.
 
+## Intended output:
+
+For each text, create a json file with the following:
+
+* `rhymingLikely`: boolean: would we guess this book rhymes?
+* `rhymeScheme`: string: what rhyme scheme would we guess it has (e.g. ABCB)
+* `meter`:
+* `alliteration`: A score from 0-100 indicating how alliterative the book is,
+                  with 100 meaning each word in a section starts with the same
+                  sound, and 0 meaning no two words in a section start with the
+                  same sound
+* `alliterationRun`: Some sort of score for long runs of words that alliterate,
+                     even if the segment they're in has tons of other words
+* ``
+
 ## Fallbacks
 For texts not formatted for rhyme scheme extraction, instead create a map
 of all possible rhyming parts of words in that text, to how frequently that

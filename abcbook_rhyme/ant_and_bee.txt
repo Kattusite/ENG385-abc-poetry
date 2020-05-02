@@ -1,5 +1,5 @@
 &
-&nbsp;                                          [   nbsp*    ]: (A)
+&nbsp;                                          [     p      ]: (A)
 
 <
 <i>An Alphabetical Story for Tiny Tots</i>      [     i      ]: (A)
@@ -81,7 +81,7 @@ D
 Dog slid for a long way and banged into the gun.   [    gun     ]: (A)
 
 D
-Dog trod on the egg .... Slip slish and a big boomp !   [   boomp*   ]: (A)
+Dog trod on the egg .... Slip slish and a big boomp !   [     p      ]: (A)
 
 E
 EDMUND WARD 16 NEW STREET, LEICESTER. ENGLAND   [  england   ]: (A)
@@ -115,7 +115,7 @@ In fog you cannot see very well where you are going.   [   going    ]: (A)
 
 I
 It was a red van.                               [    van     ]: (A)
-The van had plenty of room for them all. Off they went . . . . brrrrrrrrr, brrrrrrrrrr.   [brrrrrrrrrr*]: (B)
+The van had plenty of room for them all. Off they went . . . . brrrrrrrrr, brrrrrrrrrr.   [     r      ]: (B)
 Bee and ant said they did not want to go back to their cup home.   [    home    ]: (C)
 They wanted to go and live with a spider friend who lived in a   [     a      ]: (D)
 
@@ -224,7 +224,7 @@ Bee and ant waved good-bye and blew lots of     [     of     ]: (B)
 
 T
 They could not see a yew tree anywhere.         [  anywhere  ]: (A)
-On they went. . . brrrr, brrrr.                 [   brrrr*   ]: (B)
+On they went. . . brrrr, brrrr.                 [     r      ]: (B)
 Suddenly they saw a yew tree.                   [    tree    ]: (C)
 The man asked dog if that was the yew tree near where dog lived.   [   lived    ]: (D)
 Dog said it was.                                [    was     ]: (E)

@@ -72,7 +72,7 @@ The child should be required to name the objects in this Alphabet, without seein
 L
 L is a Lark,                                    [    lark    ]: (A)
 Who sings us a song,                            [    song    ]: (B)
-And wakes us betimes                            [  betimes*  ]: (C)
+And wakes us betimes                            [   times    ]: (C)
 Lest we sleep too long.                         [    long    ]: (B)
 
 L
@@ -97,7 +97,7 @@ THE TINY TEA PARTY                              [   party    ]: (F)
 THE BOOK OF TRADES                              [   trades   ]: (G)
 
 N
-N is a Nosegay                                  [  nosegay*  ]: (A)
+N is a Nosegay                                  [    gay     ]: (A)
 Sprinkled with dew,                             [    dew     ]: (B)
 Pulled in the morning,                          [  morning   ]: (C)
 And presented to you.                           [    you     ]: (B)
@@ -163,7 +163,7 @@ Lest robbers or thieves                         [  thieves   ]: (C)
 Good people should meet.                        [    meet    ]: (B)
 
 W
-WARNE’S                                         [  warne's*  ]: (A)
+WARNE’S                                         [    e's     ]: (A)
 Mounted Picture Toy Book                        [    book    ]: (B)
 
 W

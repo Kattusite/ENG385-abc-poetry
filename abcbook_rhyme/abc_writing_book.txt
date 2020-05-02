@@ -2,18 +2,18 @@ C
 COLOR and WRITE                                 [   write    ]: (A)
 a b c                                           [     c      ]: (B)
 abc Writing Book                                [    book    ]: (C)
-TEXT BY SU HTET                                 [   htet*    ]: (D)
+TEXT BY SU HTET                                 [    tet     ]: (D)
 ILLUSTRATED BY ZAW WEIK                         [    weik    ]: (E)
 COVER ILLUSTRATION : ZAW WEIK                   [    weik    ]: (E)
-COVER DESIGN : KO KO MYINT                      [   myint*   ]: (F)
-LAYOUT DESIGN : AUNG MYINT NAING                [   naing*   ]: (G)
-COLOUR SEPERATION : ALPHA                       [   alpha    ]: (H)
-FILM : ZIN Oo and Brothers                      [  brothers  ]: (I)
-ALL RIGHT RESERVE                               [  reserve   ]: (J)
+COVER DESIGN : KO KO MYINT                      [     t      ]: (B)
+LAYOUT DESIGN : AUNG MYINT NAING                [    ing     ]: (F)
+COLOUR SEPERATION : ALPHA                       [   alpha    ]: (G)
+FILM : ZIN Oo and Brothers                      [  brothers  ]: (H)
+ALL RIGHT RESERVE                               [  reserve   ]: (I)
 
 F
 Fill in the missing letters.                    [  letters   ]: (A)
-u wx                                            [    wx*     ]: (B)
+u wx                                            [     x      ]: (B)
 
 M
 Match the letters.                              [  letters   ]: (A)
@@ -47,7 +47,7 @@ NAME:                                           [    name    ]: (B)
 Writing book                                    [    book    ]: (C)
 Let’s colour the picture and trace the letters.   [  letters   ]: (D)
 Illustrated by Zaw Weik                         [    weik    ]: (E)
-Text by Su Htet                                 [   htet*    ]: (F)
+Text by Su Htet                                 [    tet     ]: (F)
 PYI ZONE                                        [    zone    ]: (G)
 PUBLISHING HOUSE                                [   house    ]: (H)
 No.136,36 Street, Kyauktada T/S                 [     s      ]: (I)
@@ -55,7 +55,7 @@ Yangon, Myanmar                                 [  myanmar   ]: (J)
 Tel: 01-253255                                  [    five    ]: (K)
 
 a
-a aeroplane                                     [ aeroplane* ]: (A)
+a aeroplane                                     [   plane    ]: (A)
 
 a
 WRITING BOOK                                    [    book    ]: (A)
@@ -63,7 +63,7 @@ COLOUR AND WRITE                                [   write    ]: (B)
 
 a
 word list                                       [    list    ]: (0)
-a aeroplane                                     [ aeroplane* ]: (1)
+a aeroplane                                     [   plane    ]: (1)
 b balloon                                       [  balloon   ]: (2)
 c cat                                           [    cat     ]: (3)
 d duck                                          [    duck    ]: (4)

@@ -158,7 +158,7 @@ MARY ANN, MARY ANN                              [    ann     ]: (A)
 Mary Ann, Mary Ann,                             [    ann     ]: (A)
 Way across the seas she ran,                    [    ran     ]: (A)
 Over hill and dale she flew,                    [    flew    ]: (B)
-Till she got to Timbuctoo.                      [ timbuctoo* ]: (C)
+Till she got to Timbuctoo.                      [    too     ]: (B)
 
 N
 NANNIE, THAT’S OUR LITTLE GOAT                  [    goat    ]: (A)
@@ -249,12 +249,12 @@ When they cut it open,                          [    open    ]: (E)
 Tom was fast asleep inside it.                  [     it     ]: (D)
 
 U
-UPIDEE, UPIDEE                                  [  upidee*   ]: (A)
-Upidee, upidee,                                 [  upidee*   ]: (A)
-Born with eyes and then can’t see               [    see     ]: (B)
-Born with tail and then can’t swim,             [    swim    ]: (C)
-Upidee, upidee,                                 [  upidee*   ]: (A)
-How I pity him.                                 [    him     ]: (C)
+UPIDEE, UPIDEE                                  [    dee     ]: (A)
+Upidee, upidee,                                 [    dee     ]: (A)
+Born with eyes and then can’t see               [    see     ]: (A)
+Born with tail and then can’t swim,             [    swim    ]: (B)
+Upidee, upidee,                                 [    dee     ]: (A)
+How I pity him.                                 [    him     ]: (B)
 
 V
 VIC, VIC, CUNNING VIC                           [    vic     ]: (A)

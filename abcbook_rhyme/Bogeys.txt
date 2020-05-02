@@ -6,8 +6,8 @@ he had to be included in the party for fear of offending his vanity. - (A.L.)   
 A
 
 A
-AN ALPHABET OF MUSICAL BOGEYS                   [  bogeys*   ]: (A)
-ARTHUR LAYARD                                   [  layard*   ]: (B)
+AN ALPHABET OF MUSICAL BOGEYS                   [     s      ]: (A)
+ARTHUR LAYARD                                   [    yard    ]: (B)
 
 B
 
@@ -40,12 +40,12 @@ Covent Garden, W.C.                             [     c      ]: (B)
 L
 LONDON: LAWRENCE & BULLEN, LTD                  [    ltd     ]: (A)
 16 HENRIETTA STREET, COVENT GARDEN              [   garden   ]: (B)
-MDCCCXCIV                                       [ mdcccxciv* ]: (C)
+MDCCCXCIV                                       [     v      ]: (A)
 
 M
 
 M
-MUSICAL BOGEYS                                  [  bogeys*   ]: (A)
+MUSICAL BOGEYS                                  [     s      ]: (A)
 
 N
 
@@ -59,11 +59,11 @@ R
 
 R
 RICHARD CLAY AND SONES, LIMITED,                [  limited   ]: (A)
-LONDON AND BURKAY.                              [  burkay*   ]: (B)
+LONDON AND BURKAY.                              [    kay     ]: (B)
 
 R
 RICHARD CLAY AND SONS, LIMITED,                 [  limited   ]: (A)
-LONDON AND BUNGAY                               [  bungay*   ]: (B)
+LONDON AND BUNGAY                               [    gay     ]: (B)
 
 S
 
@@ -72,7 +72,7 @@ T
 T
 THE 'Xtraord'nary Bogey reclines on his back,   [    back    ]: (A)
 And warbles sweet tunes with a marvelous knack.   [   knack    ]: (A)
-He twirls on his tail an immense tamborine:     [ tamborine* ]: (B)
+He twirls on his tail an immense tamborine:     [    rine    ]: (B)
 You might think he was old, but he's only nineteen.   [  nineteen  ]: (C)
 Ha ! Ha!-Hoo !-Hee ! Hee !                      [    hee     ]: (D)
 But truly he's only nineteen!                   [  nineteen  ]: (C)
@@ -80,9 +80,9 @@ Ha ! Ha!-Hoo !-Hee ! Hee !                      [    hee     ]: (D)
 But truly he's only nineteen!                   [  nineteen  ]: (C)
 
 T
-THE ALPHABET OF MUSICAL BOGEYS                  [  bogeys*   ]: (A)
+THE ALPHABET OF MUSICAL BOGEYS                  [     s      ]: (A)
 Written and Illustrated                         [illustrated ]: (B)
-ARTHUR LAYARD                                   [  layard*   ]: (C)
+ARTHUR LAYARD                                   [    yard    ]: (C)
 With Music by                                   [     by     ]: (D)
 EMIL SAUER                                      [   sauer    ]: (E)
 
@@ -176,7 +176,7 @@ The while, with his tongue and his tails !      [   tails    ]: (B)
 
 T
 THE Natural Bogey o’erleaps a high hill,        [    hill    ]: (A)
-Like those singular folk that Sir John Maundevile   [maundevile* ]: (B)
+Like those singular folk that Sir John Maundevile   [    vile    ]: (B)
 Declares that he saw, who had only one foot;    [    foot    ]: (C)
 See his Book, where your artist a drawing has put.   [    put     ]: (C)
 Ha ! Ha !—Hoo ! Hoo !—Hee ! Hee !               [    hee     ]: (D)
@@ -277,11 +277,11 @@ T
 THE Zig-zag-gy Bogey curvets in one boot,       [    boot    ]: (A)
 Pressing out a wild air to a ear-splitting hoot.   [    hoot    ]: (A)
 A long Concertina's his body, you see,          [    see     ]: (B)
-An instrucment Bogeys entitle Sqeegee           [  sqeegee*  ]: (C)
+An instrucment Bogeys entitle Sqeegee           [    gee     ]: (B)
 Ha ! Ha!-Hoo !-Hee ! Hee !                      [    hee     ]: (B)
-All Bogeys entitle Sqeegee !                    [  sqeegee*  ]: (C)
+All Bogeys entitle Sqeegee !                    [    gee     ]: (B)
 Ha ! Ha!-Hoo !-Hee ! Hee !                      [    hee     ]: (B)
-All Bogeys entitle Sqeegee !                    [  sqeegee*  ]: (C)
+All Bogeys entitle Sqeegee !                    [    gee     ]: (B)
 
 T
 THIS Blinky-eyed Bogey is no nightingale;       [nightingale ]: (A)
@@ -307,11 +307,11 @@ T
 THIS Garrulous Bogey, whose voice never tires,   [   tires    ]: (A)
 Ingeniously stands near the telegraph wires;    [   wires    ]: (A)
 And twirling his tail to the curves of a clef,   [    clef    ]: (B)
-Sings louder—crescendo,—and louder,—-ff !       [    ff*     ]: (C)
-Ha ! Ha !—Hoo ! Hoo !—Hee ! Hee !               [    hee     ]: (D)
-Crescendo,—and louder,—ff !                     [    ff*     ]: (C)
-Ha ! Ha !—Hoo ! Hoo !—Hee ! Hee !               [    hee     ]: (D)
-Crescendo,—and louder,—ff !                     [    ff*     ]: (C)
+Sings louder—crescendo,—and louder,—-ff !       [     f      ]: (B)
+Ha ! Ha !—Hoo ! Hoo !—Hee ! Hee !               [    hee     ]: (C)
+Crescendo,—and louder,—ff !                     [     f      ]: (B)
+Ha ! Ha !—Hoo ! Hoo !—Hee ! Hee !               [    hee     ]: (C)
+Crescendo,—and louder,—ff !                     [     f      ]: (B)
 
 T
 THIS Monkish old Bogey blows hard in his Flute,   [   flute    ]: (A)

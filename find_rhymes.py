@@ -55,15 +55,45 @@ def cleanLine(s):
 
 def getRhymingParts(s):
     """Given a word as a string, return a list of all of the possible rhyming
-    parts that string might have based on its possible pronunciations."""
+    parts that string might have based on its possible pronunciations.
+
+    Return as second value the word, or part of the word, that we used to
+    calculate that rhyming part."""
+
+    # 1st pass: If CMUDict directly tells us how to pronounce a word,
+    # use that to extract its rhyming part
     s = s.lower()
     phones = pronouncing.phones_for_word(s)
     if phones:
-        return [pronouncing.rhyming_part(phone) for phone in phones]
+        return [pronouncing.rhyming_part(phone) for phone in phones], s
 
-    # Try changing the string around and trying again
+    # 2nd pass: Find the longest suffix of the word that CMUDict tells us
+    # how to pronounce, and use that to extract its rhyming part.
+    # (Produces incorrect results for some words! e.g.:
+    #           lechugas -> gas
+    #           magnanimously -> sly
+    n = len(s)
+    bestSuffix = None
+    # iter over s[-1:], s[-2:], s[-3:], ... s[-(n-1):]
+    for i in range(1, n):
+        suffix = s[-i:]
+        partial = pronouncing.phones_for_word(suffix)
+
+        # track the longest pronouncable suffix
+        if partial:
+            bestSuffix = suffix
+            phones = partial
+
+    if phones:
+        print(f"Guessed word: {s} ~~> {bestSuffix}")
+        return [pronouncing.rhyming_part(phone) for phone in phones], bestSuffix
+
+
+    # Final Pass: CMUDict knows nothing about this word (it's probably a typo
+    # or non-English). Use the entire, raw word as the rhyming part,
+    # adding a star to indicate we couldn't find any CMUDict information
     print("Unknown word: ", s)
-    return [f"{s}*"]
+    return [s], f"{s}*"
 
 
 def simplifyRhymeScheme(scheme):
@@ -109,7 +139,7 @@ def simplifyRhymeScheme(scheme):
     return prettified
 
 
-# Write code to, for each segment:
+# For each segment:
 #   For each line that isn't the title:
 #       Let RP = rhyming part of the last word in the line
 #       Add RP to a map of all RPs in the segment. the key is the
@@ -118,7 +148,22 @@ def simplifyRhymeScheme(scheme):
 #       (actually use 1,2,3,4 so we can increment)
 
 def findRhymes(seg):
-    """This alg is buggy.
+    """For a given segment, estimate the rhyme scheme of that segment using the
+    rhyming parts of the final word on each line.
+
+    Returns:
+    * scheme: the estimated rhyme scheme, as a tuple of strings "A", "B", "C"...
+        If there are more than 26 entries in the scheme, they will all be
+        labeled using numerical strings instead: "1", "2", "3", ...
+    * rhymes: a tuple containing one string for each string in the rhyme scheme.
+        The string will be the word (or suffix of a word) that was used to
+        estimate the rhyme scheme for this line. Strings ending in "*" indicate
+        no nontrivial rhyming information could be derived from that word.
+    * tidied: a tuple of strings containing all non-empty lines of text in this
+        segment.
+
+    This alg is buggy, but mostly just in weird corner cases
+    (lots of possible pronunciations, other languages, etc)
 
     A more sophisticated algorithm would greatly clarify the flow of logic and
     address all the dicey corner cases we currently ignore"""
@@ -142,7 +187,7 @@ def findRhymes(seg):
         tidied.append(ln)   # stylistic choice: append ln or cleanLine(ln.lower) ?
 
         lastWord = words[-1]
-        rs = getRhymingParts(lastWord)
+        rs, wordpart = getRhymingParts(lastWord)
 
         rhymeFound = None
 
@@ -168,13 +213,10 @@ def findRhymes(seg):
             # will eventually end up rhyming a later word, do we?
 
         # Special case: if the rhymed word was unrecognized, add a star:
-        if len(rs) == 1 and rs[0][-1] == "*":
-            rhymes.append(f"{lastWord}*")
-        else:
-            rhymes.append(lastWord)
+        rhymes.append(wordpart)
 
     scheme = simplifyRhymeScheme(scheme)
-    return scheme, rhymes, tidied
+    return tuple(scheme), tuple(rhymes), tuple(tidied)
 
 
 def main():

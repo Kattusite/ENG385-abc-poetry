@@ -7,7 +7,7 @@ For ages and ages.                              [    ages    ]: (B)
 B
 B is the baby                                   [    baby    ]: (A)
 Who is crowing with joy,                        [    joy     ]: (B)
-But isn't that diggie                           [  diggie*   ]: (C)
+But isn't that diggie                           [     e      ]: (C)
 A bad, greedy boy?                              [    boy     ]: (B)
 
 C
@@ -66,7 +66,7 @@ We hope she hasn't hurt herself                 [  herself   ]: (C)
 Or broken any bones.                            [   bones    ]: (B)
 
 L
-L is for Laundress                              [ laundress* ]: (A)
+L is for Laundress                              [  undress   ]: (A)
 Her washing's very fine                         [    fine    ]: (B)
 When Fido fell into the tub                     [    tub     ]: (C)
 She hung him on the line.                       [    line    ]: (B)
@@ -126,8 +126,8 @@ Coal tar                                        [    tar     ]: (C)
 Soap                                            [    soap    ]: (D)
 BEST                                            [    best    ]: (E)
 Children                                        [  children  ]: (F)
-Y'tAttM                                         [  y'tattm*  ]: (G)
-[e3(5)»UOM.                                     [   »uom*    ]: (H)
+Y'tAttM                                         [     m      ]: (G)
+[e3(5)»UOM.                                     [     om     ]: (H)
 Nonce                                           [   nonce    ]: (I)
 
 

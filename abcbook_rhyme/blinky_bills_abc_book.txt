@@ -1,7 +1,7 @@
 A
 IS FOR ANT                                      [    ant     ]: (A)
 WHO'S NOT SO FIERCE YOU SEE                     [    see     ]: (B)
-B IS FOR BLINKY                                 [  blinky*   ]: (C)
+B IS FOR BLINKY                                 [    inky    ]: (C)
 AS HE READS HIS "A.B.C."                        [     c      ]: (B)
 
 B
@@ -38,7 +38,7 @@ IS FOR JUMP                                     [    jump    ]: (C)
 "OH ISN'T IT A THRILL!"                         [   thrill   ]: (B)
 
 K
-IS FOR KOOKABURRA                               [kookaburra* ]: (A)
+IS FOR KOOKABURRA                               [     ra     ]: (A)
 WHOSE LAUGH IS FULL OF FUN                      [    fun     ]: (B)
 IS FOR LOCUST                                   [   locust   ]: (C)
 SITTING IN THE SUN                              [    sun     ]: (B)
@@ -46,7 +46,7 @@ SITTING IN THE SUN                              [    sun     ]: (B)
 M
 IS FOR MOTHER                                   [   mother   ]: (A)
 HUNTING BLINKY WITH A STICK                     [   stick    ]: (B)
-IS FOR NUTSY                                    [   nutsy*   ]: (C)
+IS FOR NUTSY                                    [     sy     ]: (C)
 WHO HAS FOUND SOME                              [    some    ]: (D)
 FLOWERS TO PICK                                 [    pick    ]: (B)
 
@@ -74,10 +74,10 @@ WHICH MEANS TROUBLE                             [  trouble   ]: (D)
 AS YOU'LL SEE                                   [    see     ]: (B)
 
 O
-OWL'S                                           [   owl's*   ]: (A)
+OWL'S                                           [    l's     ]: (A)
 SCHOOL                                          [   school   ]: (B)
 AND NOW                                         [    now     ]: (C)
-IT IS PLAYTIME                                  [ playtime*  ]: (D)
+IT IS PLAYTIME                                  [    time    ]: (D)
 AND BLINKY IS OUT                               [    out     ]: (E)
 PLAYING HIS                                     [    his     ]: (F)
 FAVOURITE GAME                                  [    game    ]: (G)

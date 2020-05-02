@@ -2,7 +2,7 @@ A, WAS AN ARCHER
 PICTURE
 ALPHABET OF NOUNS
 
- 
+
 
 DEANS’ ONE SHILLING COLOURED PICTURE BOOKS
 
@@ -19,7 +19,6 @@ A a
 was an Archer,
 And shot at a
 Frog.
-
 B b
 was a Butcher,
 Who had a great
@@ -29,7 +28,6 @@ C c
 was a Captain,
 All covered with
 Lace.
-
 D d
 was a Dunce,
 With a very sad
@@ -39,7 +37,6 @@ E e
 was an Esquire,
 With pride on
 his brow.
-
 F f
 was a Farmer,
 And followed
@@ -49,7 +46,6 @@ G g
 was a Gamester,
 And he had ill
 luck.
-
 H h
 was a Hunter,
 And hunted a
@@ -59,7 +55,6 @@ I i J j
 was a Joiner,
 And built up a
 House
-
 K k
 was a King,
 And governed a
@@ -69,7 +64,6 @@ L l
 was a Lady,
 And had a white
 Hand.
-
 M m
 was a Merchant,
 To some foreign
@@ -79,7 +73,6 @@ N n
 was a Nobleman,
 Gallant and
 Bold.
-
 O o
 was an Oyster-
 girl,—-
@@ -90,7 +83,6 @@ P p
 was a Parson,
 And wore
 a black Gown.
-
 Q q
 was a Queen,
 And wore a rich
@@ -100,7 +92,6 @@ R r
 was a Robber
 Who needed the
 Whip.
-
 S s
 was a Sailor,
 And lived in a
@@ -110,7 +101,6 @@ T t
 was a Tinker,
 and mended a
 Pot.
-
 U u V v
 was a Vintner,
 A very great
@@ -120,7 +110,6 @@ W w
 was a Watchman,
 And guarded the
 door.
-
 X x
 was Expensive,
 And so became
@@ -130,7 +119,6 @@ Y y
 was a Youth,
 Who did not like
 School.
-
 Z z
 was a Zany,
 And looked like
@@ -217,4 +205,3 @@ Yeoman. Yawn.
 Z z
 Zigzag. Zebra.
 Zoology.
-

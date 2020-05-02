@@ -27,7 +27,7 @@ And Horace bangs upon the DRUM                  [    drum    ]: (A)
 He's heard throughout the town                  [    town    ]: (B)
 
 E
-The Monkey Clown's EUPHONIUM                    [ euphonium* ]: (A)
+The Monkey Clown's EUPHONIUM                    [     um     ]: (A)
 Accompanies a song                              [    song    ]: (B)
 
 F
@@ -100,7 +100,7 @@ Hits every sharp and flat                       [    flat    ]: (B)
 
 Q
 Then four of Mickey's clever band               [    band    ]: (A)
-All sing in a QUARTETTE                         [ quartette* ]: (B)
+All sing in a QUARTETTE                         [     te     ]: (B)
 
 R
 Till the babies with the RATTLES                [  rattles   ]: (A)
@@ -129,7 +129,7 @@ They are answered on the TRUMPET                [  trumpet   ]: (A)
 By Gideon the Goat                              [    goat    ]: (B)
 
 U
-Minnie's UKELELE                                [  ukelele*  ]: (A)
+Minnie's UKELELE                                [     le     ]: (A)
 Wins everybody's praise                         [   praise   ]: (B)
 
 V

@@ -1,5 +1,5 @@
 A
-A is for Auk—                                   [    auk*    ]: (A)
+A is for Auk—                                   [     uk     ]: (A)
 An uncommon bird;                               [    bird    ]: (B)
 Rarely seen,                                    [    seen    ]: (C)
 Never heard!                                    [   heard    ]: (B)
@@ -157,7 +157,7 @@ It turns on its axis,                           [    axis    ]: (C)
 Above and below.                                [   below    ]: (B)
 
 X
-X is for Xmas—                                  [   xmas*    ]: (A)
+X is for Xmas—                                  [    mas     ]: (A)
 The day of good cheer.                          [   cheer    ]: (B)
 No matter what happens                          [  happens   ]: (C)
 It soon will be here.                           [    here    ]: (D)

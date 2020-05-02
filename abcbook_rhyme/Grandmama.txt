@@ -27,8 +27,8 @@ G FOR Goliah, on Israel's plain,                [   plain    ]: (A)
 By David the valiant was certainly slain.       [   slain    ]: (A)
 
 G
-GRANDMAMMA                                      [grandmamma* ]: (A)
-EASY'S                                          [  easies*   ]: (B)
+GRANDMAMMA                                      [   mamma    ]: (A)
+EASY'S                                          [    sies    ]: (B)
 ILLUMINATED SCRIPTURAL                          [ scriptural ]: (C)
 ALPHABET                                        [  alphabet  ]: (D)
 
@@ -61,11 +61,11 @@ Who dwell on earth, thy heavenly will,          [    will    ]: (C)
 With equal cheerfulness and love,               [    love    ]: (D)
 As saints and angels do above,                  [   above    ]: (D)
 Give us this day our daily bread,               [   bread    ]: (E)
-Us into no tempationlead,                       [tempationlead*]: (F)
+Us into no tempationlead,                       [    lead    ]: (E)
 But with thy grace preserve us still            [   still    ]: (C)
 From sin and everything that's ill,             [    ill     ]: (C)
-For thine thekingdom and the power,             [   power    ]: (G)
-And glory are, for evermore.                    [  evermore  ]: (H)
+For thine thekingdom and the power,             [   power    ]: (F)
+And glory are, for evermore.                    [  evermore  ]: (G)
 
 M
 M MAY be Moses, the meekest of men,             [    men     ]: (A)

@@ -23,7 +23,7 @@ C
 C IS FOR CURIOUS                                [  curious   ]: (A)
 
 C
-CHRONICLE BOOKS - SAN FRANSISCO                 [ fransisco* ]: (A)
+CHRONICLE BOOKS - SAN FRANSISCO                 [   sisco    ]: (A)
 
 C
 CURIOUS                                         [  curious   ]: (A)

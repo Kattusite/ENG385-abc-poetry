@@ -7,6 +7,19 @@ in_dir = './abcbook_texts/'
 out_dir = './abcbook_clean/'
 
 
+def cleaner(s, res):
+    """A helper function for cleaning individual texts that e.g. need line breaks
+    added in. I've been calling it manually in IDLE."""
+
+    s = s.strip()
+    for (src, tgt) in res:
+        s = re.sub(src, tgt, s)
+
+    lns = s.split("\n")
+    for ln in lns:
+        print(ln.strip())
+
+
 def cleanText(txt):
     """Cleans an entire multiline text (as a string) and returns the clean string.
 

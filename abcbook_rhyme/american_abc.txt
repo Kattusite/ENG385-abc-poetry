@@ -4,16 +4,16 @@ The land I love                                 [    love    ]: (B)
 
 A
 AN AMERICAN ABC                                 [    abc     ]: (A)
-By Maud and Miska Petersham                     [ petersham* ]: (B)
+By Maud and Miska Petersham                     [    sham    ]: (B)
 
 A
 An American ABC                                 [    abc     ]: (A)
-By Maud and Miska Petersham                     [ petersham* ]: (B)
+By Maud and Miska Petersham                     [    sham    ]: (B)
 New York The Macmillan Company 1941             [    five    ]: (C)
 
 A
 An American ABC                                 [    abc     ]: (A)
-By Maud and Miska Petersham                     [ petersham* ]: (B)
+By Maud and Miska Petersham                     [    sham    ]: (B)
 Two favorite authors present a panorama of our national heritage. “A is for America, the land we love” and B,—C,—D— and all the rest of the alphabet, represent those people, events, and attributes, that have made our country, and for which it stands. Finally ”Z” is for zeal”— the zeal that discovered America, that built it and that keeps it today. a land of liberty and freedom.   [  freedom   ]: (C)
 Twenty-six beautiful full page illustrations in color face twenty-six dramatic stories of the American spirit. We read of Columbus and Washington and Lincoln,—of Freedom and Independence,—of Old Glory and our National Anthem, —of the Liberty Bell and of Valley Forge. Text and pictures together make a treasure house of America’s story.   [   story    ]: (D)
 Here is a gay book but a serious one—a simple book but a book of great distinction. Here is a beautiful book planned first as a picture book for small children, but which will also interpret our country to newcomers from foreign lands, a book for every American whether he be five or fifty.   [   fifty    ]: (E)
@@ -441,7 +441,7 @@ This is America                                 [  america   ]: (A)
 T
 This is one of the twenty-six color plates in this outstanding picture book—   [    book    ]: (A)
 An American                                     [  american  ]: (B)
-By Maud and Miska Petersham                     [ petersham* ]: (C)
+By Maud and Miska Petersham                     [    sham    ]: (C)
 Two favorite authors present a panorama of our national heritage. “A is for America, the land we love” and B, —C, —D—and all the rest of the alphabet, represent those people, events, and attributes, that have made our country, and for which it stands. Finally ”Z is for zeal”—the zeal that discovered America, that built it and that keeps it today, a land of liberty and freedom.   [  freedom   ]: (D)
 Twenty-six beautiful full page illustrations in color face twenty-six dramatic stories of the American spirit. We read of Columbus and Washington and Lincoln,—of Freedom and Independence, —of Old Glory and our National Anthem,—of the Liberty Bell and of Valley Forge. Text and pictures together make a treasure house of America’s story.   [   story    ]: (E)
 Here is a gay book but a serious one—a simple book but a book of great distinction. Here is a beautiful book planned first as a picture book for small children, but which will also interpret our country to newcomers from foreign lands, a book for every American whether he be five or fifty.   [   fifty    ]: (F)
@@ -510,7 +510,7 @@ to protect, and to defend the Constitution of the   [    the     ]: (F)
 United States of America.                       [  america   ]: (S)
 
 X
-X is for XMAS                                   [   xmas*    ]: (A)
+X is for XMAS                                   [    mas     ]: (A)
 and Xmas means Christmas                        [ christmas  ]: (B)
 This great holiday is a day of joy and happiness   [ happiness  ]: (C)
 for all the Christian world.                    [   world    ]: (D)

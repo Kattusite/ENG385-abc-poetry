@@ -51,7 +51,7 @@ Or your clothes may soon be torn.               [    torn    ]: (B)
 H
 H for Hog an ugly thing,                        [   thing    ]: (A)
 Nasty food to him they bring,                   [   bring    ]: (A)
-And before he eats he wallows,                  [  wallows*  ]: (B)
+And before he eats he wallows,                  [   allows   ]: (B)
 Grunting as he quickly swallows.                [  swallows  ]: (C)
 
 I

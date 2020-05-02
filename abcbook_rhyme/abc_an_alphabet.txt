@@ -68,7 +68,7 @@ LITTLE ONE COME AND LOOK                        [    look    ]: (D)
 PRETTY PICTURES IN A BOOK                       [    book    ]: (D)
 LITTLE BOYS AND GIRLS AT PLAY                   [    play    ]: (E)
 MANY RHYMES TO LEARN SOME DAY                   [    day     ]: (E)
-GECG                                            [   gecg*    ]: (F)
+GECG                                            [     g      ]: (A)
 
 I
 I SEE A HEN AND CHICKENS JUST LISTEN HOW SHE CLUCKS   [   clucks   ]: (A)
@@ -131,7 +131,7 @@ SEE THE NAUGHTY WIND HAS BLOWN HER HAT AWAY     [    away    ]: (A)
 
 X
 X IS SO SIMPLE YOU WILL KNOW IT AT ONCE         [    once    ]: (A)
-AND NEVER FORGET IT UNLESS YOU'RE A DUNCE       [   dunce*   ]: (B)
+AND NEVER FORGET IT UNLESS YOU'RE A DUNCE       [     ce     ]: (B)
 
 Y
 Y FOR THE YARD WHERE LIVE THE FOWLS AND DUCKS   [   ducks    ]: (A)
@@ -147,7 +147,7 @@ DON'T FORGET WHILE YOU'RE AT PLAY               [    play    ]: (D)
 ALL THE THINGS YOU'VE LEARNT TODAY              [   today    ]: (D)
 GOOD-BYE CHILDREN OFF YOU RUN                   [    run     ]: (C)
 FOR MY LITTLE BOOK IS DONE                      [    done    ]: (C)
-GECG                                            [   gecg*    ]: (E)
+GECG                                            [     g      ]: (B)
 
 ABC
 THIS BOOK WAS WRITTEN AND PICTURED BY MRS. ARTHUR GASKIN AND FINISHED BY HER ON THE 10TH DAY OF JULY 1895   [    five    ]: (A)

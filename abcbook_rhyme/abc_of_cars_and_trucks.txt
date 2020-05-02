@@ -90,7 +90,7 @@ U
 U is for UTILITY TRUCK,                         [   truck    ]: (A)
 an all-around worker.                           [   worker   ]: (B)
 With pliers and wires,                          [   wires    ]: (C)
-it’s never a shirker.                           [  shirker*  ]: (D)
+it’s never a shirker.                           [    ker     ]: (D)
 
 V
 V is for VAN for the circus in town.            [    town    ]: (A)

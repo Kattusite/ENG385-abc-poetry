@@ -37,7 +37,7 @@ sweet taste of sushi, the cushion of tatami mats under your bare feet, the peace
 of a Zen garden.                                [   garden   ]: (W)
 
 A
-AIKIDO                                          [  aikido*   ]: (A)
+AIKIDO                                          [    kido    ]: (A)
 Imagine that you know every move your           [    your    ]: (B)
 opponent is going to make. Now imagine          [  imagine   ]: (C)
 your opponent pushing you. Don't push back, pull him toward you—   [    you     ]: (D)
@@ -48,7 +48,7 @@ own moves against him. Aikido comes from martial arts that are over   [    over 
 practiced all over the world by ordinary men and women and even children.   [  children  ]: (I)
 
 B
-BUNRAKU                                         [  bunraku*  ]: (A)
+BUNRAKU                                         [     ku     ]: (A)
 A night at the bunraku puppet                   [   puppet   ]: (B)
 theater is a dramatic trip back                 [    back    ]: (C)
 in time. The puppets are half-life-size wooden dolls operated by three   [   three    ]: (D)
@@ -59,7 +59,7 @@ are so compelling and the puppeteers and chanter so skillful, that you forget   
 these are dolls and are soon caught up in their struggles to be honorable people.   [   people   ]: (I)
 
 C
-CHANOYU                                         [  chanoyu*  ]: (A)
+CHANOYU                                         [     yu     ]: (A)
 There was a time when                           [    when    ]: (B)
 chanoyu, the tea ceremony,                      [  ceremony  ]: (C)
 was performed only by Zen priests and samurai warriors, but now   [    now     ]: (D)
@@ -70,7 +70,7 @@ movements of the person who prepares and serves the tea, even how the dishes   [
 are cleaned and put away— that the ceremony is also a performance.   [performance ]: (I)
 
 D
-DARUMA                                          [  daruma*   ]: (A)
+DARUMA                                          [    uma     ]: (A)
 The next time you have a goal,                  [    goal    ]: (B)
 perhaps to do well on a test, you               [    you     ]: (C)
 may want to buy a daruma doll. They are made from papier-mache and   [    and     ]: (D)
@@ -98,10 +98,10 @@ possible. In a traditional Japanese home, one room is used for many   [    many 
 purposes such as living, dining, and sleeping. You sleep on a thick cotton   [   cotton   ]: (E)
 pad or futon, which is folded up in the morning and stored in a closet   [   closet   ]: (F)
 until bedtime. The floors are covered with woven straw mats called   [   called   ]: (G)
-tatami, and instead of chairs there are cushions on the tatami.   [  tatami*   ]: (H)
+tatami, and instead of chairs there are cushions on the tatami.   [    tami    ]: (H)
 
 G
-GENKAN                                          [  genkan*   ]: (A)
+GENKAN                                          [    kan     ]: (A)
 The small entryway between the                  [    the     ]: (B)
 street and the main living room is              [     is     ]: (C)
 the genkan. To keep the tatami clean, when you come into the house   [   house    ]: (D)
@@ -123,7 +123,7 @@ year on August 6th people float lanterns past the Atomic Dome to remember   [  r
 those who died and pray for lasting peace.      [   peace    ]: (I)
 
 I
-ICHINISAN                                       [ ichinisan* ]: (A)
+ICHINISAN                                       [    san     ]: (A)
 literally means "one two                        [    two     ]: (B)
 three," or counting. You                        [    you     ]: (B)
 can learn to count from one to ten in Japanese. Begin at the upper right   [   right    ]: (C)
@@ -134,12 +134,12 @@ are often based on ancient symbols called pictographs. Can you see where   [   w
 one, two, and three come from?                  [    from    ]: (H)
 
 J
-JANKEN                                          [  janken*   ]: (A)
+JANKEN                                          [    ken     ]: (A)
 Have you ever played the game rock,             [    rock    ]: (B)
 scissors, paper? Japanese children do           [     do     ]: (C)
 too. They call it janken and when they play they call out, “Jan, ken, pon.”   [    pon     ]: (D)
 Sometimes it's the same game American children play, but other times   [   times    ]: (E)
-it's a way to decide whose turn is next, sort of like “Eenie, meenie, minie,   [   minie*   ]: (F)
+it's a way to decide whose turn is next, sort of like “Eenie, meenie, minie,   [    nie     ]: (F)
 moe.” The name comes from the word ken, which means fist.   [    fist    ]: (G)
 
 K
@@ -154,14 +154,14 @@ eight rectangular panels without waste and stitched together with straight   [  
 seams. Some kimonos are so beautiful they are considered national treasures.   [ treasures  ]: (I)
 
 M
-MOJI                                            [   moji*    ]: (A)
+MOJI                                            [    oji     ]: (A)
 means system of writing. In the middle column   [   column   ]: (B)
 above the kanji characters for “sun” and “root” or   [     or     ]: (C)
 “origin” are combined to make Nippon, which means the land of the   [    the     ]: (D)
 rising sun, or Japan. Kanji are Chinese characters which are based on   [     on     ]: (E)
 pictographs. Only about 2,000 kanji are used regularly, but there are over   [    over    ]: (F)
 45,000 in a complete dictionary. To the left of the kanji are the sounds for   [    for     ]: (G)
-Nippon in two phonetic alphabets: hiragana for Japanese words, and katakana   [ katakana*  ]: (H)
+Nippon in two phonetic alphabets: hiragana for Japanese words, and katakana   [   akana    ]: (H)
 for words borrowed from Western languages. Kanji, hiragana, and katakana are   [    are     ]: (C)
 all used in Japanese writing, sometimes in the same sentence.   [  sentence  ]: (I)
 
@@ -198,7 +198,7 @@ but only adults can go into pachinko parlors where they play to win small   [   
 prizes. Millions of Japanese play pachinko every day.   [    day     ]: (H)
 
 R
-RANDOSERU                                       [ randoseru* ]: (A)
+RANDOSERU                                       [     ru     ]: (A)
 As a child in Japan,                            [   japan    ]: (B)
 your randoseru or                               [     or     ]: (C)
 knapsack follows you through school. It has compartments for books,   [   books    ]: (D)
@@ -206,7 +206,7 @@ pencils, and lunch. These little girls are probably six and just starting first 
 grade. After several years their randoseru will be battered and worn, a sign   [    sign    ]: (F)
 they are good students and carry lots of books between home and school.   [   school   ]: (G)
 Knapsacks were introduced into Japan by the Dutch, and randoseru is how   [    how     ]: (H)
-the Japanese pronounce the Dutch word for knapsack, “ransel."   [  ransel*   ]: (I)
+the Japanese pronounce the Dutch word for knapsack, “ransel."   [   ansel    ]: (I)
 
 R
 Ruth Wells grew up on a farm and                [    and     ]: (A)
@@ -247,14 +247,14 @@ Isn't this plate of sushi beautiful? For a sushi chef, the way a meal looks is a
 as important as how it tastes.                  [   tastes   ]: (I)
 
 T
-TANGO NO SEKKU                                  [   sekku*   ]: (A)
+TANGO NO SEKKU                                  [     ku     ]: (A)
 There are many festival days in Japan and some of the most colorful   [  colorful  ]: (B)
 are for children. For centuries Boys Day, Tango no Sekku, was celebrated   [ celebrated ]: (C)
 May 5th, but it is now considered Children's Day. Families fly carp   [    carp    ]: (D)
 streamers in their gardens and display warrior dolls in their homes. Girls   [   girls    ]: (E)
 Day or the Doll Festival, Momo no Sekku, is celebrated March 3rd. On   [     on     ]: (F)
-November 15th, Shichigosan, parents take children who are 7, 5, or 3 to   [     to     ]: (G)
-shrines to give thanks that their children have reached these ages.   [    ages    ]: (H)
+November 15th, Shichigosan, parents take children who are 7, 5, or 3 to   [     to     ]: (A)
+shrines to give thanks that their children have reached these ages.   [    ages    ]: (G)
 
 T
 This book begins on the other side.             [    side    ]: (A)
@@ -274,7 +274,7 @@ Printer who mixes the inks, paints them onto the woodblocks, and prints them   [
 one by one onto the paper.                      [   paper    ]: (I)
 
 W
-WOKUMAN                                         [  wokuman*  ]: (A)
+WOKUMAN                                         [    man     ]: (A)
 A Japanese company                              [  company   ]: (B)
 called Sony invented the                        [    the     ]: (C)
 compact tape player and light-weight headphones that go everywhere.   [ everywhere ]: (D)

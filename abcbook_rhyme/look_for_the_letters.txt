@@ -16,13 +16,13 @@ D
 Dear                                            [    dear    ]: (A)
 (Please fill in your name because this is a letter for you )   [    you     ]: (B)
 This la an ALPHABET BOOK. Of course you know Alphabet books. They have pictures which stand for the letters, one or more pictures for each letter from A to 2. That goes for this book too. But there'a something new besides.   [  besides   ]: (C)
-First, there are not only pictures for the letter a word begins with, (as the "E" In Elephant or the "0" In Oeeae) but there are also pictures for the letter when it comes in tho middle of a word or at the end, as the *e" In Cherry or the "g" In Bug. We have to have those too, because otherwise Instead of a Cherry we would have a Chrry and Instead of a Bug we'd only have a Bu...   [    bu*     ]: (D)
-There's another thing NEW In this book. The pictures don't Just stand for the letters. No, the letters are really in the pictures. They are pert of them. There is a real "E" In the picture of the Elephant and a real "g" In the picture of the Bug. You will find it when you look for it. It's always a Capital letter if the word starts with it (as tho "E" In Elephant) and a lower case letter if it is in the word or at tho end.   [    end     ]: (E)
-Now perhaps you think that all you have to do is to read the sentence at the bottom of each page to find all the letters. But no, there are quite a few more letters hidden. In the Ostrich picture for Instance, can you sec the "o"s In the flowers on the ground? or the r s In the trees on the page where Ralph Is rowing his Rowboat? But I am not going to give myself away. You will have to find out for yourself.   [  yourself  ]: (F)
-There's one moro thing. The loft hand pages all through tho book show how you can do these Plctures-wlth-the-letters-In-them yourself. It's quite easy. And you can use a colored pencil for the letter Itself and an ordinary black pencil for all the dots and lines which make up tho picture, like this:   [    this    ]: (G)
-And now have fun while you LOOK FOR THE LETTERS'.   [ letters'*  ]: (H)
-With many kind regards                          [  regards   ]: (I)
-H.A. Key                                        [    key     ]: (J)
+First, there are not only pictures for the letter a word begins with, (as the "E" In Elephant or the "0" In Oeeae) but there are also pictures for the letter when it comes in tho middle of a word or at the end, as the *e" In Cherry or the "g" In Bug. We have to have those too, because otherwise Instead of a Cherry we would have a Chrry and Instead of a Bug we'd only have a Bu...   [     u      ]: (B)
+There's another thing NEW In this book. The pictures don't Just stand for the letters. No, the letters are really in the pictures. They are pert of them. There is a real "E" In the picture of the Elephant and a real "g" In the picture of the Bug. You will find it when you look for it. It's always a Capital letter if the word starts with it (as tho "E" In Elephant) and a lower case letter if it is in the word or at tho end.   [    end     ]: (D)
+Now perhaps you think that all you have to do is to read the sentence at the bottom of each page to find all the letters. But no, there are quite a few more letters hidden. In the Ostrich picture for Instance, can you sec the "o"s In the flowers on the ground? or the r s In the trees on the page where Ralph Is rowing his Rowboat? But I am not going to give myself away. You will have to find out for yourself.   [  yourself  ]: (E)
+There's one moro thing. The loft hand pages all through tho book show how you can do these Plctures-wlth-the-letters-In-them yourself. It's quite easy. And you can use a colored pencil for the letter Itself and an ordinary black pencil for all the dots and lines which make up tho picture, like this:   [    this    ]: (F)
+And now have fun while you LOOK FOR THE LETTERS'.   [ letters'*  ]: (G)
+With many kind regards                          [  regards   ]: (H)
+H.A. Key                                        [    key     ]: (I)
 
 D
 Donald's daddy drives a sled drawn by three red reindeer   [  reindeer  ]: (A)
@@ -68,7 +68,7 @@ By combining the qualities of a truly delightful picture^ame book with the very 
 HARPER &amp; BROTHERS. Publishers               [ publishers ]: (D)
 
 N
-Nelly the nurse springs and I need new nightgown   [ nightgown* ]: (A)
+Nelly the nurse springs and I need new nightgown   [    gown    ]: (A)
 
 O
 Other Harper Books                              [   books    ]: (A)
@@ -82,7 +82,7 @@ TIT FOR TAT                                     [    tat     ]: (G)
 HUMPTY DUMPTY, and Other Mother Goose Songs     [   songs    ]: (I)
 "Charming song book of nursery rhymes . . . gay. colorful style. . . . The melodies are appealing and singable."—Library Journal.   [  journal   ]: (J)
 WE THREE KINGS                                  [   kings    ]: (K)
-"A cheery selection of old. familiar and favorite Christmas carols. ... It is full of the Christmas spirit and there's a chuckle on each picture |&gt;age; it will be fun for family sings." —Virginia Kirkus.   [  kirkus*   ]: (L)
+"A cheery selection of old. familiar and favorite Christmas carols. ... It is full of the Christmas spirit and there's a chuckle on each picture |&gt;age; it will be fun for family sings." —Virginia Kirkus.   [    kus     ]: (L)
 No. 5M9*                                        [    five    ]: (M)
 
 R

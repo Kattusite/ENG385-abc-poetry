@@ -2,7 +2,7 @@ A
 A stands for Adam, the parent of all;           [    all     ]: (A)
 
 A
-Aa Bb                                           [    bb*     ]: (A)
+Aa Bb                                           [     b      ]: (A)
 
 B
 B for Belshazzar, who trembled with fear,       [    fear    ]: (A)
@@ -20,7 +20,7 @@ his God more than men,                          [    men     ]: (B)
 Was saved quite unhurt in the fierce lion’s den.   [    den     ]: (B)
 
 D
-Dd Ee Ff                                        [    ff*     ]: (A)
+Dd Ee Ff                                        [     f      ]: (A)
 
 E
 E was Esau, who being with hunger half dead,    [    dead    ]: (A)
@@ -31,8 +31,8 @@ F was the Feast where our Saviour, benign,      [   benign   ]: (A)
 By his Divine power, turned water to wine.      [    wine    ]: (A)
 
 G
-G was Goliath, the Giant, o’erthrown,           [o'erthrown* ]: (A)
-By young David's hand, with a sling and a stone.   [   stone    ]: (B)
+G was Goliath, the Giant, o’erthrown,           [   thrown   ]: (A)
+By young David's hand, with a sling and a stone.   [   stone    ]: (A)
 
 G
 
@@ -42,7 +42,7 @@ of Judea, in whose reign                        [   reign    ]: (B)
 Christ was born; and the Children of Bethlehem slain.   [   slain    ]: (B)
 
 H
-Hh Ii Jj                                        [    jj*     ]: (A)
+Hh Ii Jj                                        [     j      ]: (A)
 
 I
 I was Isaac, whom Abraham for sacrifice bound.   [   bound    ]: (A)
@@ -64,7 +64,7 @@ Jacob fourteen years staid,                     [   staid    ]: (B)
 That Leah’s sister, fair Rachel, his wife might he made.   [    made    ]: (B)
 
 L
-Ll Mm Nn                                        [    nn*     ]: (A)
+Ll Mm Nn                                        [     n      ]: (A)
 
 M
 M was Moses, who filled the King Pharoah with dread.   [   dread    ]: (A)
@@ -86,7 +86,7 @@ whom our Savior was brought,                    [  brought   ]: (B)
 When his life by the priests and the people was sought.   [   sought   ]: (B)
 
 P
-Pp Qq Rr                                        [    rr*     ]: (A)
+Pp Qq Rr                                        [     r      ]: (A)
 
 Q
 Q was the Queen, who, allured by the fame       [    fame    ]: (A)
@@ -164,7 +164,7 @@ I shall never forget my feelings at the first sight of London. I came from Hull 
 We landed at the Tower Steps; and as I had often seen pictures of the famous Tower of London, I knew the building in a moment. I made up my mind to see it as soon as I could.   [   could    ]: (C)
 
 T
-Tt Uu Vv                                        [    vv*     ]: (A)
+Tt Uu Vv                                        [     v      ]: (A)
 
 U
 U was Uzza, struck lifeless by heavenly might.   [   might    ]: (A)
@@ -186,7 +186,7 @@ to which once cruel men                         [    men     ]: (B)
 Did Jesus, our Lord, and our Saviour, condemn.   [  condemn   ]: (C)
 
 X
-Xx Yy                                           [    yy*     ]: (A)
+Xx Yy                                           [     y      ]: (A)
 
 Y
 Y for the years in the winderness spent,        [   spent    ]: (A)

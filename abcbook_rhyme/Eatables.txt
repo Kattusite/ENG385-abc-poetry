@@ -41,8 +41,8 @@ K is a Kidney, nice if well broil'd,            [  broiled   ]: (A)
 But burn it too much and 'tis sure to be spoil'd.   [  spoiled   ]: (A)
 
 L
-L is a Lobster, he must not be o'erlooked,      [o'erlooked* ]: (A)
-Tho' mind how you touch him before he is cook'd.   [   cooked   ]: (B)
+L is a Lobster, he must not be o'erlooked,      [   looked   ]: (A)
+Tho' mind how you touch him before he is cook'd.   [   cooked   ]: (A)
 
 M
 M stands for Mutton, do pray boil the leg,      [    leg     ]: (A)
@@ -53,8 +53,8 @@ N is the Nectarine, sweetest of fruit,          [   fruit    ]: (A)
 For dessert after dinner 'twill you and I suit.   [    suit    ]: (A)
 
 O
-O is an Oyster, to please all beholders,        [ beholders* ]: (A)
-As a capital sauce to the Cod's head and shoulders.   [ shoulders  ]: (B)
+O is an Oyster, to please all beholders,        [  holders   ]: (A)
+As a capital sauce to the Cod's head and shoulders.   [ shoulders  ]: (A)
 
 P
 P stands for ..., of my dinner I've ...         [    i've    ]: (A)
@@ -89,8 +89,8 @@ W is the Wine your dinner to crown,             [   crown    ]: (A)
 Only don't take too much to wash it all down.   [    down    ]: (A)
 
 X
-X is the letter I thought to o'erlook,          [ o'erlook*  ]: (A)
-Bit it means a good thing, an ex-cellent cook.   [    cook    ]: (B)
+X is the letter I thought to o'erlook,          [    look    ]: (A)
+Bit it means a good thing, an ex-cellent cook.   [    cook    ]: (A)
 
 Y
 Y is the Youth with Appetite rare,              [    rare    ]: (A)

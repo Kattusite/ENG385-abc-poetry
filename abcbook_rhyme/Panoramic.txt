@@ -28,7 +28,7 @@ Now silenced by Peace is its terrible rattle.   [   rattle   ]: (A)
 
 H
 H for the Hands now in treaty united;           [   united   ]: (A)
-May discord ne’er sunder the friendship thus plighted!   [ plighted*  ]: (B)
+May discord ne’er sunder the friendship thus plighted!   [  lighted   ]: (A)
 
 I
 I is for Industry. Welcome be Peace!            [   peace    ]: (A)
@@ -44,7 +44,7 @@ Of Peace come again to rejoice all the nation.   [   nation   ]: (A)
 
 L
 L for sweet Love, in our homes now at rest,     [    rest    ]: (A)
-No more by the chances of battle distrest.      [ distrest*  ]: (B)
+No more by the chances of battle distrest.      [   trest    ]: (A)
 
 M
 M for the Mortar; since Peace rules the day,    [    day     ]: (A)
@@ -86,10 +86,10 @@ DARTON AND CO., HOLBORN HILL.                   [    hill    ]: (D)
 
 U
 U is for soldiers and sailors United;           [   united   ]: (A)
-By Peace undisturbed be their service requited.   [ requited*  ]: (B)
+By Peace undisturbed be their service requited.   [    ted     ]: (B)
 
 V
-V for the Veteran; in Peace he tells o’er       [   o'er*    ]: (A)
+V for the Veteran; in Peace he tells o’er       [     er     ]: (A)
 The battles he fought on Crimea’s sad shore.    [   shore    ]: (B)
 
 W

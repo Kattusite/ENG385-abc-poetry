@@ -87,8 +87,8 @@ Q for the Quagga, a nice little fellow,         [   fellow   ]: (A)
 With a beautiful coat of striped black and yellow.   [   yellow   ]: (A)
 
 R
-R stands for Rabbit you'll know him, my dears,   [   dears*   ]: (A)
-By his very short tail and very long ears.      [    ears    ]: (B)
+R stands for Rabbit you'll know him, my dears,   [    ears    ]: (A)
+By his very short tail and very long ears.      [    ears    ]: (A)
 
 S
 S is for Squirrel who in the Ark tried          [   tried    ]: (A)

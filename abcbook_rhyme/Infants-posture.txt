@@ -3,8 +3,8 @@ Come here, my boy, and tell me, pray,           [    pray    ]: (A)
 Is not this just like an A ?                    [     a      ]: (A)
 
 B
-Spur-red and boot-ed, quite a Dan-dy,           [    dy*     ]: (A)
-See, he makes great B, for bran-dy.             [    dy*     ]: (A)
+Spur-red and boot-ed, quite a Dan-dy,           [     y      ]: (A)
+See, he makes great B, for bran-dy.             [     y      ]: (A)
 
 C
 It makes one laugh a man to see,                [    see     ]: (A)
@@ -25,7 +25,7 @@ London:                                         [   london   ]: (C)
 PRINTED BY AND FOR HODGSON & CO.                [     co     ]: (D)
 JUVENILE PRESS,                                 [   press    ]: (E)
 No. 10, NEWGATE STREET.                         [   street   ]: (F)
-SIXPENCE.                                       [ sixpence*  ]: (G)
+SIXPENCE.                                       [   pence    ]: (G)
 
 F
 With emp-ty hot-tie, once so jol-ly,            [     ly     ]: (A)

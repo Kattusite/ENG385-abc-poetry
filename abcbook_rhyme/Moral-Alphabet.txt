@@ -6,8 +6,8 @@ That Good can even browse upon its leaves.      [   leaves   ]: (A)
 I doubt it. . . .                               [     it     ]: (B)
 
 *
-* Von Kettner writes it "Zébu"; Wurst "Zebu":   [   zebu*    ]: (A)
-I split the difference and use the two.         [    two     ]: (B)
+* Von Kettner writes it "Zébu"; Wurst "Zebu":   [     u      ]: (A)
+I split the difference and use the two.         [    two     ]: (A)
 
 *
 * We have good reason to suppose He did so, from his claw-like toes.   [    toes    ]: (A)
@@ -25,13 +25,13 @@ TO SEVEN SYLLABLES                              [ syllables  ]: (C)
 
 A
 A second cousin to the Huge Wild Boar.          [    boar    ]: (A)
-But Pigs arc civilized, while Huge Wild Boars   [   boars*   ]: (B)
-Live savagely, at random, out of doors.         [   doors    ]: (C)
-And, in their coarse contempt for dainty foods,   [   foods    ]: (D)
-Subsist on Truffles, which they find in woods.   [   woods    ]: (E)
-Not so the cultivated Pig, who feels            [   feels    ]: (F)
-The need of several courses at his meals.       [   meals    ]: (F)
-But wrongly thinks it docs not matter whether   [  whether   ]: (G)
+But Pigs arc civilized, while Huge Wild Boars   [    oars    ]: (B)
+Live savagely, at random, out of doors.         [   doors    ]: (B)
+And, in their coarse contempt for dainty foods,   [   foods    ]: (C)
+Subsist on Truffles, which they find in woods.   [   woods    ]: (D)
+Not so the cultivated Pig, who feels            [   feels    ]: (E)
+The need of several courses at his meals.       [   meals    ]: (E)
+But wrongly thinks it docs not matter whether   [  whether   ]: (F)
 
 A
 A stands for Archibald who told no lies,        [    lies    ]: (A)
@@ -90,9 +90,9 @@ B
 BY THE SAME AUTHORS.                            [  authors   ]: (A)
 
 B
-But oh ! the Good ! They wander undismayed,     [undismayed* ]: (A)
-And (as the Subtle Artist has portrayed)        [ portrayed  ]: (B)
-Dispend the golden hours at play beneath its shade.*   [   shade    ]: (B)
+But oh ! the Good ! They wander undismayed,     [  dismayed  ]: (A)
+And (as the Subtle Artist has portrayed)        [ portrayed  ]: (A)
+Dispend the golden hours at play beneath its shade.*   [   shade    ]: (A)
 
 B
 But the very first lines upon "A" were enough   [   enough   ]: (A)
@@ -258,7 +258,7 @@ If Humanity seems to have left you behind.      [   behind   ]: (B)
 
 M
 MORE BEASTS (FOR WORSE CHILDREN).               [  children  ]: (A)
-Demy 4to 3s. 6d.                                [   fived*   ]: (B)
+Demy 4to 3s. 6d.                                [     ed     ]: (B)
 
 M
 Make up your mind at once between               [  between   ]: (A)
@@ -344,7 +344,7 @@ And not put out your Horns on all occasions.    [ occasions  ]: (C)
 
 M
 Moral.                                          [   moral    ]: (A)
-Learn from this information not to cavil        [   cavil*   ]: (B)
+Learn from this information not to cavil        [     il     ]: (B)
 At slight mistakes in books on foreign travel.   [   travel   ]: (C)
 
 M
@@ -436,7 +436,7 @@ In Peckham, where he writes Italian Guides.     [   guides   ]: (A)
 
 T
 THE MODERN TRAVELLER.                           [ traveller  ]: (A)
-Fcap. 4to 3s. 6d.                               [   fived*   ]: (B)
+Fcap. 4to 3s. 6d.                               [     ed     ]: (B)
 
 T
 The Bear, with ill-concealed delight,           [  delight   ]: (A)
@@ -537,8 +537,8 @@ You have not got to Youth, but when you do      [     do     ]: (D)
 You'll find what He and 1 have said is true.    [    true    ]: (D)
 
 Z
-for this Zébu, who (like all Zebús)*            [   zebús*   ]: (A)
-Is held divine by scrupulous Hindoos.           [  hindoos*  ]: (B)
+for this Zébu, who (like all Zebús)*            [     s      ]: (A)
+Is held divine by scrupulous Hindoos.           [     os     ]: (B)
 
 r
 reviewing my book,                              [    book    ]: (A)

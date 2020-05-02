@@ -1,5 +1,5 @@
 I
-Is for Zylophone,                               [ zylophone* ]: (A)
+Is for Zylophone,                               [   phone    ]: (A)
 Mellow and sweet — When played by an artist, A musical treat.   [   treat    ]: (B)
 
 ﻿
@@ -15,7 +15,7 @@ Just plain D-O-G, Though quite a fine actor He’s gotten to be.   [     be     
 Is for Engine Room —                            [    room    ]: (8)
 Clean, wholesome and bright A marvel of neatness —   [  neatness  ]: (9)
 A wonderful sight.                              [   sight    ]: (10)
-For Fadettes —                                  [ fadettes*  ]: (11)
+For Fadettes —                                  [     es     ]: (11)
 Fair, feminine band; Who play popular music And opera grand,   [   grand    ]: (12)
 Stands for" Girl —                              [    girl    ]: (13)
 The matinee queen In her most stunning raiment At Keith’s can be seen.   [    seen    ]: (14)
@@ -29,7 +29,7 @@ Stands for Keith,                               [   keith    ]: (20)
 The Vaudeville King — Let’s wish him long life, While his praises we sing.   [    sing    ]: (16)
 Stands for Leader,                              [   leader   ]: (21)
 Who, baton in hand, While he watches the stage Is directing the band.   [    band    ]: (12)
-For Monologist,                                 [monologist* ]: (22)
+For Monologist,                                 [    gist    ]: (22)
 Rich with story and jest, Makes you laugh till you cry— To tired brains he brings rest.   [    rest    ]: (23)
 Is for Necromancer,                             [necromancer ]: (24)
 Who baffles at will With his feats of black art And his wonderful skill.   [   skill    ]: (25)
@@ -52,7 +52,7 @@ So courteous, polite — He helps make your visit A constant delight.   [  delig
 Stands for Vaudeville, Varied and bright — A gay pot-pourri That satisfies quite.   [   quite    ]: (10)
 For Wreath,                                     [   wreath   ]: (20)
 And the laurel you know, Belongs without question To the Keith Theatre show,   [    show    ]: (32)
-Is for Xmas —                                   [   xmas*    ]: (37)
+Is for Xmas —                                   [    mas     ]: (37)
 Best day of the year —                          [    year    ]: (38)
 It gladdens the heart,                          [   heart    ]: (33)
 Brings to all much good cheer.                  [   cheer    ]: (38)

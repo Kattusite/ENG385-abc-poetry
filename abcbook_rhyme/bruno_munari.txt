@@ -6,10 +6,10 @@ B
 a Blue Butterfly                                [ butterfly  ]: (A)
 
 B
-Bruno Munari’s                                  [ munari's*  ]: (A)
+Bruno Munari’s                                  [    i's     ]: (A)
 
 B
-Bruno Munari’s                                  [ munari's*  ]: (A)
+Bruno Munari’s                                  [    i's     ]: (A)
 A stunning picture book in full                 [    full    ]: (B)
 color by “a many-sided genius                   [   genius   ]: (C)
 who turns everything he                         [     he     ]: (D)
@@ -20,7 +20,7 @@ Maria Cimino, New York Public Library           [  library   ]: (F)
 $3.50                                           [    five    ]: (H)
 
 B
-Bruno Munari’s                                  [ munari's*  ]: (A)
+Bruno Munari’s                                  [    i's     ]: (A)
 DEDICATION                                      [ dedication ]: (B)
 He who buys this book                           [    book    ]: (C)
 may make the dedication                         [ dedication ]: (B)
@@ -28,7 +28,7 @@ to the child who receives it                    [     it     ]: (D)
 
 C
 Bruno                                           [   bruno    ]: (A)
-Munari                                          [  munari*   ]: (B)
+Munari                                          [    ari     ]: (B)
 
 C
 a Crow                                          [    crow    ]: (A)
@@ -55,7 +55,7 @@ L
 and a Lemon                                     [   lemon    ]: (A)
 
 M
-Munari                                          [  munari*   ]: (A)
+Munari                                          [    ari     ]: (A)
 Bruno Munari is an Italian artist               [   artist   ]: (B)
 who has been acclaimed as a                     [     a      ]: (C)
 painter, sculptor, photographer,                [photographer]: (D)
@@ -86,7 +86,7 @@ Munari picture books                            [   books    ]: (A)
 ANIMALS FOR SALE                                [    sale    ]: (B)
 THE BIRTHDAY PRESENT                            [  present   ]: (C)
 THE ELEPHANT’S WISH                             [    wish    ]: (D)
-TIC, TAC, AND TOC                               [    toc*    ]: (E)
+TIC, TAC, AND TOC                               [     c      ]: (E)
 WHO'S THERE?                                    [   there    ]: (F)
 OPEN THE DOOR!                                  [    door    ]: (G)
 JIMMY HAS LOST HIS CAP                          [    cap     ]: (H)
@@ -118,8 +118,8 @@ Published simultaneously in Canada by           [     by     ]: (A)
 Nelson, Foster &amp; Scott Ltd.                 [    ltd     ]: (D)
 Library of Congress Catalog Card Number: 60-11461   [    five    ]: (E)
 First Edition                                   [  edition   ]: (F)
-COHW                                            [   cohw*    ]: (G)
-Copyright © 1960 by Bruno Munari                [  munari*   ]: (H)
+COHW                                            [     w      ]: (G)
+Copyright © 1960 by Bruno Munari                [    ari     ]: (H)
 All rights reserved. No part of this book may be reproduced   [ reproduced ]: (I)
 in any form without written permission from the publisher,   [ publisher  ]: (J)
 except for brief passages included in a review appearing in a   [     a      ]: (K)
@@ -164,7 +164,7 @@ a
 a Juggler                                       [  juggler   ]: (A)
 
 a
-a Knothole                                      [ knothole*  ]: (A)
+a Knothole                                      [   thole    ]: (A)
 between a Key                                   [    key     ]: (B)
 and a Knife                                     [   knife    ]: (C)
 
@@ -203,8 +203,8 @@ with a Wooden Wheel                             [   wheel    ]: (C)
 
 a
 a Yellow Yacht                                  [   yacht    ]: (A)
-zzzzz                                           [   zzzzz*   ]: (B)
-zzzz                                            [   zzzz*    ]: (C)
+zzzzz                                           [     z      ]: (B)
+zzzz                                            [     z      ]: (B)
 
 a
 a fly on a Voyage                               [   voyage   ]: (A)
@@ -237,7 +237,7 @@ and an Umbrella                                 [  umbrella  ]: (A)
 Under the Umbrella                              [  umbrella  ]: (A)
 
 f
-fly going Zzzz....                              [   zzzz*    ]: (A)
+fly going Zzzz....                              [     z      ]: (A)
 1 2 3 4 5 64 63 62 61 60                        [    five    ]: (B)
 
 s

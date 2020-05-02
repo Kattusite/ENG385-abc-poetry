@@ -13,7 +13,7 @@ A
 A xylophone, its player and the 25th of December account for 10 per cent of the words in this picture.   [  picture   ]: (A)
 
 A
-AFTERWORD                                       [ afterword* ]: (A)
+AFTERWORD                                       [    word    ]: (A)
 his is the book that changed my life. In retrospect it is evident that I achieved with it what I set out to do -- that is, Il to make people look at my pictures. And how they looked! Even today, more than six years after the book was first published, I am still receiving congratulatory letters from fascinated Ultimate Alphabeteers from all over the world. I am surprised and more than a little delighted at how hard they have looked too. In 1988 I published The Annotated Ultimate Alphabet with, what I thought at the time, the definitive list of the words to be found in the paintings, but people are constantly finding many more words in the images than even I thought were there. In that respect, The Ultimate Alphabet has acquired a life of its own and I am certain that people will continue to find new words in these images for many years to come.   [    come    ]: (B)
 And how the world has changed in those same six years. The Soviet Union, once the largest country in the world, has ceased to exist, Germany is now referred to in the singular and a plethora of new countries that I only knew from out-of-date atlases of my childhood have been reborn. I have not attempted to update the canvases to reflect this for it would be a very naïve person who predicts that the world will remain as it is today. In the same spirit I have not added to the total number of words that I consciously included in each picture. Look upon these figures as the minimum number of words depicted. See if you can find more - I am sure you can.   [    can     ]: (C)
 Autumn 1992                                     [    five    ]: (D)
@@ -63,7 +63,7 @@ F
 Find if you can a firedrake and an apt adjective, a flamingo, a flan, a farthingale and five famous flags. There is a flying boat (with fixtures), a flying fish, a flying lizard, a flying saucer and a piece of flying architecture. There are more flights of fancy to find and figures to fuss over. I painted 418 but you may well finish up with more.   [    more    ]: (A)
 
 F
-Find the numbers nine, nineteen and ninety twice over and name the constituents of the nosegay. There is also a nun, a nurse and a starry god of the deep among the 163 things in this nocturne.   [ nocturne*  ]: (A)
+Find the numbers nine, nineteen and ninety twice over and name the constituents of the nosegay. There is also a nun, a nurse and a starry god of the deep among the 163 things in this nocturne.   [     ne     ]: (A)
 
 F
 For children                                    [  children  ]: (A)
@@ -203,26 +203,26 @@ London                                          [   london   ]: (D)
 T
 The Ultimate Alphabet has become a classic puzzle book since it was first published in 1986, when it was an immediate bestseller. Hundreds of thousands of devotees have spent hours poring over the 26 extraordinary paintings that illustrate 8,050 objects, each beginning with the relevant letter of the alphabet. Some are easy to spot, some are more elusive and esoteric - the result of four years' intense work as the artist buried himself   [  himself   ]: (A)
 reading several multi-volume dicionaries and encyclopedias from cover to cover. With an almost surrealist juxtaposition of unrelated objects Cherub, Catapult, Cyclops; Shuttlecock, Sax and Suspenders - each of the paintings is a minutely-observed fantasy with its own haunting atmosphere. They take the reader on a magical and enriching journey through the English language.   [  language  ]: (B)
-sabretache                                      [sabretache* ]: (C)
+sabretache                                      [    ache    ]: (C)
 spook                                           [   spook    ]: (D)
-selachian                                       [ selachian* ]: (E)
+selachian                                       [    ian     ]: (E)
 spade somnolent                                 [ somnolent  ]: (F)
 salami                                          [   salami   ]: (G)
-siamang                                         [  siamang*  ]: (H)
+siamang                                         [    mang    ]: (H)
 sedan chair                                     [   chair    ]: (I)
-spinode shuttlecock                             [shuttlecock*]: (J)
+spinode shuttlecock                             [    cock    ]: (J)
 spectacled bear                                 [    bear    ]: (I)
-strig                                           [   strig*   ]: (K)
+strig                                           [    trig    ]: (K)
 starboard                                       [ starboard  ]: (L)
 Skye terrier                                    [  terrier   ]: (M)
 silhouette                                      [ silhouette ]: (N)
-Scye                                            [   scye*    ]: (O)
-saiga                                           [   saiga*   ]: (P)
+Scye                                            [     ye     ]: (O)
+saiga                                           [     ga     ]: (P)
 screamer                                        [  screamer  ]: (Q)
 scruple                                         [  scruple   ]: (R)
-sockeye                                         [  sockeye*  ]: (S)
+sockeye                                         [    keye    ]: (S)
 scorpion                                        [  scorpion  ]: (T)
-salomonica                                      [salomonica* ]: (U)
+salomonica                                      [   monica   ]: (U)
 stein                                           [   stein    ]: (V)
 I swag spokeshave squiggle sienna shilling shoe stag beetle How many more objects can you name in the above picture from THE ULTIMATE ALPHABET?   [  alphabet  ]: (W)
 Turn to the painting and you will be compelled to take up the challenge   [ challenge  ]: (X)
@@ -242,7 +242,7 @@ T
 The next stage was to produce a plethora of accurate but very basic drawings on flimsy paper to the final size of the individual elements that would be incorporated in the painting. These were done from as many sources of reference as I could find, so as to make the image as typical of the object depicted as possible. These drawings, often little more than outlines, would later be traced through onto the canvas where as much as ninety-nine per cent of the work took place. This procedure would be repeated at intervals during the creation of the picture.   [  picture   ]: (A)
 
 T
-The original paintings were created in alphabetical order. The larger paintings measure 30" x 40" (76 cm x 102 cm) and the smaller works 30" x 20" (76 cm x 51 cm).   [    cm*     ]: (A)
+The original paintings were created in alphabetical order. The larger paintings measure 30" x 40" (76 cm x 102 cm) and the smaller works 30" x 20" (76 cm x 51 cm).   [     m      ]: (A)
 
 T
 The overwhelming majority of the words depicted are current and modern although, please note, not all.   [    all     ]: (A)
@@ -269,7 +269,7 @@ This is the ultimate picture in this book and there are only 57 more steps remai
 one from the north? How many have you scored?   [   scored   ]: (B)
 
 T
-This painting is teeming with 430 Ts. There is a teapot, a teacup, a T-square and a T-shirt. There is a tortoise and members of his family, a tuba, a trombone, a trumpet and an unrelated practitioner of this instrument. There is also a set of literary twins, a telephone and a tractor towing a trailer. There are enough trees to traumatize any topiarist.   [ topiarist* ]: (A)
+This painting is teeming with 430 Ts. There is a teapot, a teacup, a T-square and a T-shirt. There is a tortoise and members of his family, a tuba, a trombone, a trumpet and an unrelated practitioner of this instrument. There is also a set of literary twins, a telephone and a tractor towing a trailer. There are enough trees to traumatize any topiarist.   [    rist    ]: (A)
 
 T
 Three kinds of king, a knight or two, a kite or two, a hole for knees and a hole for keys, a krill and a grampus escaped from the letter G. 105 Ks for you to find and name.   [    name    ]: (A)

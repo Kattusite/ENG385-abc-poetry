@@ -1,5 +1,164 @@
 A
-ABC FUN A is for auto. A wagon that goes With only a push From ten little toes. B is for blocks  For houses you build And when they fall down Nobody is killed. C is for cars That run ofa a track, And when they run off They always get back. D is for doll A little girl owns. It's body is stuffed Without any bones. E is for elephant, Rubber at that If you blow very hard It gets big and fat. F is for football The big boys can tell The fun you can have If you know how to yell. Julia's Verse. G is for graphophones Toy ones that say The things that you tell them The very next day. H is for hobby-horse Covered with hair. Some you can ride That rock like a chair. I is for Indian Doll dressed in leather, With knife in its belt And headdress of feather. J is for jumping jack. Just see it work! It hangs on a string And jumps when you jerk. K is for kitchen. All made of tin. That's what the pans And kettles hang in. L is for lobster That crawls on the ground. When wound tight enough It backs all around. M is for marbles, All shining and round. A game that boys play In a ring on the ground. N is for Noah. He built him an ark, And opened a zoo Like the one in the park. O is for orange, And that's just the size Of the big rubber ball I got as a prize. P is for piano, With black and white keys. It's not very big, But I play it with ease. Q is for quiet, And no boy is that When he has a good game With baseball and bat. R is for roller. A pretty tin toy That shows all the colors That please a small boy. S is for "shoofly." A seat and a throne For wee little folk Who can't stand alone. T is for trunk. Just open the lid And see all the dresses Within the trays hid. U is for umbrella. My doll has one, too. In the rain, if she had none, What would Dolly do? V is for velocipede, Boys like to ride. It's more fun than walking. Have you ever tried? W wagon— To push and to pull Both big ones and little, And they're always full. X is for xylophone, Easy to play. A hammer and metal Make music all day. Y is for yacht, All ready to sail. With canvas all spread In a lake or a pail. Z is for zebra. It needn't be big. In my Noah's ark There's also a pig.   [    pig     ]: (A)
+A is for auto.                                  [    auto    ]: (A)
+A wagon that goes                               [    goes    ]: (B)
+With only a push                                [    push    ]: (C)
+From ten little toes.                           [    toes    ]: (B)
+
+A
+ABC FUN                                         [    fun     ]: (A)
+
+B
+B is for blocks                                 [   blocks   ]: (A)
+For houses you build                            [   build    ]: (B)
+And when they fall down                         [    down    ]: (C)
+Nobody is killed.                               [   killed   ]: (B)
+
+C
+C is for cars                                   [    cars    ]: (A)
+That run ofa a track,                           [   track    ]: (B)
+And when they run off                           [    off     ]: (C)
+They always get back.                           [    back    ]: (B)
+
+D
+D is for doll                                   [    doll    ]: (A)
+A little girl owns.                             [    owns    ]: (B)
+It's body is stuffed                            [  stuffed   ]: (C)
+Without any bones.                              [   bones    ]: (B)
+
+E
+E is for elephant,                              [  elephant  ]: (A)
+Rubber at that                                  [    that    ]: (B)
+If you blow very hard                           [    hard    ]: (C)
+It gets big and fat.                            [    fat     ]: (D)
+
+F
+F is for football                               [  football  ]: (A)
+The big boys can tell                           [    tell    ]: (B)
+The fun you can have                            [    have    ]: (C)
+If you know how to yell.                        [    yell    ]: (B)
+
+G
+G is for graphophones                           [   phones   ]: (A)
+Toy ones that say                               [    say     ]: (B)
+The things that you tell them                   [    them    ]: (C)
+The very next day.                              [    day     ]: (B)
+
+H
+H is for hobby-horse                            [   horse    ]: (A)
+Covered with hair.                              [    hair    ]: (B)
+Some you can ride                               [    ride    ]: (C)
+That rock like a chair.                         [   chair    ]: (B)
+
+I
+I is for Indian Doll                            [    doll    ]: (A)
+dressed in leather,                             [  leather   ]: (B)
+With knife in its belt                          [    belt    ]: (C)
+And headdress of feather.                       [  feather   ]: (B)
+
+J
+J is for jumping jack.                          [    jack    ]: (A)
+Just see it work!                               [    work    ]: (B)
+It hangs on a string                            [   string   ]: (C)
+And jumps when you jerk.                        [    jerk    ]: (B)
+
+J
+Julia's Verse.                                  [   verse    ]: (A)
+
+K
+K is for kitchen.                               [  kitchen   ]: (A)
+All made of tin.                                [    tin     ]: (B)
+That's what the pans                            [    pans    ]: (C)
+And kettles hang in.                            [     in     ]: (B)
+
+L
+L is for lobster                                [  lobster   ]: (A)
+That crawls on the ground.                      [   ground   ]: (B)
+When wound tight enough                         [   enough   ]: (C)
+It backs all around.                            [   around   ]: (B)
+
+M
+M is for marbles,                               [  marbles   ]: (A)
+All shining and round.                          [   round    ]: (B)
+A game that boys play                           [    play    ]: (C)
+In a ring on the ground.                        [   ground   ]: (B)
+
+N
+N is for Noah.                                  [    noah    ]: (A)
+He built him an ark,                            [    ark     ]: (B)
+And opened a zoo                                [    zoo     ]: (C)
+Like the one in the park.                       [    park    ]: (B)
+
+O
+O is for orange,                                [   orange   ]: (A)
+And that's just the size                        [    size    ]: (B)
+Of the big rubber ball                          [    ball    ]: (C)
+I got as a prize.                               [   prize    ]: (B)
+
+P
+P is for piano,                                 [   piano    ]: (A)
+With black and white keys.                      [    keys    ]: (B)
+It's not very big,                              [    big     ]: (C)
+But I play it with ease.                        [    ease    ]: (B)
+
+Q
+Q is for quiet,                                 [   quiet    ]: (A)
+And no boy is that                              [    that    ]: (B)
+When he has a good game                         [    game    ]: (C)
+With baseball and bat.                          [    bat     ]: (D)
+
+R
+R is for roller.                                [   roller   ]: (A)
+A pretty tin toy                                [    toy     ]: (B)
+That shows all the colors                       [   colors   ]: (C)
+That please a small boy.                        [    boy     ]: (B)
+
+S
+S is for "shoofly."                             [  shoofly   ]: (A)
+A seat and a throne                             [   throne   ]: (B)
+For wee little folk                             [    folk    ]: (C)
+Who can't stand alone.                          [   alone    ]: (B)
+
+T
+T is for trunk.                                 [   trunk    ]: (A)
+Just open the lid                               [    lid     ]: (B)
+And see all the dresses                         [  dresses   ]: (C)
+Within the trays hid.                           [    hid     ]: (B)
+
+U
+U is for umbrella.                              [  umbrella  ]: (A)
+My doll has one, too.                           [    too     ]: (B)
+In the rain, if she had none,                   [    none    ]: (C)
+What would Dolly do?                            [     do     ]: (B)
+
+V
+V is for velocipede,                            [    ede     ]: (A)
+Boys like to ride.                              [    ride    ]: (B)
+It's more fun than walking.                     [  walking   ]: (C)
+Have you ever tried?                            [   tried    ]: (B)
+
+W
+W wagon—                                        [   wagon    ]: (A)
+To push and to pull                             [    pull    ]: (B)
+Both big ones and little,                       [   little   ]: (C)
+And they're always full.                        [    full    ]: (B)
+
+X
+X is for xylophone,                             [ xylophone  ]: (A)
+Easy to play.                                   [    play    ]: (B)
+A hammer and metal                              [   metal    ]: (C)
+Make music all day.                             [    day     ]: (B)
+
+Y
+Y is for yacht,                                 [   yacht    ]: (A)
+All ready to sail.                              [    sail    ]: (B)
+With canvas all spread                          [   spread   ]: (C)
+In a lake or a pail.                            [    pail    ]: (B)
+
+Z
+Z is for zebra.                                 [   zebra    ]: (A)
+It needn't be big.                              [    big     ]: (B)
+In my Noah's ark                                [    ark     ]: (C)
+There's also a pig.                             [    pig     ]: (B)
 
 
 

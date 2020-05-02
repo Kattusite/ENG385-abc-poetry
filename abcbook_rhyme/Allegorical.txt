@@ -1,11 +1,11 @@
 A
 A Beautiful Collection, Delightfully            [delightfully]: (A)
 Etched, Finely Grouped, Highly                  [   highly   ]: (B)
-Imaginative, Jestingly Knavish,                 [  knavish*  ]: (C)
+Imaginative, Jestingly Knavish,                 [    ish     ]: (C)
 Ludicrously Mischievous, Notably                [  notably   ]: (D)
-Odd, Peculiarly Queer, Recreative,              [recreative* ]: (E)
+Odd, Peculiarly Queer, Recreative,              [  creative  ]: (E)
 Sensational, Tittering, Unquestionably          [unquestionably]: (F)
-Volatile,Whimsically XYZite.                    [  xyzite*   ]: (G)
+Volatile,Whimsically XYZite.                    [     te     ]: (G)
 
 A
 AN ALPHABET.                                    [  alphabet  ]: (A)
@@ -14,7 +14,7 @@ AMUSING                                         [  amusing   ]: (C)
 APPRECIABLE AT ALL AGES                         [    ages    ]: (D)
 LONDON                                          [   london   ]: (E)
 EFFINGHAM. WILSON. II, ROYAL EXCHANGE.          [  exchange  ]: (F)
-MD CCC,LXXL                                     [   lxxl*    ]: (G)
+MD CCC,LXXL                                     [     l      ]: (G)
 
 A
 Alderman Artichoke always adjudicated           [adjudicated ]: (A)
@@ -22,11 +22,11 @@ with admirable ability.                         [  ability   ]: (B)
 
 B
 Benjamin Bluster beat and battered a brown      [   brown    ]: (A)
-Bear with a Blunderbuss.                        [blunderbuss*]: (B)
+Bear with a Blunderbuss.                        [    buss    ]: (B)
 
 C
 Christopher Cuthbertson was cross, crabbed,     [  crabbed   ]: (A)
-and captious.                                   [ captious*  ]: (B)
+and captious.                                   [     us     ]: (B)
 
 D
 Deborah Diligent did dance her Doll             [    doll    ]: (A)
@@ -62,19 +62,19 @@ joy in jeopardy.                                [  jeopardy  ]: (B)
 
 K
 Katherine Kindham kindly kissed her             [    her     ]: (A)
-kith and kinsfolk.                              [ kinsfolk*  ]: (B)
+kith and kinsfolk.                              [    folk    ]: (B)
 
 L
 Lionel Lincoln was a learned, and               [    and     ]: (A)
 literary lexicographer.                         [lexicographer]: (B)
 
 M
-Maximilian Mettlesome magnanimously             [magnanimously*]: (A)
+Maximilian Mettlesome magnanimously             [    sly     ]: (A)
 mollified a mutinous Mountaineer.               [mountaineer ]: (B)
 
 N
 Nancy Nimble with a nice new Needle             [   needle   ]: (A)
-netted some nickbacks.                          [ nickbacks* ]: (B)
+netted some nickbacks.                          [   backs    ]: (B)
 
 O
 Oliver Oddfish obstreperously obstructed        [ obstructed ]: (A)
@@ -82,7 +82,7 @@ an original overture.                           [  overture  ]: (B)
 
 P
 Penelope Posslethwaite pampered a proud,        [   proud    ]: (A)
-and pursy Palfry.                               [  palfry*   ]: (B)
+and pursy Palfry.                               [    fry     ]: (B)
 
 Q
 Quixote Quibble questioned a queer,             [   queer    ]: (A)
@@ -110,7 +110,7 @@ a vindictive villager.                          [  villager  ]: (B)
 
 W
 Wilhelmina Whirligig warbled with               [    with    ]: (A)
-winning witchery.                               [ witchery*  ]: (B)
+winning witchery.                               [   chery    ]: (B)
 
 Y
 Youthful Yankey yearned and yelled              [   yelled   ]: (A)

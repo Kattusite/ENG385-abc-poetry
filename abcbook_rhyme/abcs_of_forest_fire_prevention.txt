@@ -94,7 +94,7 @@ There's danger, you see.                        [    see     ]: (D)
 P
 P 'S FOR PROTECTION                             [ protection ]: (A)
 While our forest grows.                         [   grows    ]: (B)
-So the pulp from, the pulpmills                 [ pulpmills* ]: (C)
+So the pulp from, the pulpmills                 [   mills    ]: (C)
 Can make paper and clothes.                     [  clothes   ]: (B)
 
 Q
@@ -134,13 +134,13 @@ They are found in the forest;                   [   forest   ]: (C)
 To protect them's our duty.                     [    duty    ]: (B)
 
 W
-W 's FOR WATCHFULNESS                           [watchfulness*]: (A)
+W 's FOR WATCHFULNESS                           [    ness    ]: (A)
 All should display,                             [  display   ]: (B)
 For fires may break out                         [    out     ]: (C)
 By night or by day.                             [    day     ]: (B)
 
 X
-X IS FOR XMAS                                   [   xmas*    ]: (A)
+X IS FOR XMAS                                   [    mas     ]: (A)
 That comes once a year.                         [    year    ]: (B)
 Its tree is a symbol                            [   symbol   ]: (C)
 That children hold dear.                        [    dear    ]: (B)

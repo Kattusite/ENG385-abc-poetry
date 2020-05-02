@@ -1,58 +1,158 @@
-A
-And where, with toil and sorrow worn, He seeks his wretched bed.   [    bed     ]: (A)
-R is the “Rice-swamp, dank and lone,’’ Where, weary, day by day,   [    day     ]: (B)
-He labors till the fever wastes His strength and life away.   [    away    ]: (B)
-Q is the Quarter, where the slave On coarsest food is fed,   [    fed     ]: (A)
-S is the Sugar, that the slave Is toiling hard to make,   [    make    ]: (C)
-To put into your pie and tea, Your candy, and your cake.   [    cake    ]: (C)
-T is the rank Tobacco plant, Raised by slave labor too : A poisonous and nasty thing, For gentlemen to chew.   [    chew    ]: (D)
-U is for Upper Canada,                          [   canada   ]: (E)
-Where the poor slave has found Rest after all his wanderings,   [ wanderings ]: (F)
-For it is British ground !                      [   ground   ]: (G)
-V is the Vessel, in whose dark, Noisome, and stifling hold, Hundreds of Africans are packed, Brought o’er the seas, and sold.   [    sold    ]: (H)
-W is the Whipping post,                         [    post    ]: (I)
-To which the slave is bound, While on his naked back, the lash Makes many a bleeding wound.   [   wound    ]: (G)
-X is for Xerxes, famed of yore;                 [    yore    ]: (J)
-A warrior stern was he He fought with swords; let truth and love Our only weapons be.   [     be     ]: (K)
-Y is for Youth—the time for all Bravely to war with sin ;   [    sin     ]: (L)
-And think not it can ever he Too early to begin.   [   begin    ]: (L)
-is a Zealous man, sincere, Faithful, and just, and true ; An earnest pleader for the slave— Will you not be so too ?   [    too     ]: (D)
+B
+B is a Brother with a skin                      [    skin    ]: (A)
+Of somewhat darker hue,                         [    hue     ]: (B)
+But in our Heavenly Father’s sight.             [   sight    ]: (C)
+He is as dear as you.                           [    you     ]: (B)
+
+C
+C is the Cotton-field, to which                 [   which    ]: (A)
+This injured brother’s driven,                  [   driven   ]: (B)
+When, as the white man’s slave, he toils        [   toils    ]: (C)
+From early morn till even.                      [    even    ]: (D)
+
+D
+D is the Driver, cold and stern,                [   stern    ]: (A)
+Who follows, whip in hand,                      [    hand    ]: (B)
+To punish those who dare to rest,               [    rest    ]: (C)
+Or disobey command.                             [  command   ]: (B)
+
+E
+E is the Eagle, soaring high;                   [    high    ]: (A)
+An emblem of the free ;                         [    free    ]: (B)
+But while we chain our brother man,             [    man     ]: (C)
+Our type he cannot be.                          [     be     ]: (B)
+
+F
+F is the heart-sick Fugitive,                   [  fugitive  ]: (A)
+The slave who runs away,                        [    away    ]: (B)
+And travels through the dreary night,           [   night    ]: (C)
+But hides himself by day.                       [    day     ]: (B)
+
+G
+G is the Gong, whose rolling sound,             [   sound    ]: (A)
+Before the morning light,                       [   light    ]: (B)
+Calls up the little sleeping slave,             [   slave    ]: (C)
+To labor until night.                           [   night    ]: (B)
+
+H
+H is the Hound his master trained,              [  trained   ]: (A)
+And called to scent the track.                  [   track    ]: (B)
+Of the unhappy fugitive,                        [  fugitive  ]: (C)
+And bring him trembling back.                   [    back    ]: (B)
+
+I
+I is the Infant, from the arms                  [    arms    ]: (A)
+Of its fond mother torn,                        [    torn    ]: (B)
+And, at a public auction, sold                  [    sold    ]: (C)
+With horses, cows, and corn.                    [    corn    ]: (B)
+
+J
+J is the Jail, upon whose floor                 [   floor    ]: (A)
+That wretched mother lay,                       [    lay     ]: (B)
+Until her cruel master came,                    [    came    ]: (C)
+And carried her away.                           [    away    ]: (B)
+
+K
+K is the Kidnapper, who stole                   [   stole    ]: (A)
+That little child and mother—                   [   mother   ]: (B)
+Shrieking, it clung around her,                 [    her     ]: (C)
+but He tore them from each other.               [   other    ]: (B)
+
+L
+L is the Lash, that brutally                    [  brutally  ]: (A)
+He swung around its head,                       [    head    ]: (B)
+Threatening that “if it cried again,            [   again    ]: (C)
+He’d whip it till ’twas dead.”                  [    dead    ]: (B)
+
+M
+M is the Merchant of the north,                 [   north    ]: (A)
+Who buys what slaves produce—                   [  produce   ]: (B)
+So they are stolen, whipped and worked,         [   worked   ]: (C)
+For his, and for our use.                       [    use     ]: (D)
+
+N
+N is the Negro, rambling free                   [    free    ]: (A)
+In his far distant home,                        [    home    ]: (B)
+Delighting ’neath the palm trees’ shade         [   shade    ]: (C)
+And cocoa-nut to roam.                          [    roam    ]: (B)
+
+O
+O is the Orange tree, that bloomed              [  bloomed   ]: (A)
+Beside his cabin door,                          [    door    ]: (B)
+When white men stole him from his home          [    home    ]: (C)
+To see it never more.                           [    more    ]: (B)
+
+P
+P is the Parent, sorrowing,                     [   rowing   ]: (A)
+And weeping all alone—                          [   alone    ]: (B)
+The child he loved to lean upon,                [    upon    ]: (C)
+His only son, is gone !                         [    gone    ]: (D)
+
+Q
+Q is the Quarter, where the slave               [   slave    ]: (A)
+On coarsest food is fed,                        [    fed     ]: (B)
+And where, with toil and sorrow worn,           [    worn    ]: (C)
+He seeks his wretched bed.                      [    bed     ]: (B)
+
+R
+R is the “Rice-swamp, dank and lone,’’          [    ''*     ]: (A)
+Where, weary, day by day,                       [    day     ]: (B)
+He labors till the fever wastes                 [   wastes   ]: (C)
+His strength and life away.                     [    away    ]: (B)
+
+S
+S is the Sugar, that the slave                  [   slave    ]: (A)
+Is toiling hard to make,                        [    make    ]: (B)
+To put into your pie and tea,                   [    tea     ]: (C)
+Your candy, and your cake.                      [    cake    ]: (B)
+
+T
+T is the rank Tobacco plant,                    [   plant    ]: (A)
+Raised by slave labor too :                     [    too     ]: (B)
+A poisonous and nasty thing,                    [   thing    ]: (C)
+For gentlemen to chew.                          [    chew    ]: (B)
+
+U
+U is for Upper Canada,                          [   canada   ]: (A)
+Where the poor slave has found                  [   found    ]: (B)
+Rest after all his wanderings,                  [ wanderings ]: (C)
+For it is British ground !                      [   ground   ]: (B)
+
+V
+V is the Vessel, in whose dark,                 [    dark    ]: (A)
+Noisome, and stifling hold,                     [    hold    ]: (B)
+Hundreds of Africans are packed,                [   packed   ]: (C)
+Brought o’er the seas, and sold.                [    sold    ]: (B)
+
+W
+W is the Whipping post,                         [    post    ]: (A)
+To which the slave is bound,                    [   bound    ]: (B)
+While on his naked back, the lash               [    lash    ]: (C)
+Makes many a bleeding wound.                    [   wound    ]: (B)
+
+X
+X is for Xerxes, famed of yore;                 [    yore    ]: (A)
+A warrior stern was he                          [     he     ]: (B)
+He fought with swords; let truth and love       [    love    ]: (C)
+Our only weapons be.                            [     be     ]: (B)
+
+Y
+Y is for Youth—the time for all                 [    all     ]: (A)
+Bravely to war with sin ;                       [    sin     ]: (B)
+And think not it can ever he                    [     he     ]: (C)
+Too early to begin.                             [   begin    ]: (B)
+
+Z
+Z is a Zealous man, sincere,                    [  sincere   ]: (A)
+Faithful, and just, and true ;                  [    true    ]: (B)
+An earnest pleader for the slave—               [   slave    ]: (C)
+Will you not be so too ?                        [    too     ]: (B)
 
 ﻿
 ﻿A is an Abolitionist—                          [abolitionist]: (A)
-A man who wants to free The wretched slave—and give to all An equal liberty.   [  liberty   ]: (B)
-B is a Brother with a skin Of somewhat darker hue,   [    hue     ]: (C)
-But in our Heavenly Father’s sight. He is as dear as you.   [    you     ]: (C)
-C is the Cotton-field, to which This injured brother’s driven,   [   driven   ]: (D)
-When, as the white man’s slave, he toils From early morn till even.   [    even    ]: (E)
-D is the Driver, cold and stern, Who follows, whip in hand,   [    hand    ]: (F)
-To punish those who dare to rest, Or disobey command.   [  command   ]: (F)
-£ is the Eagle, soaring high;                   [    high    ]: (G)
-An emblem of the free ;                         [    free    ]: (H)
-But while we chain our brother man, Our type he cannot be.   [     be     ]: (H)
-F is the heart-sick Fugitive,                   [  fugitive  ]: (I)
-The slave who runs away,                        [    away    ]: (J)
-And travels through the dreary night, But hides himself by day.   [    day     ]: (J)
-G is the Gong, whose rolling sound, Before the morning light,   [   light    ]: (K)
-Calls up the little sleeping slave,             [   slave    ]: (L)
-To labor until night.                           [   night    ]: (K)
-H is the Hound his master trained, And called to scent the track. Of the unhappy fugitive,   [  fugitive  ]: (I)
-And bring him trembling back.                   [    back    ]: (M)
-I is the Infant, from the arms Of its fond mother torn,   [    torn    ]: (N)
-And, at a public auction, sold With horses, cows, and corn.   [    corn    ]: (N)
-J is the Jail, upon whose floor That wretched mother lay, Until her cruel master came, And carried her away.   [    away    ]: (J)
-K is the Kidnapper, who stole That little child and mother— Shrieking, it clung around her, but He tore them from each other.   [   other    ]: (O)
-L is the Lash, that brutally He swung around its head, Threatening that “if it cried again, He’d whip it till ’twas dead.”   [    dead    ]: (P)
-M is the Merchant of the north,                 [   north    ]: (Q)
-Who buys what slaves produce—                   [  produce   ]: (R)
-So they are stolen, whipped and worked, For his, and for our use.   [    use     ]: (S)
-N is the Negro, rambling free In his far distant home,   [    home    ]: (T)
-Delighting ’neath the palm trees’ shade And cocoa-nut to roam.   [    roam    ]: (T)
-O is the Orange tree, that bloomed Beside his cabin door,   [    door    ]: (U)
-When white men stole him from his home To see it never more.   [    more    ]: (U)
-P is the Parent, sorrowing,                     [ sorrowing* ]: (V)
-And weeping all alone—                          [   alone    ]: (W)
-The child he loved to lean upon, His only son, is gone !   [    gone    ]: (X)
+A man who wants to free                         [    free    ]: (B)
+The wretched slave—and give to all              [    all     ]: (C)
+An equal liberty.                               [  liberty   ]: (D)
 
 
 

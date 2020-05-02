@@ -5,14 +5,14 @@ Behold the ARUANUS glide.                       [   glide    ]: (A)
 
 B
 The BARREL is a River Fish,                     [    fish    ]: (A)
-But maes a course unwholesomedish.              [unwholesomedish*]: (B)
+But maes a course unwholesomedish.              [    dish    ]: (A)
 
 C
 The long liv'd CARP so often sought,            [   sought   ]: (A)
 By strategem is easiest caught.                 [   caught   ]: (A)
 
 D
-See the fierce DOLPHIN in his wroth,            [   wroth*   ]: (A)
+See the fierce DOLPHIN in his wroth,            [    roth    ]: (A)
 Lie a proud whale send waters forth.            [   forth    ]: (B)
 
 E
@@ -33,7 +33,7 @@ And quit the shores in shoals or herds.         [   herds    ]: (A)
 
 J
 Poor JACK,himself so much despis'd              [  despised  ]: (A)
-But to catch other fish is prizd!               [   prizd*   ]: (B)
+But to catch other fish is prizd!               [     d      ]: (B)
 
 K
 The KURTUS, oft the hunch-back nam'd,           [   named    ]: (A)
@@ -49,7 +49,7 @@ The MEDITERRANEAN SEA WOLF'S nam'd              [   named    ]: (A)
 
 N
 ThePE FISH is seldom caught;                    [   caught   ]: (A)
-The reason'splain 'tis good for nought.         [  nought*   ]: (B)
+The reason'splain 'tis good for nought.         [   ought    ]: (A)
 
 O
 The ORIENTAL SAWFISH, here,                     [    here    ]: (A)

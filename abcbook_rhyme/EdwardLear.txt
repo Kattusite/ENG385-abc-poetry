@@ -17,7 +17,7 @@ C
 E
 EDWARD LEAR"S ABC                               [    abc     ]: (A)
 LONDON                                          [   london   ]: (B)
-HENRY-FROWDE                                    [  frowde*   ]: (C)
+HENRY-FROWDE                                    [     de     ]: (C)
 HODDER &                                        [   hodder   ]: (D)
 STOUGHTON                                       [ stoughton  ]: (E)
 

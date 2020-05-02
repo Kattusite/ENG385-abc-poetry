@@ -96,9 +96,9 @@ To make him fit to run a race.                  [    race    ]: (B)
 
 Q
 Q stands for Question; when you're sent         [    sent    ]: (A)
-To buy a salve or liniment,                     [ liniment*  ]: (B)
-Be sure to ask in accents plain                 [   plain    ]: (C)
-For Hanford's Balsam, foe to pain.              [    pain    ]: (C)
+To buy a salve or liniment,                     [    ent     ]: (A)
+Be sure to ask in accents plain                 [   plain    ]: (B)
+For Hanford's Balsam, foe to pain.              [    pain    ]: (B)
 
 R
 R is for Rhyme, and when yopu read,             [    read    ]: (A)
