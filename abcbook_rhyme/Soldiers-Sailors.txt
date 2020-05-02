@@ -1,0 +1,83 @@
+A
+A Airmen and Australians, to see them we're glad.   [    glad    ]: (A)
+B is the Belgian, They were very sad.           [    sad     ]: (A)
+C is the Canadians So healthy and strong        [   strong   ]: (B)
+
+D
+D is the Dreadnaughts                           [dreadnaughts*]: (A)
+To us they belong.                              [   belong   ]: (B)
+
+E
+Engineers.                                      [ engineers  ]: (A)
+Egypt quite ready for Turk                      [    turk    ]: (B)
+
+F
+F is the French,                                [   french   ]: (A)
+The guns well they work.                        [    work    ]: (B)
+
+G
+G is the Ghurka                                 [  ghurka*   ]: (A)
+with knife and with gun.                        [    gun     ]: (B)
+
+H
+Horse and Highlanders make the foe run.         [    run     ]: (A)
+
+I
+I is the Indian a match for the foe.            [    foe     ]: (A)
+
+J
+J Japanese clear a path as they go.             [     go     ]: (A)
+
+K
+King's Irish Rifles they are very brave.        [   brave    ]: (A)
+
+L
+L is the Lancers the guns they will save.       [    save    ]: (A)
+
+M
+M is the Marine all in a row.                   [    row     ]: (A)
+
+N
+N is the new Zealanders see how they go.        [     go     ]: (A)
+
+O
+O is the Ordinance they take good aim.          [    aim     ]: (A)
+
+P
+P is Princess Patricia's Own they know their game.   [    game    ]: (A)
+
+Q
+Q is Queen's Bays, you should see how they charge.   [   charge   ]: (A)
+
+R
+R is the Russians their forces are large.       [   large    ]: (A)
+
+S
+S is the Submarines and Seaplanes on guard.     [   guard    ]: (A)
+
+T
+Territorials in trenches their life so hard.    [    hard    ]: (A)
+
+T
+THE SOLDIERS AND SAILORS ABC                    [    abc     ]: (A)
+
+U
+Union Jack floats over the free.                [    free    ]: (A)
+
+V
+Victoria Cross for the Valor you see.           [    see     ]: (A)
+
+W
+Welsh soldiers are brave and so is their prince.   [   prince   ]: (A)
+
+X
+Xmas abroad not so bad in the trench.           [   trench   ]: (A)
+
+Y
+Y is the Yeomanry their praises let's sing.     [    sing    ]: (A)
+
+Z
+Z is the Zouave, Now God Save the King.         [    king    ]: (A)
+
+
+

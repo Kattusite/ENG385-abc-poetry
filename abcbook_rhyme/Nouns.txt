@@ -1,0 +1,81 @@
+A
+
+A
+A Was an Archer who shot at a frog.             [    frog    ]: (A)
+
+B
+B Was a Butcher who kept a bull-dog.            [    dog     ]: (A)
+
+C
+C Was a Captain, all covered in lace.           [    lace    ]: (A)
+
+D
+DEAN'S DIPLOMA SERIES No. 13                    [    five    ]: (A)
+
+D
+D Was a Drummer, who played with much grace.    [   grace    ]: (A)
+
+E
+E Was an Earl, with pride on his brow.          [    brow    ]: (A)
+
+F
+F Was a Farmer, who followed the plough.        [   plough   ]: (A)
+
+G
+G Was a Gamester, who had but ill-luck.         [    luck    ]: (A)
+
+H
+H Was a Hunterwho hunted a buck.                [    buck    ]: (A)
+
+I
+I Was an Italian, who had white mouse.          [   mouse    ]: (A)
+
+J
+J Was a Joiner, who built up a house.           [   house    ]: (A)
+
+K
+K Was a King,so mighty and grand.               [   grand    ]: (A)
+
+L
+L Was a Lady, who had a white hand.             [    hand    ]: (A)
+
+O
+O Was an Organman, who played about the town.   [    town    ]: (A)
+
+P
+P Was a Parson, who wore a white gown.          [    gown    ]: (A)
+
+Q
+Q Was a Queen, by her subjects revered.         [  revered   ]: (A)
+
+R
+R Was a Rajah, who in jewels appeared.          [  appeared  ]: (A)
+
+S
+Ss Was a Sailor, who spent all he got.          [    got     ]: (A)
+
+T
+T Was a Tinker, who mended a pot.               [    pot     ]: (A)
+
+U
+U Was an Usher, who loved little boys.          [    boys    ]: (A)
+
+V
+V Was a Vertan, who sold pretty toys.           [    toys    ]: (A)
+
+W
+W Was a Watchman with lantern in hand.          [    hand    ]: (A)
+
+X
+X Was Xerxes, who ruled Persia's land.          [    land    ]: (A)
+
+Y
+Y Was a Youth, who did not love school.         [   school   ]: (A)
+
+Z
+
+Z
+Z Was a Zany, who looked a great fool.          [    fool    ]: (A)
+
+
+

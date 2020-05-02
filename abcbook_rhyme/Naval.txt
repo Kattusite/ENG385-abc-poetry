@@ -1,0 +1,117 @@
+A
+A  WAS AN                                       [     an     ]: (A)
+ADMIRAL                                         [  admiral   ]: (B)
+PROUD OF                                        [     of     ]: (C)
+HIS FLEET                                       [   fleet    ]: (D)
+
+B
+B WAS A BLUEJACKET                              [ bluejacket ]: (A)
+HANDY AND NEAT                                  [    neat    ]: (B)
+
+C
+C WAS A CAPTAIN                                 [  captain   ]: (A)
+AS SMART AS CAN BE                              [     be     ]: (B)
+
+D
+D WAS A DUKE                                    [    duke    ]: (A)
+WHO WAS FOND OF THE SEA                         [    sea     ]: (B)
+
+E
+E WAS AN ENGINEER                               [  engineer  ]: (A)
+TESTING A PIPE                                  [    pipe    ]: (B)
+
+F
+F WAS A FLEET OF                                [     of     ]: (A)
+AN EXCELLENT TYPE                               [    type    ]: (B)
+
+G
+G WAS A GUNNER                                  [   gunner   ]: (A)
+WHOSE SKILL                                     [   skill    ]: (B)
+ENGLAND KNOWS                                   [   knows    ]: (C)
+
+H
+H WAS A HAMMOCK                                 [  hammock   ]: (A)
+INVITING REPOSE                                 [   repose   ]: (B)
+
+I
+I___ THE INSTRUCTION                            [instruction ]: (A)
+EACH MORN TO BE SEEN                            [    seen    ]: (B)
+
+J
+J WAS A JOLLY                                   [   jolly    ]: (A)
+OR ROYAL MARINE                                 [   marine   ]: (B)
+
+K
+K WAS THE KEEL                                  [    keel    ]: (A)
+FROM THE STEM TO THE STERN                      [   stern    ]: (B)
+
+L
+L A LIEUTENANT                                  [ lieutenant ]: (A)
+JUST TAKING A TURN                              [    turn    ]: (B)
+
+M
+M WAS A MIDDY                                   [   middy*   ]: (A)
+WHO CARRIED A DIRK                              [    dirk    ]: (B)
+
+N
+N WAS A NAVY                                    [    navy    ]: (A)
+THAT DID ARMY WORK                              [    work    ]: (B)
+
+N
+NAVAL ALPHABET                                  [  alphabet  ]: (A)
+John Hassall.                                   [  hassall*  ]: (B)
+Being a companion to                            [     to     ]: (C)
+An Active Army Alphabet.                        [  alphabet  ]: (A)
+London                                          [   london   ]: (D)
+Sands Co                                        [     co     ]: (E)
+
+O
+O WERE THE OILSKINS                             [ oilskins*  ]: (A)
+TO WEAR IN A SQUALL                             [   squall   ]: (B)
+
+P
+P WAS A PARSON                                  [   parson   ]: (A)
+THE PILOT OF ALL                                [    all     ]: (B)
+
+Q
+Q WAS A QUARTER-DECK                            [    deck    ]: (A)
+TERRIBLY CLEAN                                  [   clean    ]: (B)
+
+R
+R WAS RIGGING                                   [  rigging   ]: (A)
+THAT CANNOT BE SEEN                             [    seen    ]: (B)
+
+S
+S WAS A STOKER                                  [   stoker   ]: (A)
+AS BLACK AS A SWEEP                             [   sweep    ]: (B)
+
+T
+T _ A TORPEDO                                   [  torpedo   ]: (A)
+THAT STARTLED THE DEEP                          [    deep    ]: (B)
+
+U
+U WAS A UNION JACK                              [    jack    ]: (A)
+NAILED TO A MAST                                [    mast    ]: (B)
+
+V
+V WAS A VESSEL                                  [   vessel   ]: (A)
+EXCEEDINGLY FAST                                [    fast    ]: (B)
+
+W
+W _ A WEAPON                                    [   weapon   ]: (A)
+WITH WHICH JACK EXCELLS                         [  excells*  ]: (B)
+
+X
+X STANDS FOR X                                  [     x      ]: (A)
+AT THE SOUND OF FOUR BELLS                      [   bells    ]: (B)
+
+Y
+Y WERE THE YARNS                                [   yarns    ]: (A)
+THAT THEY SPUN ABOARD SHIP                      [    ship    ]: (B)
+
+Z
+Z WAS THE ZOO                                   [    zoo     ]: (A)
+JACK BROUGHT HOME FORM HIS TRIP                 [    trip    ]: (B)
+
+
+

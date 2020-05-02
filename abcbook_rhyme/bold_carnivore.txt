@@ -1,0 +1,265 @@
+A
+A Bold Carnivore                                [ carnivore  ]: (A)
+An Alphabet of Predators                        [ predators  ]: (B)
+Consie Powell                                   [   powell   ]: (C)
+
+A
+A Bold Carnivore                                [ carnivore  ]: (A)
+An Alphabet of Predators                        [ predators  ]: (B)
+ROBERTS RINEHART PUBLISHERS                     [ publishers ]: (C)
+Consie Powell                                   [   powell   ]: (D)
+
+A
+Alligator                                       [ alligator  ]: (A)
+Floating like a fallen log,                     [    log     ]: (B)
+an alligator waits to grab an                   [     an     ]: (C)
+unsuspecting muskrat.                           [  muskrat   ]: (D)
+
+A
+All living creatures                            [ creatures  ]: (A)
+must eat to survive.                            [  survive   ]: (B)
+Some eat plants;                                [   plants   ]: (C)
+others eat those who eat the plants.            [   plants   ]: (C)
+All are links in the                            [    the     ]: (D)
+great food chain of life.                       [    life    ]: (E)
+These are predators,                            [ predators  ]: (F)
+large or small, furred, feathered,              [ feathered  ]: (G)
+smooth or scaly skinned.                        [  skinned   ]: (H)
+Some search, some chase, but                    [    but     ]: (I)
+all want to catch a meal.                       [    meal    ]: (J)
+Some watch, some hide, for                      [    for     ]: (K)
+some might become a meal.                       [    meal    ]: (J)
+
+B
+On paper-thin wings of delicate leather         [  leather   ]: (A)
+a little brown bat flutters through the         [    the     ]: (B)
+night and catches flying insects.               [  insects   ]: (C)
+
+C
+Coyote                                          [   coyote   ]: (A)
+Fast and nimble, a coyote pursues               [  pursues   ]: (B)
+a passing rabbit, then pounces on               [     on     ]: (C)
+a mouse.                                        [   mouse    ]: (D)
+
+C
+Consie Powell successfully combines her interests by drawing and writing about the natural world. She illustrates books on zoological and botanical subjects, has taught natural science illustration, and illustrates and contributes to North Carolina WILD Notebook, a state publication that educates young people on environmental issues. She lives in Raleigh, North Carolina.   [  carolina  ]: (A)
+
+D
+Damselfly                                       [ damselfly* ]: (A)
+A damselfly dips and darts                      [   darts    ]: (B)
+through the summer air, catching                [  catching  ]: (C)
+mosquitoes and midges.                          [   midges   ]: (D)
+
+E
+Elf owl                                         [    owl     ]: (A)
+When night falls, a tiny elf owl                [    owl     ]: (A)
+wakes and hunts the cool desert                 [   desert   ]: (B)
+for small rodents or large insects.             [  insects   ]: (C)
+
+F
+Fisher                                          [   fisher   ]: (A)
+A fisher searches the deep                      [    deep    ]: (B)
+woods for hares or squirrels; the               [    the     ]: (C)
+porcupine is safe up in a tree.                 [    tree    ]: (D)
+
+G
+Grass spider                                    [   spider   ]: (A)
+When an insect vibrates the                     [    the     ]: (B)
+funnel-shaped web, a grass spider               [   spider   ]: (A)
+dashes out to capture its prey.                 [    prey    ]: (C)
+
+G
+Glossary                                        [  glossary  ]: (0)
+Prey shown for each predator are listed in clockwise order, starting at the top   [    top     ]: (1)
+A: Alligator                                    [ alligator  ]: (2)
+American alligators inhabit freshwater swamps, bayous, lakes and slow rivers in the southeastern United States. They can survive weeks without eating, but grow rapidly if they eat frequently. PREY SHOWN: muskrat, great blue heron, bluegill, beaver, mallards.   [  mallards  ]: (3)
+B: Bat                                          [    bat     ]: (4)
+Little brown bats live in colonies near water or forests throughout most of North America except the southernmost areas. Those that live far north migrate south in autumn to hibernate. PREY SHOWN: spotted cutworm moth, striped cutworm moth, zebra caterpillar moth, mosquitos, Zabulon skipper, Isabel moth, hog sphinx moth, cottonwood dagger moth.   [    moth    ]: (5)
+C: Coyote                                       [   coyote   ]: (6)
+Adaptable hunters, coyotes populate all parts of the continent. A pounce through tall grasses catches a vole or mouse by pinning it beneath the forepaws. PREY SHOWN: woodchuck, cottontail rabbit, western harvest mouse, thirteen-lined ground squirrel, black-tailed prairie dogs.   [    dogs    ]: (7)
+D: Damselfly                                    [ damselfly* ]: (8)
+Damselflies live near ponds, marshes or lakes throughout North America. After hatching, damselfly nymphs molt as many as 15 times before developing into adults. PREY SHOWN: black flies, eastern floodwater mosquitos, black fly, salt-marsh mosquito, midges.   [   midges   ]: (9)
+E: Elf Owl                                      [    owl     ]: (10)
+No bigger than a sparrow, the nocturnal elf owl inhabits desert lowlands, canyons, and foothills in the arid southwest United states and Mexico. It often nests in a saguaro cactus. PREY SHOWN: centipede, millipede, kangaroo rat, scorpion, polyphemus moth, desert pocket mouse.   [   mouse    ]: (11)
+F: Fisher                                       [   fisher   ]: (12)
+A fisher is a solitary hunter in mixed hardwood forests across Canada and the far northern United States. It will catch a porcupine only if it can bite the quill-less face. PREY SHOWN:red squirrel, snowshoe hare, spruce grouse, deer mouse, porcupine.   [ porcupine  ]: (13)
+G: Grass spider                                 [   spider   ]: (14)
+The web of a grass spider is not sticky, but instead acts as a "telegraph" to alert the spider to prey. Found throughout North America, grass spiders depend on speed to catch their food. PREY SHOWN: green lacewing, four-lined plant bug, boxelder bug, gladiator katydid, bilobed looper caterpillar, firefly, scarlet and green leafhopper, crane fly.   [    fly     ]: (15)
+H: Hawk                                         [    hawk    ]: (16)
+Broad-winged hawks dwell in forests and woodlands in central and eastern North America. They hunt by perching to watch for prey. In autumn they migrate by the thousands to South America. PREY SHOWN: deer mouse, eastern garter snake, American toad, differential grasshopper, leopard frog.   [    frog    ]: (17)
+I: Ibis                                         [    ibis    ]: (18)
+White-faced ibises feed and nest in swamps and sloughs of great plains states. They usually share those sites with other wading birds. PREY SHOWN: leopard frog, crayfish, speckled dace minnows, predacious water beetle larvae, tadpoles.   [  tadpoles  ]: (19)
+J: Jellyfish                                    [ jellyfish  ]: (20)
+Found in oceans all over the world, jellyfish are not fish at all. This purple jellyfish is related to sea anemones and corals because they all have jellylike bodies, tentacles, and stinging cells to immobilize prey. PREY SHOWN: striped anchovies, blackbar soldierfish, flamefish, tattler, horned krill.   [   krill    ]: (21)
+K: King snake                                   [   snake    ]: (22)
+Eastern king snakes live in the southeastern United States. Other king snakes live throughout the United States and parts of Mexico: all are immune to the venoms of poisonous snakes they eat. PREY SHOWN: northern water snake, meadow vole, green anole, ovenbird, five-lined skink.   [   skink*   ]: (23)
+L: Lynx                                         [    lynx    ]: (24)
+Hunting and living alone, lynxes range widely through forests and scrub in Alaska, Canada, and northern wilds of the lower 48 states. Their large hairy paws act as snowshoes in winter. PREY SHOWN: snowshoe hare (winter), snowshoe hare (summer), spruce grouse, tundra vole, red squirrel.   [  squirrel  ]: (25)
+M: Merganser                                    [ merganser* ]: (26)
+On freshwater lakes across northern North America, common mergansers dive and hunt. Toothlike edges on their bills help the birds hold onto prey. PREY SHOWN: bullfrog, crayfish, tadpoles, campeloma snail, yellow perch.   [   perch    ]: (27)
+N: Newt                                         [    newt    ]: (28)
+Red-spotted newts live in temperate climates in eastern North America. A newt larva hatches from an egg in water, then develops into a "red eft" and lives on land. Upon reaching adulthood, the newt lives primarily in water again. PREY SHOWN: frog eggs, tadpoles, crayfish, leeches, earthworm, waterstrider.   [waterstrider*]: (29)
+O: Orca                                         [    orca    ]: (30)
+Orcas live and hunt in family groups in cold waters of the Pacific and Atlantic oceans. Orcas hunting fish signal one another with whistles and clicks; those hunting mammals hunt silently. PREY SHOWN: south polar skua, thick-billed murre, harbor porpoise, squid, chinook salmon, California sea lion.   [    lion    ]: (31)
+P: Pelican                                      [  pelican   ]: (32)
+Brown pelicans fish in salt water on the Pacific, Atlantic and Gulf coasts. As they hunt, pelicans often fly so close to the water that their wings almost brush the waves. PREY SHOWN: shiner perch, pacific sardines, garibaldi, striped sea perch, rubber lip sea perch.   [   perch    ]: (27)
+Q: Quail                                        [   quail    ]: (33)
+Adult California quail are primarily seed eaters. They occupy open woodlands near water along the west coast of the United States and Baja California. PREY SHOWN: cornfield ants, creosote bush grasshopper, western subterranean termite, field cricket, California checkered beetle.   [   beetle   ]: (34)
+R: Ringtail                                     [ ringtail*  ]: (35)
+Nocturnal ringtails live in dry, rocky areas of the southwestern United States and Mexico and occasionally eat fruit as well as animal prey. They are distantly related to coatis and raccoons. PREY SHOWN: kangaroo rat, zebra-tailed lizard, desert pocket mouse, desert tarantula, cactus wren.   [    wren    ]: (36)
+S: Shrew                                        [   shrew*   ]: (37)
+Short-tailed shrews inhabit woods and moist areas in southeastern Canada and the central and northeastern United States. Because a shrew must eat at least every 3 hours, it is active day and night. PREY SHOWN: weevil grubs, downy leatherwing beetle, springtail, aphids, earthworms, field cricket, snail, southeastern lubber grasshopper.   [grasshopper ]: (38)
+T: Toad                                         [    toad    ]: (39)
+American toads, found in central and eastern United States and Canada may reside in suburban backyards or pristine wilderness. They need shallow water to breed and moist hiding places to rest and to hunt. PREY SHOWN: earthworm, toxomerus hover fly, tree-hole mosquitos, flower beetle larvae, slug.   [    slug    ]: (40)
+U: Uta                                          [    uta*    ]: (41)
+Uta lizards are abundant in arid western North America. These small lizards have a dark blotch behind each foreleg and are sometimes called side-blotched lizards. PREY SHOWN: daddy-longlegs, sowbugs, mormon cricket, cactus fly, velvet mites.   [   mites    ]: (42)
+V: Veery                                        [   veery*   ]: (43)
+The shy veery dwells in dense moist woodlands along the United States - Canada border and the Rocky Mountains. Though secretive and seldom seen, its lively song betrays its presence. PREY SHOWN: forest tent caterpillar, red and blue checkered beetle, earthworm, bush katydid, little sulphur caterpillar.   [caterpillar ]: (44)
+W: Weasel                                       [   weasel   ]: (45)
+At least one of the three species of weasels (long-tailed, short-tailed, and least weasels) is found anywhere in North America. Northern weasels turn white in winter, while southern weasels stay brown. PREY SHOWN: meadow vole, deer mouse, red-backed vole, chipmunk, zapus mouse.   [   mouse    ]: (11)
+X: mureX                                        [   murex*   ]: (46)
+Frill-wing murexes inhabit underwater rocks and crevices along the coast of California. Some may be exposed at a low tide, but others inhabit deeper coastal waters. PREY SHOWN: Kelsey's date mussel, California cumingia clam, Peruvian jingle shell, clear jewel box, native Pacific oyster.   [   oyster   ]: (47)
+Y: Yellow perch                                 [   perch    ]: (27)
+Schools of yellow perch populate clear cold streams and lakes across central and eastern Canada and the United States. They feed in shallow waters at dawn and dusk. PREY SHOWN: emerald shiner, dragonfly and mayfly larvae, log perch, midge and mosquito larvae, water boatmen.   [  boatmen*  ]: (48)
+Z: Zapus                                        [   zapus*   ]: (49)
+A Zapus, also known as a meadow jumping mouse, hides by day and feeds at night. Zapus are found in northern habitats, and hibernate during winter. PREY SHOWN: rose weevil, spotted cutworm, caterpillar, fiery searcher beetle, fragile ground beetle, buffalo grass seeds.   [   seeds    ]: (50)
+
+H
+Hawk                                            [    hawk    ]: (A)
+A broad-winged hawk patiently                   [ patiently  ]: (B)
+waits and watches for movement                  [  movement  ]: (C)
+of a mouse, frog, or snake.                     [   snake    ]: (D)
+
+I
+Ibis                                            [    ibis    ]: (A)
+A white-faced ibis probes its                   [    its     ]: (B)
+long curved bill underwater for                 [    for     ]: (C)
+minnows or tiny crayfish.                       [  crayfish  ]: (D)
+
+I
+ISBN 1-57098-023-3 $14.95                       [    five    ]: (A)
+Bold                                            [    bold    ]: (B)
+Carnivore                                       [ carnivore  ]: (C)
+An Alphabet of Predators                        [ predators  ]: (D)
+by CONSIE POWELL                                [   powell   ]: (E)
+Simple text and life-like illustrations convey the wonder and beauty of the natural world in this unique book of ABCs.   [    abcs    ]: (F)
+In A Bold Carnivore, each letter of the alphabet refers to a predator. Brief text explains where the predator lives, how it hunts, and the animals on which it preys. Both predator and prey are beautifully and accurately illustrated.   [illustrated ]: (G)
+Author Consie Powell wrote her master’s thesis on the predator-prey concept in children’s literature and has spent a lifetime studying, drawing, and writing about the natural world. In this unique educational tool, she vividly recreates some of the critters and habitats she knows best to help teach young children both their ABCs and some of the natural relationships between various animals. To Powell, predators such as bats, coyotes, and weasels have gotten a bad rap. "They’re just bold and curious." And while the concept of predation makes some adults squirm, Powell knows children are generally fascinated by it.   [     it     ]: (H)
+
+J
+Jellyfish                                       [ jellyfish  ]: (A)
+A jellyfish floats on soft ocean                [   ocean    ]: (B)
+swells as it waits to tangle and                [    and     ]: (C)
+stun a fish in its long tentacles.              [ tentacles  ]: (D)
+
+K
+Kingsnake                                       [ kingsnake* ]: (A)
+An eastern kingsnake hunts                      [   hunts    ]: (B)
+along streambanks for turtle eggs               [    eggs    ]: (C)
+or water snakes.                                [   snakes   ]: (D)
+
+L
+Lynx                                            [    lynx    ]: (A)
+Alone and quiet, a lynx stalks                  [   stalks   ]: (B)
+through the northern forest in                  [     in     ]: (C)
+pursuit of a snowshoe hare.                     [    hare    ]: (D)
+
+M
+Merganser                                       [ merganser* ]: (A)
+A hungry merganser pops to the                  [    the     ]: (B)
+surface. Only fish, frogs or crayfish           [  crayfish  ]: (C)
+that hide carefully escape this diving duck.    [    duck    ]: (D)
+
+N
+Newt                                            [    newt    ]: (A)
+A slippery red-spotted newt                     [    newt    ]: (A)
+searches a quiet stream bottom for              [    for     ]: (B)
+leeches or frog eggs.                           [    eggs    ]: (C)
+
+O
+Orca                                            [    orca    ]: (A)
+In its ocean world a sleek orca                 [    orca    ]: (A)
+hunts for seals, fish, and floating s           [     s      ]: (B)
+ea birds.                                       [   birds    ]: (C)
+
+P
+Pelican                                         [  pelican   ]: (A)
+A big brown pelican flies or                    [     or     ]: (B)
+floats, and always watches for fish             [    fish    ]: (C)
+to catch in its deep-pouched bill.              [    bill    ]: (D)
+
+Q
+Quail                                           [   quail    ]: (A)
+Young quail feast on ants,                      [    ants    ]: (B)
+beetles and crickets to help them               [    them    ]: (C)
+grow into strong adults.                        [   adults   ]: (D)
+
+R
+Ringtail                                        [ ringtail*  ]: (A)
+An eager ringtail prowls the                    [    the     ]: (B)
+dark desert in search of a mouse,               [   mouse    ]: (C)
+bird or lizard.                                 [   lizard   ]: (D)
+
+S
+Shrew                                           [   shrew*   ]: (A)
+A little short-tailed shrew feeds               [   feeds    ]: (B)
+almost constantly on worms, snails              [   snails   ]: (C)
+and insects just to stay alive.                 [   alive    ]: (D)
+
+T
+Toad                                            [    toad    ]: (A)
+In the soft spring twilight,                    [  twilight  ]: (B)
+a hungry toad snaps up flies,                   [   flies    ]: (C)
+earthworms and slugs.                           [   slugs    ]: (D)
+
+T
+This is a book about predators and their prey. Each letter of the alphabet introduces a different North American predator. Surrounding each predator are illustrations of a variety of its prey.   [    prey    ]: (A)
+Copyright © 1995 by Consie Powell International Standard Book Number 1-57098-023-3 Library of Congress Catalog Card Number 95-067329   [    five    ]: (B)
+Published by Roberts Rinehart Publishers        [ publishers ]: (C)
+Post Office Box 666, Niwot, Colorado 80544      [    five    ]: (B)
+Published in the UK and Ireland by              [     by     ]: (D)
+Roberts Rinehart Publishers                     [ publishers ]: (C)
+Trinity House, Charleston Road                  [    road    ]: (E)
+Dublin 6. Ireland                               [  ireland   ]: (F)
+Distributed in the U.S. and Canada by           [     by     ]: (D)
+Publishers Group West                           [    west    ]: (G)
+Printed in Hong Kong                            [    kong    ]: (H)
+
+T
+To Virginia                                     [  virginia  ]: (A)
+
+U
+Over a tumble of desert boulders,               [  boulders  ]: (A)
+an uta lizard prowls in search of               [     of     ]: (B)
+insects and mites.                              [   mites    ]: (C)
+
+V
+Veery                                           [   veery*   ]: (A)
+A veery sings a gentle flute-like song. It gulps down a fat   [    fat     ]: (B)
+caterpillar with gusto.                         [   gusto    ]: (C)
+
+W
+Weasel                                          [   weasel   ]: (A)
+Bold and curious, a hungry long-tailed weasel snoops and sniffs in   [     in     ]: (B)
+search of a mouse or vole.                      [   vole*    ]: (C)
+
+X
+mureX                                           [   murex*   ]: (A)
+A frill-wing murex snail bores its              [    its     ]: (B)
+rasping tongue into a living clam’s             [  clam's*   ]: (C)
+shell, then eats the clam inside.               [   inside   ]: (D)
+
+Y
+Yellow perch                                    [   perch    ]: (A)
+In a freshwater lake, yellow perch              [   perch    ]: (A)
+swim in search of smaller fish and              [    and     ]: (B)
+insect larvae.                                  [   larvae   ]: (C)
+
+Z
+Zapus                                           [   zapus*   ]: (A)
+A Zapus eats seals and insects when it          [     it     ]: (B)
+can catch them. This mouse escapes              [  escapes   ]: (C)
+other predators with a huge jump.               [    jump    ]: (D)
+
+
+

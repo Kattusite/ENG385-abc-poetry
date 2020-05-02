@@ -1,0 +1,34 @@
+A
+A was an Archer, that shot at a Frog.           [    frog    ]: (A)
+B was a Butcher, that had a great Dog.          [    dog     ]: (B)
+C was a Captain, all cover’d with Lace.         [    lace    ]: (C)
+1) d                                            [     d      ]: (D)
+D was a Drunkard,                               [  drunkard  ]: (E)
+that had a red Face.                            [    face    ]: (C)
+E was an Esquire, with pride on his Brow.       [    brow    ]: (F)
+F was a Farmer, that follow’d the Plough.       [   plough   ]: (F)
+
+G
+G was a Gamester, and he had ill Luck.          [    luck    ]: (A)
+H was a Hunter, that hunted a Buck.             [    buck    ]: (A)
+J was a Joiner, that built up a House.          [   house    ]: (B)
+R was a King, that govern’d a Mouse.            [   mouse    ]: (B)
+L was a Lady, that had a white Hand.            [    hand    ]: (C)
+If in                                           [     in     ]: (D)
+M was a Merchant, to some foreign Land.         [    land    ]: (C)
+N 11                                            [    five    ]: (E)
+N was a Nobleman, gallant and bold.             [    bold    ]: (F)
+O was an Oyster-wench, one that would scold.    [   scold    ]: (F)
+P was a Parson, that wore a black Gown.         [    gown    ]: (G)
+Q was a Quaker, that would not bow down.        [    down    ]: (G)
+R was a Robber, that wanted a Whip.             [    whip    ]: (H)
+S was a Sailor, that lived in a Ship.           [    ship    ]: (H)
+T was a Tinker, that mended a Pot.              [    pot     ]: (I)
+Y was a Vintner, a very great Sot.              [    sot     ]: (J)
+W was a Watchman, that guarded the door.        [    door    ]: (K)
+X was expensive, and so became poor.            [    poor    ]: (L)
+Y was a Youth, that did not love School.        [   school   ]: (M)
+Z was a Zany, that looked like a Fool.          [    fool    ]: (M)
+
+
+

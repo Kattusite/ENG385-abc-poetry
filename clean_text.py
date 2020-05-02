@@ -7,50 +7,6 @@ in_dir = './abcbook_texts/'
 out_dir = './abcbook_clean/'
 
 
-p = inflect.engine()
-
-
-def itos(i):
-    return p.number_to_words(12345, group=2)
-
-
-def toNumWord(match):
-    i = int(match.group(0))
-    return itos(i)
-
-
-def cleanLine(s):
-    replacements = {
-        # HTML Escapes
-        "\&amp;": " and ",
-
-        # Replace fancy quotes with simple quotes
-        "[‘’]": "'",
-        "[“”]": "\"",
-
-        # Remove line drawing chars:
-        "---*": "",
-
-        # Unwind contractions and possessives
-        "'d": "ed",
-        "y's": "ies",
-        #"'s": "s", # breaks he's, that's, ...
-
-        # Sub numbers for word forms
-        "\d+": toNumWord,
-
-        # Remove punctuation:
-        "[\.\?\!,;:\\\\/\(\)\"\-—\*<>\^\[\]\{\}«\$\&■_]": " ",
-
-        # Replace contiguous whitespace with a single space
-        "\s+": " ",
-    }
-
-    for u, v in replacements.items():
-        s = re.sub(u, v, s)
-    return s
-
-
 def cleanText(txt):
     """Cleans an entire multiline text (as a string) and returns the clean string.
 
@@ -94,9 +50,11 @@ def main():
 
         # Drop segments that are significantly shorter than average (titles, metadata)
         lens = [seg.count("\n") for seg in segs]
-        avgLen = sum(lens) / len(lens)
+        lens.sort()
+        qrt1 = lens[len(lens) // 4]
         # and seg.count("\n") >= avgLen # avg length check breaks a lot
         longSegs = [seg for seg in segs if seg]
+        # longSegs = [seg for seg in segs if seg and seg.count("\n") >= qrt1]
         # Sort remaining segments alphabetically to reorder ABCs
         longSegs.sort()
 
@@ -119,15 +77,6 @@ def main():
                     if len(ln) > 3:
                         print(ln.strip(), file=f)
                 print(file=f)
-
-        # Write code to, for each segment:
-        #   For each line that isn't the title:
-        #       Let RP = rhyming part of the last word in the line
-        #       Add RP to a map of all RPs in the segment. the key is the
-        #       rhyming part, and the value is A, B, C, D based on whether we've
-        #       seen it yet in this segment already
-        #       (actually use 1,2,3,4 so we can increment)
-        #
 
 
 if __name__ == '__main__':

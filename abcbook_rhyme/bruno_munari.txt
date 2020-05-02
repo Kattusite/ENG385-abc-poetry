@@ -1,0 +1,251 @@
+A
+an Ant                                          [    ant     ]: (A)
+on an Apple                                     [   apple    ]: (B)
+
+B
+a Blue Butterfly                                [ butterfly  ]: (A)
+
+B
+Bruno Munari’s                                  [ munari's*  ]: (A)
+
+B
+Bruno Munari’s                                  [ munari's*  ]: (A)
+A stunning picture book in full                 [    full    ]: (B)
+color by “a many-sided genius                   [   genius   ]: (C)
+who turns everything he                         [     he     ]: (D)
+touches into a work of art.”°                   [     °*     ]: (E)
+The World Publishing Company                    [  company   ]: (F)
+CLEVELAND AND NEW YORK                          [    york    ]: (G)
+Maria Cimino, New York Public Library           [  library   ]: (F)
+$3.50                                           [    five    ]: (H)
+
+B
+Bruno Munari’s                                  [ munari's*  ]: (A)
+DEDICATION                                      [ dedication ]: (B)
+He who buys this book                           [    book    ]: (C)
+may make the dedication                         [ dedication ]: (B)
+to the child who receives it                    [     it     ]: (D)
+
+C
+Bruno                                           [   bruno    ]: (A)
+Munari                                          [  munari*   ]: (B)
+
+C
+a Crow                                          [    crow    ]: (A)
+on a Cup                                        [    cup     ]: (B)
+a Candle                                        [   candle   ]: (C)
+
+D
+a Drum                                          [    drum    ]: (A)
+
+F
+a Fly                                           [    fly     ]: (A)
+a Flower                                        [   flower   ]: (B)
+a Feather                                       [  feather   ]: (C)
+
+H
+look out, fly!                                  [    fly     ]: (A)
+a Hammer over a Hat                             [    hat     ]: (B)
+
+I
+shoo, fly!                                      [    fly     ]: (A)
+lots of Ice Cream                               [   cream    ]: (B)
+
+L
+and a Lemon                                     [   lemon    ]: (A)
+
+M
+Munari                                          [  munari*   ]: (A)
+Bruno Munari is an Italian artist               [   artist   ]: (B)
+who has been acclaimed as a                     [     a      ]: (C)
+painter, sculptor, photographer,                [photographer]: (D)
+designer of books, toys,                        [    toys    ]: (E)
+and mobiles. Interested in functional           [ functional ]: (F)
+design and the practical                        [ practical  ]: (G)
+application of modern art, he                   [     he     ]: (H)
+has devoted his extraordinary                   [extraordinary]: (I)
+originality, his spontaneous                    [spontaneous ]: (J)
+wit, and his delicate feeling for               [    for     ]: (K)
+form, space, and color to a                     [     a      ]: (C)
+wide variety of activities ranging              [  ranging   ]: (L)
+from projection slides to a                     [     a      ]: (C)
+fabulous fountain in his native                 [   native   ]: (M)
+Milan.                                          [   milan    ]: (N)
+His drawings and slides                         [   slides   ]: (O)
+have been exhibited in the                      [    the     ]: (P)
+Museum of Modern Art in New                     [    new     ]: (Q)
+York City. Six of his picture                   [  picture   ]: (R)
+books — which one critic has                    [    has     ]: (S)
+called “among the most original,                [  original  ]: (T)
+imaginative and beautiful                       [ beautiful  ]: (U)
+books ever made”—are available                  [ available  ]: (V)
+in this country.                                [  country   ]: (W)
+
+M
+Munari picture books                            [   books    ]: (A)
+ANIMALS FOR SALE                                [    sale    ]: (B)
+THE BIRTHDAY PRESENT                            [  present   ]: (C)
+THE ELEPHANT’S WISH                             [    wish    ]: (D)
+TIC, TAC, AND TOC                               [    toc*    ]: (E)
+WHO'S THERE?                                    [   there    ]: (F)
+OPEN THE DOOR!                                  [    door    ]: (G)
+JIMMY HAS LOST HIS CAP                          [    cap     ]: (H)
+THE WORLD PUBLISHING COMPANY                    [  company   ]: (I)
+CLEVELAND AND NEW YORK                          [    york    ]: (J)
+
+N
+Newspaper                                       [ newspaper  ]: (A)
+
+N
+No bird in the Nest                             [    nest    ]: (A)
+Nuts on a Nail                                  [    nail    ]: (B)
+
+O
+and an Orange                                   [   orange   ]: (A)
+and an Onion                                    [   onion    ]: (B)
+
+P
+Peanuts                                         [  peanuts   ]: (A)
+a Pear                                          [    pear    ]: (B)
+a Pea Pod                                       [    pod     ]: (C)
+for ...                                         [    for     ]: (D)
+
+P
+Published by                                    [     by     ]: (A)
+THE WORLD PUBLISHING COMPANY                    [  company   ]: (B)
+2231 West 110th Street, Cleveland 2, Ohio       [    ohio    ]: (C)
+Published simultaneously in Canada by           [     by     ]: (A)
+Nelson, Foster &amp; Scott Ltd.                 [    ltd     ]: (D)
+Library of Congress Catalog Card Number: 60-11461   [    five    ]: (E)
+First Edition                                   [  edition   ]: (F)
+COHW                                            [   cohw*    ]: (G)
+Copyright © 1960 by Bruno Munari                [  munari*   ]: (H)
+All rights reserved. No part of this book may be reproduced   [ reproduced ]: (I)
+in any form without written permission from the publisher,   [ publisher  ]: (J)
+except for brief passages included in a review appearing in a   [     a      ]: (K)
+newspaper or magazine. Printed in the United States of America.   [  america   ]: (L)
+
+Q
+a Quail                                         [   quail    ]: (A)
+
+R
+a Rose                                          [    rose    ]: (A)
+and a Red Ribbon                                [   ribbon   ]: (B)
+
+S
+STOP                                            [    stop    ]: (A)
+and a Sign                                      [    sign    ]: (B)
+all kinds of Shells                             [   shells   ]: (C)
+
+T
+a Trumpet                                       [  trumpet   ]: (A)
+a Ticket                                        [   ticket   ]: (B)
+a Telephone                                     [ telephone  ]: (C)
+
+W
+
+X
+a Xylophone                                     [ xylophone  ]: (A)
+
+a
+Vertical                                        [  vertical  ]: (A)
+Violet                                          [   violet   ]: (B)
+Violin                                          [   violin   ]: (C)
+
+a
+a Banana                                        [   banana   ]: (A)
+and a Book                                      [    book    ]: (B)
+
+a
+a Dog and his Dish                              [    dish    ]: (A)
+outside a Door                                  [    door    ]: (B)
+
+a
+a Juggler                                       [  juggler   ]: (A)
+
+a
+a Knothole                                      [ knothole*  ]: (A)
+between a Key                                   [    key     ]: (B)
+and a Knife                                     [   knife    ]: (C)
+
+a
+a Long Leaf                                     [    leaf    ]: (A)
+a Leaf                                          [    leaf    ]: (A)
+a Little Leaf                                   [    leaf    ]: (A)
+
+a
+a Match                                         [   match    ]: (A)
+
+a
+a Monkey                                        [   monkey   ]: (A)
+and a Mouse                                     [   mouse    ]: (B)
+
+a
+a Piano                                         [   piano    ]: (A)
+a Package                                       [  package   ]: (B)
+
+a
+a Sack                                          [    sack    ]: (A)
+of Stars                                        [   stars    ]: (B)
+and Snow                                        [    snow    ]: (C)
+Santa Claus                                     [   claus    ]: (D)
+STARS &amp; SNOW SNOW SANTA CLAUS               [   claus    ]: (D)
+
+a
+a Ship                                          [    ship    ]: (A)
+even                                            [    even    ]: (B)
+and a Stone                                     [   stone    ]: (C)
+
+a
+a Watermelon                                    [ watermelon ]: (A)
+on a Wagon                                      [   wagon    ]: (B)
+with a Wooden Wheel                             [   wheel    ]: (C)
+
+a
+a Yellow Yacht                                  [   yacht    ]: (A)
+zzzzz                                           [   zzzzz*   ]: (B)
+zzzz                                            [   zzzz*    ]: (C)
+
+a
+a fly on a Voyage                               [   voyage   ]: (A)
+
+a
+an Elephant                                     [  elephant  ]: (A)
+an Egg                                          [    egg     ]: (B)
+
+a
+an Eye and an Ear                               [    ear     ]: (A)
+
+a
+an Owl                                          [    owl     ]: (A)
+
+a
+an Umbrella Up                                  [     up     ]: (A)
+
+a
+and a Cat in a Cage                             [    cage    ]: (A)
+
+a
+and a Fish                                      [    fish    ]: (A)
+more Flies                                      [   flies    ]: (B)
+
+a
+and a Gift for you                              [    you     ]: (A)
+
+a
+and an Umbrella                                 [  umbrella  ]: (A)
+Under the Umbrella                              [  umbrella  ]: (A)
+
+f
+fly going Zzzz....                              [   zzzz*    ]: (A)
+1 2 3 4 5 64 63 62 61 60                        [    five    ]: (B)
+
+s
+seven Knots on a string and a Kite              [    kite    ]: (A)
+
+s
+still another fly!                              [    fly     ]: (A)
+Glasses in Green Grass                          [   grass    ]: (B)
+
+
+

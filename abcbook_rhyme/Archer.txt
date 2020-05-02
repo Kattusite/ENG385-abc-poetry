@@ -1,0 +1,213 @@
+ 
+
+A
+was an Archer,                                  [   archer   ]: (A)
+And shot at a                                   [     a      ]: (B)
+Frog.                                           [    frog    ]: (C)
+
+A
+A, WAS AN ARCHER                                [   archer   ]: (A)
+PICTURE                                         [  picture   ]: (B)
+ALPHABET OF NOUNS                               [   nouns    ]: (C)
+
+A
+A, was an Archer,                               [   archer   ]: (A)
+PICTURE                                         [  picture   ]: (B)
+Alphabet of Nouns.                              [   nouns    ]: (C)
+
+A
+ALPHABET OF NOUNS.                              [   nouns    ]: (A)
+And Book of Objects.                            [  objects   ]: (B)
+Arrow. Anchor. Axe.                             [    axe     ]: (C)
+Acorn. Arch.                                    [    arch    ]: (D)
+Bat. Bell. Book.                                [    book    ]: (E)
+Boat. Butts.                                    [   butts    ]: (F)
+Cannon. Cat. Crow.                              [    crow    ]: (G)
+Cart. Cottage.                                  [  cottage   ]: (H)
+
+B
+was a Butcher,                                  [  butcher   ]: (A)
+Who had a great                                 [   great    ]: (B)
+Dog.                                            [    dog     ]: (C)
+
+C
+was a Captain,                                  [  captain   ]: (A)
+All covered with                                [    with    ]: (B)
+Lace.                                           [    lace    ]: (C)
+
+D
+Dove. Dog. Duck.                                [    duck    ]: (A)
+Doll. Drum.                                     [    drum    ]: (B)
+Elk. Eagle. Ewe.                                [    ewe     ]: (C)
+Egg. Elephant.                                  [  elephant  ]: (D)
+Fish. Fly. Feather.                             [  feather   ]: (E)
+Footman. Fig.                                   [    fig     ]: (F)
+
+D
+was a Dunce,                                    [   dunce*   ]: (A)
+With a very sad                                 [    sad     ]: (B)
+Face.                                           [    face    ]: (C)
+
+D
+DEANS’ ONE SHILLING COLOURED PICTURE BOOKS      [   books    ]: (A)
+
+E
+was an Esquire,                                 [  esquire   ]: (A)
+With pride on                                   [     on     ]: (B)
+his brow.                                       [    brow    ]: (C)
+
+F
+was a Farmer,                                   [   farmer   ]: (A)
+And followed                                    [  followed  ]: (B)
+the Plough.                                     [   plough   ]: (C)
+
+G
+Goat. Gipsy. Greyhound.                         [ greyhound  ]: (A)
+Grapes. Goose.                                  [   goose    ]: (B)
+Hawk. House. Harp.                              [    harp    ]: (C)
+Horse. Hunter.                                  [   hunter   ]: (D)
+I i J j                                         [     j      ]: (E)
+Inn. Indian. Image. Island.                     [   island   ]: (F)
+Jar. Jay.                                       [    jay     ]: (E)
+
+G
+was a Gamester,                                 [ gamester*  ]: (A)
+And he had ill                                  [    ill     ]: (B)
+luck.                                           [    luck    ]: (C)
+
+H
+was a Hunter,                                   [   hunter   ]: (A)
+And hunted a                                    [     a      ]: (B)
+Buck.                                           [    buck    ]: (C)
+
+I
+I i J j                                         [     j      ]: (A)
+was a Joiner,                                   [   joiner   ]: (B)
+And built up a                                  [     a      ]: (A)
+House                                           [   house    ]: (C)
+
+K
+Kite. Kid. King. Key.                           [    key     ]: (A)
+Kitten. Knocker.                                [  knocker*  ]: (B)
+Ladder. Lark. Lion.                             [    lion    ]: (C)
+Lady. Leech.                                    [   leech    ]: (D)
+Mill. Melon. Monkey.                            [   monkey   ]: (E)
+Mouse. Magpie.                                  [   magpie   ]: (F)
+
+K
+was a King,                                     [    king    ]: (A)
+And governed a                                  [     a      ]: (B)
+Mouse.                                          [   mouse    ]: (C)
+
+L
+was a Lady,                                     [    lady    ]: (A)
+And had a white                                 [   white    ]: (B)
+Hand.                                           [    hand    ]: (C)
+
+L
+LONDON:                                         [   london   ]: (A)
+DEAN AND SON,                                   [    son     ]: (B)
+Lithographers, Printers, and Publishers, Juvenile Publication Warehouse, 11, Ludgate Hill.   [    hill    ]: (C)
+
+M
+was a Merchant,                                 [  merchant  ]: (A)
+To some foreign                                 [  foreign   ]: (B)
+Land.                                           [    land    ]: (C)
+
+N
+Nun. News. Nobleman. Nurse.                     [   nurse    ]: (A)
+Nest. Nosegay. Negro.                           [   negro    ]: (B)
+Owl. Orange. Organ.                             [   organ    ]: (C)
+Ostrich. Oyster. Obelisk.                       [  obelisk*  ]: (D)
+Pig. Pie. Plough.                               [   plough   ]: (E)
+Pear. Parrot. Pail.                             [    pail    ]: (F)
+
+N
+was a Nobleman,                                 [  nobleman  ]: (A)
+Gallant and                                     [    and     ]: (B)
+Bold.                                           [    bold    ]: (C)
+
+O
+was an Oyster-                                  [   oyster   ]: (A)
+girl,—-                                         [    girl    ]: (B)
+One that could                                  [   could    ]: (C)
+Scold.                                          [   scold    ]: (D)
+
+P
+was a Parson,                                   [   parson   ]: (A)
+And wore                                        [    wore    ]: (B)
+a black Gown.                                   [    gown    ]: (C)
+
+Q
+Quail. Quiver. Quay (or Wharf.)                 [   wharf    ]: (A)
+Quagmire. Queen.                                [   queen    ]: (B)
+Rake. Rein-Deer. Robin.                         [   robin    ]: (C)
+Rainbow. Rabbit.                                [   rabbit   ]: (D)
+Swan. Sheep. Snail. Ship.                       [    ship    ]: (E)
+Soldier. Sailor.                                [   sailor   ]: (F)
+
+Q
+was a Queen,                                    [   queen    ]: (A)
+And wore a rich                                 [    rich    ]: (B)
+Crown.                                          [   crown    ]: (C)
+
+R
+was a Robber                                    [   robber   ]: (A)
+Who needed the                                  [    the     ]: (B)
+Whip.                                           [    whip    ]: (C)
+
+S
+was a Sailor,                                   [   sailor   ]: (A)
+And lived in a                                  [     a      ]: (B)
+Ship                                            [    ship    ]: (C)
+
+T
+Tomb. Tiger. Trap.                              [    trap    ]: (A)
+Tower. Turnstile. Tumbler.                      [  tumbler   ]: (B)
+U u V v                                         [     v      ]: (C)
+Unshorn. Urn. Volcano. Vial. Vane.              [    vane    ]: (D)
+Unveil.                                         [   unveil   ]: (E)
+Wasp. Wherry. Weight.                           [   weight   ]: (F)
+Wine. Wheel.                                    [   wheel    ]: (G)
+
+T
+was a Tinker,                                   [   tinker   ]: (A)
+and mended a                                    [     a      ]: (B)
+Pot.                                            [    pot     ]: (C)
+
+U
+U u V v                                         [     v      ]: (A)
+was a Vintner,                                  [  vintner   ]: (B)
+A very great                                    [   great    ]: (C)
+Sot.                                            [    sot     ]: (D)
+
+W
+was a Watchman,                                 [  watchman  ]: (A)
+And guarded the                                 [    the     ]: (B)
+door.                                           [    door    ]: (C)
+
+X
+Number Ten.                                     [    ten     ]: (A)
+Yarn. Yolk.                                     [    yolk    ]: (B)
+Yew. Yard. Youth.                               [   youth    ]: (C)
+Yeoman. Yawn.                                   [    yawn    ]: (D)
+Zigzag. Zebra.                                  [   zebra    ]: (E)
+Zoology.                                        [  zoology   ]: (F)
+
+X
+was Expensive,                                  [ expensive  ]: (A)
+And so became                                   [   became   ]: (B)
+poor.                                           [    poor    ]: (C)
+
+Y
+was a Youth,                                    [   youth    ]: (A)
+Who did not like                                [    like    ]: (B)
+School.                                         [   school   ]: (C)
+
+Z
+was a Zany,                                     [    zany    ]: (A)
+And looked like                                 [    like    ]: (B)
+a Fool.                                         [    fool    ]: (C)
+
+
+

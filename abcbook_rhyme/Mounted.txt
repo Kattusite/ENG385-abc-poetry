@@ -1,0 +1,196 @@
+A
+A was an Angler,                                [   angler   ]: (A)
+Went out in a fog,                              [    fog     ]: (B)
+Who fished all the day,                         [    day     ]: (C)
+And caught only a frog.                         [    frog    ]: (D)
+
+B
+B was cook Betty,                               [   betty    ]: (A)
+A-baking a pie,                                 [    pie     ]: (B)
+With ten or twelve apples                       [   apples   ]: (C)
+All piled up on high.                           [    high    ]: (B)
+
+C
+C was a Custard                                 [  custard   ]: (A)
+In a glass dish,                                [    dish    ]: (B)
+With as much cinnamon                           [  cinnamon  ]: (C)
+As you could wish.                              [    wish    ]: (B)
+
+D
+D was fat Dick,                                 [    dick    ]: (A)
+Who did nothing but eat;                        [    eat     ]: (B)
+He would leave book and play                    [    play    ]: (C)
+For a nice bit of meat.                         [    meat    ]: (B)
+
+E
+E is an Egg                                     [    egg     ]: (A)
+In a basket with more,                          [    more    ]: (B)
+Which Peggy will sell                           [    sell    ]: (C)
+For a shilling a score.                         [   score    ]: (B)
+
+F
+F was a Fox,                                    [    fox     ]: (A)
+So cunning and sly,                             [    sly     ]: (B)
+Who looks at the hen-roost,                     [   roost    ]: (C)
+I need not say why!                             [    why     ]: (B)
+
+G
+G was a Greyhound,                              [ greyhound  ]: (A)
+As fleet as the wind;                           [    wind    ]: (B)
+In the race or the course                       [   course   ]: (C)
+Left all others behind.                         [   behind   ]: (D)
+
+H
+H was a Heron,                                  [   heron    ]: (A)
+Who lived near a pond;                          [    pond    ]: (B)
+Of gobbling the fishes                          [   fishes   ]: (C)
+He was wondrously fond.                         [    fond    ]: (B)
+
+I
+I was the Ice                                   [    ice     ]: (A)
+On which Billy would skate;                     [   skate    ]: (B)
+So up went his heels,                           [   heels    ]: (C)
+And down went his pate.                         [    pate    ]: (B)
+
+J
+J was Joe Jenkins,                              [  jenkins   ]: (A)
+Who played on the fiddle;                       [   fiddle   ]: (B)
+He began twenty tunes,                          [   tunes    ]: (C)
+But left off in the middle.                     [   middle   ]: (B)
+
+K
+K was a Kitten,                                 [   kitten   ]: (A)
+Who jumped at a cork,                           [    cork    ]: (B)
+And learned to eat mice                         [    mice    ]: (C)
+Without plate, knife, or fork.                  [    fork    ]: (B)
+
+K
+KEY TO THE                                      [    the     ]: (A)
+NURSERY RHYME ALPHABET.                         [  alphabet  ]: (B)
+The child should be required to name the objects in this Alphabet, without seeing the Kay; which can be referred to, if necessary. By this means a knowledge of objects, and the amusement of using his own observations, will be obtained.   [  obtained  ]: (C)
+
+L
+L is a Lark,                                    [    lark    ]: (A)
+Who sings us a song,                            [    song    ]: (B)
+And wakes us betimes                            [  betimes*  ]: (C)
+Lest we sleep too long.                         [    long    ]: (B)
+
+L
+LONDON:                                         [   london   ]: (A)
+FREDERICK WARNE AND CO.                         [     co     ]: (B)
+BEDFORD STREET, STRAND.                         [   strand   ]: (C)
+NEW YORK: SCRIBNER, WELFORD, AND ARMSTRONG      [ armstrong  ]: (D)
+
+M
+M was Miss Molly,                               [   molly    ]: (A)
+Who turned in her toes,                         [    toes    ]: (B)
+And hung down her head                          [    head    ]: (C)
+Till her knees touched her nose.                [    nose    ]: (B)
+
+M
+MOUNTED                                         [  mounted   ]: (A)
+PICTURE TOY BOOK                                [    book    ]: (B)
+COMPRISING                                      [ comprising ]: (C)
+NURSERY RHYME                                   [   rhyme    ]: (D)
+NURSERY NUMBERS                                 [  numbers   ]: (E)
+THE TINY TEA PARTY                              [   party    ]: (F)
+THE BOOK OF TRADES                              [   trades   ]: (G)
+
+N
+N is a Nosegay                                  [  nosegay*  ]: (A)
+Sprinkled with dew,                             [    dew     ]: (B)
+Pulled in the morning,                          [  morning   ]: (C)
+And presented to you.                           [    you     ]: (B)
+
+N
+NURSERY RHYME ALPHABET.                         [  alphabet  ]: (A)
+
+O
+O is an Owl,                                    [    owl     ]: (A)
+Who looks wondrously wise;                      [    wise    ]: (B)
+But he’s watching a mouse                       [   mouse    ]: (C)
+With his large round eyes.                      [    eyes    ]: (B)
+
+P
+P is a Parrot,                                  [   parrot   ]: (A)
+With feathers like gold,                        [    gold    ]: (B)
+Who talks just as much,                         [    much    ]: (C)
+And no more, than he’s told.                    [    told    ]: (B)
+
+Q
+Q is the Queen                                  [   queen    ]: (A)
+Who governs the land,                           [    land    ]: (B)
+And sits on a throne                            [   throne   ]: (C)
+Very lofty and grand.                           [   grand    ]: (B)
+
+R
+R is a Raven,                                   [   raven    ]: (A)
+Perched on an oak,                              [    oak     ]: (B)
+Who, with a gruff voice,                        [   voice    ]: (C)
+Cries, Croak, croak, croak!                     [   croak    ]: (B)
+
+S
+S is the Sheep,                                 [   sheep    ]: (A)
+Cropping grass on the lea:                      [    lea     ]: (B)
+Their owner has marked                          [   marked   ]: (C)
+On their backs a large D.                       [     d      ]: (B)
+
+T
+T is a Trumpeter,                               [ trumpeter  ]: (A)
+Blowing his horn,                               [    horn    ]: (B)
+Who tells us the news                           [    news    ]: (C)
+As we rise in the morn.                         [    morn    ]: (B)
+
+T
+TO THE CHILDREN OF GREAT BRITAIN.               [  britain   ]: (A)
+
+U
+U is a Unicorn,                                 [  unicorn   ]: (A)
+Who, as it is said,                             [    said    ]: (B)
+Wears an ivory bodkin                           [   bodkin   ]: (C)
+On his forehead.                                [  forehead  ]: (D)
+
+V
+V is a Vulture                                  [  vulture   ]: (A)
+Who eats a great deal,                          [    deal    ]: (B)
+Devouring a dog                                 [    dog     ]: (C)
+Or a cat at a meal.                             [    meal    ]: (B)
+
+W
+W was a Watchman,                               [  watchman  ]: (A)
+Who guarded the street,                         [   street   ]: (B)
+Lest robbers or thieves                         [  thieves   ]: (C)
+Good people should meet.                        [    meet    ]: (B)
+
+W
+WARNE’S                                         [  warne's*  ]: (A)
+Mounted Picture Toy Book                        [    book    ]: (B)
+
+W
+WARNE’S Mounted Picture Toy Book is published for the amusement of all good children. When a Volume has been thoroughly used, Papa, Mamma, Uncle, or Aunt can get a different one, as there are several Volumes with the same Title.   [   title    ]: (A)
+
+W
+WITH                                            [    with    ]: (A)
+THIRTY-TWO PAGES OF ILLUSTRATIONS               [illustrations]: (B)
+PRINTED IN COLOURS                              [  colours   ]: (C)
+
+X
+X was King Xerxes,                              [   xerxes   ]: (A)
+Who, if you don’t know,                         [    know    ]: (B)
+Reigned over Persia                             [   persia   ]: (C)
+A great while ago.                              [    ago     ]: (B)
+
+Y
+Y is a Yacht                                    [   yacht    ]: (A)
+Sailing far out to sea;                         [    sea     ]: (B)
+If you were on board,                           [   board    ]: (C)
+How nice it would be!                           [     be     ]: (B)
+
+Z
+Z is a Zebra,                                   [   zebra    ]: (A)
+Whom you’ve heard of before;                    [   before   ]: (B)
+So here ends my rhyme                           [   rhyme    ]: (C)
+Till I find you some more.                      [    more    ]: (B)
+
+
+

@@ -1,0 +1,28 @@
+﻿
+﻿ANATOMICAL RESEARCHES.                         [ researches ]: (A)
+BOUND IN BOARDS,                                [   boards   ]: (B)
+COLLISION.                                      [ collision  ]: (C)
+DIFFERENCE OF OPINION.                          [  opinion   ]: (D)
+EXPECTATION                                     [expectation ]: (E)
+FOUR-IN-HAND                                    [    hand    ]: (F)
+GRAVITY.                                        [  gravity   ]: (G)
+HYDRAULICS.                                     [ hydraulics ]: (H)
+IMPOSSIBILITY.                                  [impossibility]: (I)
+KILLING NO MURDER,                              [   murder   ]: (J)
+LIGHT AND SHADE,                                [   shade    ]: (K)
+MOCK TURTLE                                     [   turtle   ]: (L)
+NUTS TO CRACK                                   [   crack    ]: (M)
+OLD BOGIE,                                      [   bogie    ]: (N)
+PLASTER OF PARIS                                [   paris    ]: (O)
+QUILL-DRIVING.                                  [  driving   ]: (P)
+RUNNING FOR A DINNER,                           [   dinner   ]: (Q)
+SHAVING A GREENHORN,                            [ greenhorn* ]: (R)
+TIME FLIES.                                     [   flies    ]: (S)
+USHER OF THE BLACK ROD.                         [    rod     ]: (T)
+WET-NURSE.                                      [   nurse    ]: (U)
+X-TRA-ORDINARY,                                 [  ordinary  ]: (V)
+YARD-ARM AND YARD-ARM#                          [   arm#*    ]: (W)
+ZOOGRAPHER.                                     [zoographer* ]: (X)
+
+
+

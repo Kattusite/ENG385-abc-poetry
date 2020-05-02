@@ -1,0 +1,156 @@
+A
+The ACCORDION by Peg Leg Pete                   [    pete    ]: (A)
+Is played with charm and grace                  [   grace    ]: (B)
+
+A
+A MICKEY MOUSE                                  [   mouse    ]: (A)
+Musical ABC STORY                               [   story    ]: (B)
+Walt                                            [    walt    ]: (C)
+Disney                                          [   disney   ]: (D)
+
+A
+A MICKEY MOUSE                                  [   mouse    ]: (A)
+Musical ABC STORY                               [   story    ]: (B)
+Walt                                            [    walt    ]: (C)
+Disney                                          [   disney   ]: (D)
+
+B
+His BANJO Donald Duck tunes up                  [     up     ]: (A)
+Just watch his happy face                       [    face    ]: (B)
+
+C
+Mickey as CONDUCTOR                             [ conductor  ]: (A)
+Waves his baton up and down                     [    down    ]: (B)
+
+D
+And Horace bangs upon the DRUM                  [    drum    ]: (A)
+He's heard throughout the town                  [    town    ]: (B)
+
+E
+The Monkey Clown's EUPHONIUM                    [ euphonium* ]: (A)
+Accompanies a song                              [    song    ]: (B)
+
+F
+And Clarabelle picks up her FLUTE               [   flute    ]: (A)
+And tootles loud and long                       [    long    ]: (B)
+
+G
+Don Pedro sings a serenade                      [  serenade  ]: (A)
+While playing the GUITAR                        [   guitar   ]: (B)
+
+H
+Upon the HORN blows Peter Pig                   [    pig     ]: (A)
+And makes more noise by far                     [    far     ]: (B)
+
+H
+HELLO CHILDREN, girls and boys,                 [    boys    ]: (A)
+This is Mickey Mouse,                           [   mouse    ]: (B)
+Bringing with a merry noise                     [   noise    ]: (A)
+Music to your house                             [   house    ]: (B)
+If you listen you will hear                     [    hear    ]: (C)
+The latest compositions;                        [compositions]: (D)
+See pictures full of happy cheer,               [   cheer    ]: (E)
+Of twenty-six musicians.                        [ musicians  ]: (D)
+Under my conducting hand                        [    hand    ]: (F)
+Playing any song;                               [    song    ]: (G)
+The A.B.C. symphony band                        [    band    ]: (F)
+Never can go wrong.                             [   wrong    ]: (G)
+My introduction has been said,                  [    said    ]: (H)
+But now there’s more to see;                    [    see     ]: (I)
+So read right through from A to Z               [     z      ]: (I)
+The musical A.B.C.                              [     c      ]: (I)
+
+I
+The Goof tries out two INSTRUMENTS              [instruments ]: (A)
+That's really rather queer                      [   queer    ]: (B)
+
+J
+When Mickey plays some special JAZZ             [    jazz    ]: (A)
+The others start to cheer                       [   cheer    ]: (B)
+
+K
+M'Bonga beats the KETTLE-DRUM                   [    drum    ]: (A)
+He likes its rattling noise                     [   noise    ]: (B)
+
+L
+While on the LYRE Clara Cluck                   [   cluck    ]: (A)
+A tender tune enjoys                            [   enjoys   ]: (B)
+
+M
+Pluto's always useful                           [   useful   ]: (A)
+His tail's a MUSIC-STAND                        [   stand    ]: (B)
+
+M
+MICKEY, driving down the road,                  [    road    ]: (A)
+Was hauling a tremendous load                   [    load    ]: (A)
+Of horns and drums and other things,            [   things   ]: (B)
+Let’s hear what his announcement brings.        [   brings   ]: (B)
+
+N
+He listens to the splendid NOISE                [   noise    ]: (A)
+Made by the Babies-band                         [    band    ]: (B)
+
+O
+Old Grandpa plays the ORGAN                     [   organ    ]: (A)
+But the wind blows off his hat                  [    hat     ]: (B)
+
+P
+While Mickey at the PIANO                       [   piano    ]: (A)
+Hits every sharp and flat                       [    flat    ]: (B)
+
+Q
+Then four of Mickey's clever band               [    band    ]: (A)
+All sing in a QUARTETTE                         [ quartette* ]: (B)
+
+R
+Till the babies with the RATTLES                [  rattles   ]: (A)
+The music sweet upset                           [   upset    ]: (B)
+
+S
+The Dippy Dogs blow SAXOPHONES                  [ saxophones ]: (A)
+A long and joyful note                          [    note    ]: (B)
+
+S
+SO-LONG, Children!                              [  children  ]: (A)
+A-B-C ing you                                   [    you     ]: (B)
+again shortly!                                  [  shortly   ]: (C)
+LONDON AND GLASGOW: COLLINS' CLEAR-TYPE PRESS   [   press    ]: (D)
+
+S
+Song o' Six-and-Twenty                          [   twenty   ]: (A)
+PLAYED BY THE MICKEY MOUSE A-B-C BAND           [    band    ]: (B)
+A and B and C; We sing it all with glee, With a   [     a      ]: (C)
+Hey diddle diddle on the flute, on the fiddle, for a clever band are we.   [     we     ]: (D)
+E and F and G; As simple as can be; With a      [     a      ]: (C)
+hey diddle diddle and a song in the middle, that's the Mickey Mouse Musical A B C.   [     c      ]: (D)
+
+T
+They are answered on the TRUMPET                [  trumpet   ]: (A)
+By Gideon the Goat                              [    goat    ]: (B)
+
+U
+Minnie's UKELELE                                [  ukelele*  ]: (A)
+Wins everybody's praise                         [   praise   ]: (B)
+
+V
+And squeakingly his VIOLIN                      [   violin   ]: (A)
+The thin grasshopper plays                      [   plays    ]: (B)
+
+W
+Donald Duck takes out his WHISTLE               [  whistle   ]: (A)
+A merry tune to blow                            [    blow    ]: (B)
+
+X
+While the babies on the XYLOPHONE               [ xylophone  ]: (A)
+Run gaily to and fro                            [    fro     ]: (B)
+
+Y
+Clarabelle can YODEL                            [   yodel    ]: (A)
+In tune with all the rest                       [    rest    ]: (B)
+
+Z
+And in the Grand Finale                         [   finale   ]: (A)
+The whole band plays with ZEST                  [    zest    ]: (B)
+
+
+

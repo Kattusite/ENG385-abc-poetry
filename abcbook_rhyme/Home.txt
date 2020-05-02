@@ -1,0 +1,396 @@
+A
+For the ARCH, which you see when you start,     [   start    ]: (A)
+That people pass under before they depart.      [   depart   ]: (A)
+for the BUFFER, with pads so complete,          [  complete  ]: (B)
+It saves you from jolts when the carriages meet.   [    meet    ]: (B)
+
+A
+A a ARCH.                                       [    arch    ]: (A)
+Is for ARCH; quite a wonder, ’tis said,         [    said    ]: (B)
+With a boat underneath, and a coach overhead.   [  overhead  ]: (B)
+B b BELL.                                       [    bell    ]: (C)
+Is for BELL. See the passengers run,            [    run     ]: (D)
+To get safe on the boat ‘ere the ringing is done.   [    done    ]: (D)
+
+B
+B b B b B b                                     [     b      ]: (A)
+Book. Book-sell-er. Butch-er.                   [     er     ]: (B)
+B begins Bookseller, you know,                  [    know    ]: (C)
+With pretty Books on shelves in row,            [    row     ]: (C)
+Butcher, Baker, too, is B;                      [     b      ]: (A)
+Useful trades, as all agree.                    [   agree    ]: (A)
+C c C c C c                                     [     c      ]: (A)
+Coo-per. Car-pen-ter. Cut-ler.                  [    ler*    ]: (D)
+C begins Cooper, making pails,                  [   pails    ]: (E)
+And Carpenter, our stairs and rails.            [   rails    ]: (E)
+And C begins a Cutler, too;                     [    too     ]: (F)
+Forming tools such work to do.                  [     do     ]: (F)
+
+B
+Baker. Bookseller.                              [ bookseller ]: (A)
+Cooper. Carpenter.                              [ carpenter  ]: (B)
+
+C
+Is the letter that stands for the CHAIN         [   chain    ]: (A)
+That links all the carriages into one train.    [   train    ]: (A)
+For the DRIVER, who drives without whip,        [    whip    ]: (B)
+And keeps up the steam as he takes you a trip.   [    trip    ]: (B)
+
+D
+D d D d D d                                     [     d      ]: (A)
+Dy-er. Dai-ry. Dai-ry-man.                      [    man     ]: (B)
+D begins Dyer,--by his trade,                   [   trade    ]: (C)
+Clothes are of various colours made.            [    made    ]: (C)
+And a Dairyman is D,                            [     d      ]: (A)
+Selling cream and milk for tea.                 [    tea     ]: (A)
+E e E e E e                                     [     e      ]: (A)
+En-grav-er. En-gin-eer.                         [    eer*    ]: (D)
+E an Engraver here you view;                    [    view    ]: (E)
+A useful art, and pleasing too.                 [    too     ]: (E)
+And an Engineer is E,                           [     e      ]: (A)
+Planning steam machinery.                       [ machinery  ]: (F)
+
+D
+Dairyman. Dyer.                                 [    dyer    ]: (A)
+Engineer. Engraver.                             [  engraver  ]: (B)
+
+E
+Stands for ENGINE, all puff, fire, and smoke    [   smoke    ]: (A)
+That is fed in a day with some bushels of coke.   [    coke    ]: (A)
+Stands for FOG, that in winter we find          [    find    ]: (B)
+Often causes the train to be hours behind.      [   behind   ]: (B)
+
+E
+E e ENGINE.                                     [   engine   ]: (A)
+Is for ENGINE, which never does tire,           [    tire    ]: (B)
+While fed by the steam made by water and fire.   [    fire    ]: (B)
+F f FLAG.                                       [    flag    ]: (C)
+For the FLAG we saw gaily hung out;             [    out     ]: (D)
+The breeze is so gentle it scarce moves about.   [   about    ]: (D)
+
+F
+F f F f F f                                     [     f      ]: (A)
+Fish. Fish-mon-ger. Flor-ist.                   [    ist*    ]: (B)
+F begins Fishmonger, who’ll try                 [    try     ]: (C)
+To sell good fish to passers by.                [     by     ]: (C)
+F for Fiddle, too, we know;                     [    know    ]: (D)
+And Florist with a Flower show.                 [    show    ]: (D)
+G g G g G g                                     [     g      ]: (E)
+Gro-cer. Glass. Gla-zi-er.                      [     er     ]: (F)
+G begins Grocer, selling nice                   [    nice    ]: (G)
+Tea, and sugar, plums, and spice.               [   spice    ]: (H)
+G begins a Glazier, too,                        [    too     ]: (I)
+Mending windows broken through.                 [  through   ]: (I)
+
+F
+Florist. Fishmonger.                            [ fishmonger ]: (A)
+Grocer. Glazier.                                [  glazier   ]: (B)
+
+G
+For the GUARD, that sits perched up above,      [   above    ]: (A)
+And sees that no parcels or passengers move.    [    move    ]: (B)
+For the famous HOTEL of the town,               [    town    ]: (C)
+Where gentlemen stop when by rail they come down.   [    down    ]: (C)
+
+G
+G g GREEN FIELDS.                               [   fields   ]: (A)
+For the GREEN FIELDS, on each side they’re seen,   [    seen    ]: (B)
+Now lighted by sunshine, and verdantly green.   [   green    ]: (B)
+H h HELMSMAN.                                   [  helmsman  ]: (C)
+Is for HELMSMAN, and careful is he              [     he     ]: (D)
+To steer us quite safely o’er river and sea.    [    sea     ]: (D)
+
+H
+H h H h H h                                     [     h      ]: (A)
+Hat. Hat-ter. Hawk-er.                          [     er     ]: (B)
+H begins Hatter, Hawker, too,                   [    too     ]: (C)
+And will for Haberdasher do.                    [     do     ]: (C)
+H a Horse dealer;--what a show                  [    show    ]: (D)
+Of pretty ponies in a row.                      [    row     ]: (D)
+I i I i I i J j J j J j                         [     j      ]: (E)
+Iron-mon-ger. Jew-ell-er.                       [     er     ]: (B)
+I begins Ironmonger,--make, he can,             [    can     ]: (F)
+A stove, a kettle, or a pan.                    [    pan     ]: (G)
+J a Jeweller behold;                            [   behold   ]: (H)
+Selling diamonds, pearls, and gold.             [    gold    ]: (H)
+
+H
+Horse dealer. Hatter.                           [   hatter   ]: (A)
+Jeweller. Ironmonger.                           [ironmonger* ]: (B)
+
+I
+I i IMAGE. J j JUNO.                            [    juno    ]: (A)
+For the IMAGE we all of us said                 [    said    ]: (B)
+Must be JUNO, the name of the ship’s figure head.   [    head    ]: (B)
+K k KNOT.                                       [    knot    ]: (C)
+For the KNOT that was made firm and fast;       [    fast    ]: (D)
+We all saw it tied when the journey was past.   [    past    ]: (D)
+
+I
+I i J j                                         [     j      ]: (A)
+Is for INDEX, which points at both ends,        [    ends    ]: (B)
+And tells all the news that the telegraph sends.   [   sends    ]: (B)
+J for the JOURNEY, so pleasant to take.         [    take    ]: (C)
+By which all their money the Company make.      [    make    ]: (C)
+Stands for KEEPER, who fastens the doors,       [   doors    ]: (D)
+To keep safe with keys all goods and all stores.   [   stores   ]: (D)
+
+K
+K k K k K k                                     [     k      ]: (A)
+Knife-mak-er. Knit-ter.                         [    ter     ]: (B)
+K begins Knife-maker, that’s a trade            [   trade    ]: (C)
+By which both knives and forks are made.        [    made    ]: (C)
+K a Knitter, too, may be,                       [     be     ]: (D)
+Knitting cuffs for you and me.                  [     me     ]: (E)
+L l L l L l                                     [     l      ]: (F)
+Let. Let-ter. Let-ter-found-er.                 [     er     ]: (G)
+L for Letter-founder stands;                    [   stands   ]: (H)
+Lace-maker, too, with nimble hands.             [   hands    ]: (H)
+And Locksmith begins with L;                    [     l      ]: (F)
+Linendraper, too, as well.                      [    well    ]: (F)
+
+K
+Knitter. Knife maker.                           [   maker    ]: (A)
+Linen-draper. Locksmith.                        [ locksmith  ]: (B)
+
+L
+For the LANTERN policemen thrust out,           [    out     ]: (A)
+And ask you to show what your ticket’s about.   [   about    ]: (A)
+For the MILE-MARK, that never is wrong,         [   wrong    ]: (B)
+It shows us how quickly the train goes along.   [   along    ]: (B)
+
+L
+L l LONDON.                                     [   london   ]: (A)
+Is for LONDON, from whence we depart,           [   depart   ]: (B)
+And kissed all our cousins before we did start.   [   start    ]: (B)
+M m MATE.                                       [    mate    ]: (C)
+For the MATE, like a sailor he’s drest,         [   drest*   ]: (D)
+And to please all the passengers he does his best.   [    best    ]: (E)
+
+M
+M m M m M m                                     [     m      ]: (A)
+Mine. Mil-lin-ner. Mer-chant.                   [   chant    ]: (B)
+M begins a Milliner, so fine,                   [    fine    ]: (C)
+And Miner working in a Mine.                    [    mine    ]: (C)
+And for Merchant with his store,                [   store    ]: (D)
+Trading to a foreign shore.                     [   shore    ]: (D)
+N n N n N n                                     [     n      ]: (E)
+Nurse. News. News-man.                          [    man     ]: (F)
+N begins Nurse, without whose care              [    care    ]: (G)
+Our baby folks would sadly fare.                [    fare    ]: (G)
+And a Newsman, too, is N,                       [     n      ]: (E)
+Sending out his boys and men.                   [    men     ]: (E)
+
+M
+Miner. Milliner.                                [  milliner  ]: (A)
+Newsman. Nurse.                                 [   nurse    ]: (B)
+
+N
+The NAVIGATOR, with pickaxe and spade,          [   spade    ]: (A)
+Who works very hard ‘till a railway is made.    [    made    ]: (A)
+Is for OFFICE, with bookkeepers strange,        [  strange   ]: (B)
+Who give up their tickets for cash in exchange.   [  exchange  ]: (B)
+
+N
+N n NIOBE.                                      [   niobe*   ]: (A)
+For NIOBE,—-we saw this boat pass               [    pass    ]: (B)
+Without any trouble or need of a glass.         [   glass    ]: (B)
+O o OARS.                                       [    oars    ]: (C)
+Is for OARS,--boatsmen each have a pair;        [    pair    ]: (D)
+They’ll row you across, if you but pay the fare.   [    fare    ]: (D)
+
+O
+O o O o O o                                     [     o      ]: (A)
+Oil. Oil-man. Om-ni-bus.                        [    bus     ]: (B)
+O begins Oilman to spell,                       [   spell    ]: (C)
+And Opticians, who magic-lanterns sell.         [    sell    ]: (C)
+O begins an Omnibus,                            [  omnibus   ]: (D)
+Which the coach-builder builds for us.          [     us     ]: (B)
+P p P p P p                                     [     p      ]: (E)
+Pas-try. Pas-try-cook.                          [    cook    ]: (F)
+For P I’m sure you’ll quickly look,             [    look    ]: (F)
+For P begins a Pastrycook;                      [pastrycook* ]: (G)
+And pray remember, it is true,                  [    true    ]: (H)
+P begins Physician, too.                        [    too     ]: (H)
+
+O
+Oilman. Optician.                               [  optician  ]: (A)
+Pastrycook.                                     [pastrycook* ]: (B)
+
+P
+For a careful POLICEMAN, who stands,            [   stands   ]: (A)
+To guard us from danger with flag in his hands.   [   hands    ]: (A)
+For the QUEEN, who oft goes by the train,       [   train    ]: (B)
+And Windsor receives her at home once again.    [   again    ]: (B)
+
+P
+P p PIER-MAN.                                   [    man     ]: (A)
+Is for PIER-MAN, who ready does stand,          [   stand    ]: (B)
+To help all the passengers on to the land.      [    land    ]: (B)
+Q q QUEEN.                                      [   queen    ]: (C)
+Is for QUEEN, so this steamer is named,         [   named    ]: (D)
+And for beauty and speed she long has been famed.   [   famed    ]: (D)
+
+Q
+Q q Q q Q q                                     [     q      ]: (A)
+Quar-ry. Quar-ry-man.                           [    man     ]: (B)
+Q for a Quarry-man is found,                    [   found    ]: (C)
+Heaving stones from under ground.               [   ground   ]: (C)
+Q is a Quack-Doctor’s pill;                     [    pill    ]: (D)
+It may not cure, but make us ill.               [    ill     ]: (D)
+R r R r R r                                     [     r      ]: (E)
+Rope. Rope-mak-er. Rid-er.                      [     er     ]: (F)
+R for a Rope-maker, by whose trade,             [   trade    ]: (G)
+All sorts of Rope and String are made.          [    made    ]: (G)
+R begins Rider, too;--so R                      [     r      ]: (E)
+Is training horses near and far.                [    far     ]: (E)
+
+Q
+Quarry-man.                                     [    man     ]: (A)
+Rope-maker.                                     [   maker    ]: (B)
+
+R
+Is for RAIL, which for miles is laid down,      [    down    ]: (A)
+And takes you, by steam, such a long way from town.   [    town    ]: (A)
+Stand for STATION, with bustle and din,         [    din     ]: (B)
+Where some folks get out, and others get in.    [     in     ]: (B)
+
+R
+R r ROPE.                                       [    rope    ]: (A)
+For the ROPE,--at each stoppage ’tis thrown,    [   thrown   ]: (B)
+To make fast the vessel, as here it is shown.   [   shown    ]: (B)
+S s STATE BARGE. T t THAMES.                    [   thames   ]: (C)
+For a STATE BARGE, which gaily does glide;      [   glide    ]: (D)
+T for the THAMES, which bore it on its tide.    [    tide    ]: (D)
+
+S
+S s S s S s                                     [     s      ]: (A)
+Shoe. Shoe-maker. Smith.                        [   smith    ]: (B)
+S you’ll find begins Shoemaker,                 [ shoemaker  ]: (C)
+Shipwright, Scavenger, and Slater;              [   slater   ]: (D)
+Surgeon, Sawyer, Saddler, too;                  [    too     ]: (E)
+And for Smith will also do.                     [     do     ]: (E)
+T t T t T t                                     [     t      ]: (F)
+Tail-or. Turn. Turn-er.                         [     er     ]: (G)
+T begins Tailor, Turner, too,                   [    too     ]: (E)
+And Tanner tanning skins when new.              [    new     ]: (E)
+Thus into leather skins are made.               [    made    ]: (H)
+A Tinker is another trade.                      [   trade    ]: (H)
+
+S
+Shoemaker. Smith.                               [   smith    ]: (A)
+Turner. Tailor.                                 [   tailor   ]: (B)
+
+T
+For the TUNNEL, that’s under the ground,        [   ground   ]: (A)
+Here the whistle is heard with a very long sound.   [   sound    ]: (A)
+U u V v                                         [     v      ]: (B)
+Stands for URCHIN, so simple and small,         [   small    ]: (C)
+Who cannot make out how the train goes at all.   [    all     ]: (C)
+V is for VIADUCT crossing the road,             [    road    ]: (D)
+Where the river beneath it is oft overflowed.   [ overflowed ]: (D)
+
+T
+ALPHABET OF TRADES,                             [   trades   ]: (A)
+AND INDUSTRY.                                   [  industry  ]: (B)
+A a A a A a                                     [     a      ]: (C)
+Auc-tion. Art. Art-ist.                         [    ist*    ]: (D)
+A begins Ale brewer, Auctioneers,               [auctioneers ]: (E)
+Armourer, too, in former years,                 [   years    ]: (E)
+And an Artist, too, is A,                       [     a      ]: (C)
+Drawing pictures every day.                     [    day     ]: (C)
+
+T
+HOME ALPHABET BOOK.                             [    book    ]: (A)
+WITH DESCRIPTIVE COLOURED ENGRAVINGS.           [ engravings ]: (B)
+LONDON: DEAN AND SON, 11, LUDGATE HILL.         [    hill    ]: (C)
+
+T
+RAILWAY ALPHABET.                               [  alphabet  ]: (A)
+
+T
+STEAM-BOAT ALPHABET.                            [  alphabet  ]: (A)
+
+T
+THE HOME ALPHABET BOOK                          [    book    ]: (A)
+DEANS COLOURED PICTURE BOOK                     [    book    ]: (A)
+
+U
+U u U u U u V v V v V v                         [     v      ]: (A)
+Up. Uphold. Vat. Vast.                          [    vast    ]: (B)
+U for an Upholsterer is here,                   [    here    ]: (C)
+V makes Vats for brewers’ beer.                 [    beer    ]: (D)
+V for Vintner selling wine,                     [    wine    ]: (E)
+For rich people when they dine.                 [    dine    ]: (E)
+W w W w W w                                     [     w      ]: (F)
+War. Wharf. Whar-fin-ger.                       [    ger*    ]: (G)
+W begins Wharfinger, who with crane,            [   crane    ]: (H)
+Lands all goods brought o’er the main,          [    main    ]: (H)
+And you’ll find Wax-chandler, too,              [    too     ]: (I)
+Must begin with W.                              [     w      ]: (F)
+
+U
+U u UNCLE.                                      [   uncle    ]: (A)
+For my UNCLE, who brought us to town,           [    town    ]: (B)
+Then kindly to Margate he took us all down.     [    down    ]: (B)
+V v VICTORY.                                    [  victory   ]: (C)
+For the VICTORY, a vessel we saw;               [    saw     ]: (D)
+And we heard a fine tale of this old ship of war.   [    war     ]: (E)
+
+U
+Upholsterer. Vat-maker.                         [   maker    ]: (A)
+Wharfinger.                                     [wharfinger* ]: (B)
+
+W
+W w WATER.                                      [   water    ]: (A)
+For the WATER so placid and clear;              [   clear    ]: (B)
+Like a mirror so bright does its surface appear.   [   appear   ]: (B)
+X x EXCURSION.                                  [ excursion  ]: (C)
+For the EXCURSION, so pleasant to take;         [    take    ]: (D)
+’Twill long be remembered for dear Uncle’s sake.   [    sake    ]: (D)
+
+W
+W w X x                                         [     x      ]: (A)
+Stands for the WHISTLE that often we hear,      [    hear    ]: (B)
+When a tunnel is nigh, or a station is near.    [    near    ]: (C)
+X for the train that is called the X-PRESS,     [   press    ]: (D)
+That passes a mile in a minute, or less.        [    less    ]: (D)
+is YOURSELF, coming home from the school,       [   school   ]: (E)
+Where lessons are all said according to rule.   [    rule    ]: (E)
+
+X
+X x X x X x                                     [     x      ]: (A)
+X is strong. XX strong-er.                      [     er     ]: (B)
+The letter X no trade will show,                [    show    ]: (C)
+Unless we to the brewer go;                     [     go     ]: (C)
+One who ready has for sale,                     [    sale    ]: (D)
+Rows of XX and XXX ale.                         [    ale     ]: (D)
+Y y Y y Y y                                     [     y      ]: (E)
+You. Youth. Yeo-man.                            [    man     ]: (F)
+Y begins Yeoman, who is born                    [    born    ]: (G)
+To plough the land and till the corn.           [    corn    ]: (G)
+Y a Youth resolved to learn                     [   learn    ]: (H)
+A useful trade, his bread to earn.              [    earn    ]: (H)
+
+X
+X, XX, and XXX Ale.                             [    ale     ]: (A)
+Yeoman.                                         [   yeoman   ]: (B)
+
+Y
+for the YACHT that’s so smartly afloat;         [   afloat   ]: (A)
+for the ZEBRA, the name of our boat.            [    boat    ]: (A)
+
+Z
+Is the last of the letters we take,             [    take    ]: (A)
+Showing the ZIGZAGS the lines often make.       [    make    ]: (A)
+
+Z
+Zoological exhibition.                          [ exhibition ]: (A)
+Z z Z z Z z                                     [     z      ]: (B)
+Zoo-lo-gy is the study of A-ni-mals.            [   mals*    ]: (C)
+Z is a Zoologist, who’ll roam,                  [    roam    ]: (D)
+And bring, from far, strange creatures home,    [    home    ]: (D)
+As we in these gardens see, purchased for Zoology.   [  zoology   ]: (E)
+
+
+

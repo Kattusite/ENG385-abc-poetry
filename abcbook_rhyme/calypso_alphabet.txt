@@ -1,0 +1,188 @@
+A
+A for Anancy.                                   [  anancy*   ]: (A)
+Spiderman of tricky-tricky fame.                [    fame    ]: (B)
+B for bat and ball.                             [    ball    ]: (C)
+That's cricket. Play the game.                  [    game    ]: (B)
+Here arc twenty-six exciting words from the Caribbean Islands. From Anancy to Zombie, John Agard’s rhythmic, vital poetry evokes Calypso sounds while Jennifer Bent's brilliant pictures introduce Caribbean sights.   [   sights   ]: (D)
+Each featured word is indigenous to the Caribbean Islands, and a word list explains the unfamiliar terms. The cadences of the rhyme, the vibrance of the pictures, and the breadth of the subject make this a celebratory alphabet book for all ages.   [    ages    ]: (E)
+
+H
+Here are twenty-six exciting words              [   words    ]: (A)
+from the Caribbean Islands. From Anancy to Zombie,   [   zombie   ]: (B)
+John Agard’s rhythmic, vital poetry evokes      [   evokes   ]: (C)
+calypso sounds while Jennifer Bent’s            [  bent's*   ]: (D)
+brilliant pictures introduce Caribbean sights.   [   sights   ]: (E)
+
+J
+Jacket illustration by                          [     by     ]: (A)
+Jennifer Bent                                   [    bent    ]: (B)
+Henry Holt and Company. Inc.                    [    inc     ]: (C)
+115 West 18th Street                            [   street   ]: (D)
+New York. New York 10011                        [    five    ]: (E)
+Printed in Italy                                [   italy    ]: (F)
+
+J
+John Agard was born in Guyana and now lives in England. He has published five books for children, as well as poetry for adults. He describes The Calypso Alphabet this way:   [    way     ]: (A)
+An ABC with melody                              [   melody   ]: (B)
+An ABC to jog your memory                       [   memory   ]: (C)
+An ABC to take you to the Caribbean Sea         [    sea     ]: (D)
+Bet you never heard it yet?                     [    yet     ]: (E)
+The Calypso Alphabet!                           [  alphabet  ]: (F)
+Jennifer Bent uses a combination of scratch-board and concentrated watercolor inks in her artwork. Jennifer's family live in Jamaica but she lives and works in England.   [  england   ]: (G)
+Jennifer Bent has illustrated one other book for children. My Caribbean Home.   [    home    ]: (H)
+
+N
+Notes                                           [   notes    ]: (0)
+Anancy                                          [  anancy*   ]: (1)
+A popular folk figure who by cunning almost always comes out on top.   [    top     ]: (2)
+bat and ball                                    [    ball    ]: (3)
+Cricket was introduced by the English and the West Indies cricket team has won international renown. There are two teams, each consisting of eleven players. The game is so passionately loved in the Caribbean that children sometimes improvise games using a coconut branch for a bat and even fruit for a ball.   [    ball    ]: (3)
+Caribs                                          [  caribs*   ]: (4)
+One of the Amerindian peoples who inhabited the Caribbean archipelago. With the arrival of Columbus and the Europeans in 1492. despite strong resistance from the Caribs, the indigenous peoples were virtually exterminated from the islands and had to seek refuge on the mainland. Today the Caribbean bears the name of the Caribs.   [  caribs*   ]: (4)
+doh-doh                                         [    doh     ]: (5)
+A term for sleep used in the Caribbean.         [ caribbean  ]: (6)
+eh-eh!                                          [     eh     ]: (7)
+An exclamation of amazement at a strange sight or happening.   [ happening  ]: (8)
+hurry-hurry make bad curry                      [   curry    ]: (9)
+A Creole proverb similar in meaning to “More haste, less speed’.   [  speed'*   ]: (10)
+kaiso                                           [   kaiso*   ]: (11)
+A common word for Calypso. Calypso music is noted for its satirical humor, political awareness, and vigorous beat.   [    beat    ]: (12)
+lickerish                                       [ lickerish* ]: (13)
+In the Caribbean this archaic English word is used to describe a greedy person.   [   person   ]: (14)
+Mooma                                           [   mooma*   ]: (15)
+A term for mother heard among the East Indian community of the Caribbean islands.   [  islands   ]: (16)
+navel-string                                    [   string   ]: (17)
+Traditionally a baby’s umbilical cord is buried and a tree planted over the spot. The custom shows the connectedness of the child with the earth and its ancestors.   [ ancestors  ]: (18)
+okra (ochroe)                                   [  ochroe*   ]: (19)
+A plant whose edible pods have a slippery texture. It is traditionally believed to be good for hair.   [    hair    ]: (20)
+The common name for a steel drum made from an oil barrel.   [   barrel   ]: (21)
+roti                                            [    roti    ]: (22)
+Made from flour, kneaded into a dough, rolled flat and cooked on a hot iron pan called a tawa. It is usually served with curry.   [   curry    ]: (9)
+tanty                                           [   tanty*   ]: (23)
+A derivation from la tante (aunt). It is heard in those parts of the Caribbean where Creole has been influenced by French.   [   french   ]: (24)
+work-song                                       [    song    ]: (25)
+Found in virtually all cultures and usually sung by groups of people to accompany hard physical work.   [    work    ]: (26)
+Xmas                                            [   xmas*    ]: (27)
+Masquerade bands are an integral part of Caribbean Christmas celebrations, combining African and European influences. (X is a commonly used abbreviation for Christ, from the Greek letter Chi.)   [    chi     ]: (28)
+zombie                                          [   zombie   ]: (29)
+According to Haitian folk belief it is someone resurrected from the dead to do the bidding of a sorcerer. It is said that the zombie has neither will nor soul and can break the sorcerer’s spell only by eating salt.   [    salt    ]: (30)
+
+T
+Calypso Alphabet                                [  alphabet  ]: (A)
+John Agard                                      [   agard    ]: (B)
+Illustrated by                                  [     by     ]: (C)
+Jennifer Bent                                   [    bent    ]: (D)
+
+T
+Calypso Alphabet                                [  alphabet  ]: (A)
+John Agard                                      [   agard    ]: (B)
+Illustrated by Jennifer Bent                    [    bent    ]: (C)
+Henry Holt and Company                          [  company   ]: (D)
+New York                                        [    york    ]: (E)
+
+a
+a for Anancy.                                   [  anancy*   ]: (A)
+Spiderman of tricky-tricky fame.                [    fame    ]: (B)
+
+b
+b for bat and ball.                             [    ball    ]: (A)
+That's cricket. Play the game.                  [    game    ]: (B)
+
+c
+c for Caribs.                                   [  caribs*   ]: (A)
+From them Caribbean got its name.               [    name    ]: (B)
+
+d
+d for doh-doh.                                  [    doh     ]: (A)
+Bedtime, close those eyes.                      [    eyes    ]: (B)
+
+e
+e for eh-eh!                                    [     eh     ]: (A)
+A sound of surprise.                            [  surprise  ]: (B)
+
+f
+f for flying fish.                              [    fish    ]: (A)
+Fins flashing under skies.                      [   skies    ]: (B)
+
+g
+g for giddy-up.                                 [     up     ]: (A)
+Say it to make a donkey hurry.                  [   hurry    ]: (B)
+
+h
+h for hurry-hurry.                              [   hurry    ]: (A)
+Hurry-hurry make bad curry.                     [   curry    ]: (A)
+
+i
+i for iguana.                                   [   iguana   ]: (A)
+Watch it dart in a flurry.                      [   flurry   ]: (B)
+
+j
+j for jook.                                     [   jook*    ]: (A)
+A nail can do this if you play barefeet.        [ barefeet*  ]: (B)
+
+k
+k for kaiso.                                    [   kaiso*   ]: (A)
+Song with a sweet-sweet jump-up beat.           [    beat    ]: (B)
+
+l
+l for lickerish.                                [ lickerish* ]: (A)
+So greedy all you do is eat-eat.                [    eat     ]: (B)
+
+m
+m for Mooma.                                    [   mooma*   ]: (A)
+No matter what you call her, she’s still Mommy.   [   mommy    ]: (B)
+
+n
+n for navel-string.                             [   string   ]: (A)
+Bury baby-cord then plant a tree.               [    tree    ]: (B)
+
+o
+o for okra.                                     [    okra    ]: (A)
+Cook with it, wash your hair, it's still slimy.   [   slimy    ]: (B)
+
+p
+p for pan.                                      [    pan     ]: (A)
+Beat this steel drum, feel your body shake.     [   shake    ]: (B)
+
+q
+q for quake.                                    [   quake    ]: (A)
+A basket that Amerindians make.                 [    make    ]: (A)
+
+r
+r for roti.                                     [    roti    ]: (A)
+Eat it like bread, flatter than a bake.         [    bake    ]: (B)
+
+s
+s for sugarcane.                                [ sugarcane  ]: (A)
+It gives sugar and sweet to chew.               [    chew    ]: (B)
+
+t
+t for tanty.                                    [   tanty*   ]: (A)
+She’s your aunty. You don’t hear her calling you?   [    you     ]: (B)
+
+u
+u for ugly fruit.                               [   fruit    ]: (A)
+Grapefruit and tangerine in one. That’s a clue.   [    clue    ]: (B)
+
+v
+v for volcano.                                  [  volcano   ]: (A)
+It can blow up like long ago.                   [    ago     ]: (B)
+
+w
+w for work-song.                                [    song    ]: (A)
+Sing it while you work-o, work-o.               [     o      ]: (B)
+
+x
+x for Xmas.                                     [   xmas*    ]: (A)
+Time for masquerade drum and flute to blow.     [    blow    ]: (B)
+
+y
+y for yam.                                      [    yam     ]: (A)
+Drop it in your soup or mash it with butter.    [   butter   ]: (B)
+
+z
+z for zombie.                                   [   zombie   ]: (A)
+A walking dead! No laughing matter.             [   matter   ]: (B)
+
+
+

@@ -1,0 +1,25 @@
+A
+A were some Ants,                               [    ants    ]: (A)
+Who never stood still,                          [   still    ]: (B)
+But they made a nice house                      [   house    ]: (C)
+On the side of the a hill                       [    hill    ]: (B)
+Nice little ants!                               [    ants    ]: (A)
+
+B
+B wa sa Bat,                                    [    bat     ]: (A)
+Who flew out at night                           [   night    ]: (B)
+When the stars are seen,                        [    seen    ]: (C)
+And the moon gioves a light.                    [   light    ]: (B)
+Brown little bat!                               [    bat     ]: (A)
+
+C
+
+E
+EDWARD LEAR"S ABC                               [    abc     ]: (A)
+LONDON                                          [   london   ]: (B)
+HENRY-FROWDE                                    [  frowde*   ]: (C)
+HODDER &                                        [   hodder   ]: (D)
+STOUGHTON                                       [ stoughton  ]: (E)
+
+
+

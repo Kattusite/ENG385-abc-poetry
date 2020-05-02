@@ -1,0 +1,134 @@
+A
+A is the Artist,                                [   artist   ]: (A)
+Who drew in these pages-                        [   pages    ]: (B)
+He's not had his hair cut-                      [    cut     ]: (C)
+For ages and ages.                              [    ages    ]: (B)
+
+B
+B is the baby                                   [    baby    ]: (A)
+Who is crowing with joy,                        [    joy     ]: (B)
+But isn't that diggie                           [  diggie*   ]: (C)
+A bad, greedy boy?                              [    boy     ]: (B)
+
+C
+C is for Cook                                   [    cook    ]: (A)
+Bow how very absurd,                            [   absurd   ]: (B)
+For such a large cook to cook                   [    cook    ]: (A)
+Such a small bird                               [    bird    ]: (B)
+
+D
+D is for Doctor                                 [   doctor   ]: (A)
+Who comes when you're ill                       [    ill     ]: (B)
+He looks at your tongue,                        [   tongue   ]: (C)
+Then gives you a pill.                          [    pill    ]: (B)
+
+E
+E is for Errand Boy,                            [    boy     ]: (A)
+Who loves to watch dogs fight,                  [   fight    ]: (B)
+his master’s meat is eaten                      [   eaten    ]: (C)
+by the bow-wows on the right.                   [   right    ]: (B)
+
+F
+F is for Fireman,                               [  fireman   ]: (A)
+This one is very brave,                         [   brave    ]: (B)
+He's climbed up the ladder                      [   ladder   ]: (C)
+Poor pussy to save.                             [    save    ]: (B)
+
+G
+G  is for Gardener,                             [  gardener  ]: (A)
+His enemies are snails:                         [   snails   ]: (B)
+He catches them with salt you know,             [    know    ]: (C)
+Then drowns hem in pails.                       [   pails    ]: (B)
+
+H
+H is for Horse,                                 [   horse    ]: (A)
+No wonder Cabby smiles ;                        [   smiles   ]: (B)
+It’s only taken three short hours               [   hours    ]: (C)
+To travel three long miles.                     [   miles    ]: (B)
+
+I
+I is for Italian,                               [  italian   ]: (A)
+Who is fond of Macaroni                         [  macaroni  ]: (B)
+We don't know what his name is                  [     is     ]: (C)
+We rather think it's Tony.                      [    tony    ]: (B)
+
+J
+J is for Judy                                   [    judy    ]: (A)
+Her husband's name is Punch,                    [   punch    ]: (B)
+And  together with                              [    with    ]: (C)
+dog Toby                                        [    toby    ]: (D)
+They are a happy bunch.                         [   bunch    ]: (B)
+
+K
+K is for Kitchen Maid,                          [    maid    ]: (A)
+Who's dropped the buttered scones.              [   scones   ]: (B)
+We hope she hasn't hurt herself                 [  herself   ]: (C)
+Or broken any bones.                            [   bones    ]: (B)
+
+L
+L is for Laundress                              [ laundress* ]: (A)
+Her washing's very fine                         [    fine    ]: (B)
+When Fido fell into the tub                     [    tub     ]: (C)
+She hung him on the line.                       [    line    ]: (B)
+
+M
+M is for Milkman,                               [  milkman   ]: (A)
+Why is he smiling so?                           [     so     ]: (B)
+He likes a rainy day, for then                  [    then    ]: (C)
+The milk is sure to grow.                       [    grow    ]: (B)
+
+O
+O is for Office-Boy,                            [    boy     ]: (A)
+in blue serge suit so neat,                     [    neat    ]: (B)
+Who points to the point of this picture,        [  picture   ]: (C)
+Do you see it on that seat ?                    [    seat    ]: (B)
+
+Q
+Q is for Quarrel—                               [  quarrel   ]: (A)
+To be friends is better far—                    [    far     ]: (B)
+We don’t like naughty children,                 [  children  ]: (C)
+So let’s turn the page to “ R.                  [     r      ]: (B)
+
+R
+R is for Ride,                                  [    ride    ]: (A)
+Also for Rotten Row,                            [    row     ]: (B)
+The doggie runs beside and barks                [   barks    ]: (C)
+To make the gee-gee go                          [     go     ]: (B)
+
+S
+S is for Sweep,                                 [   sweep    ]: (A)
+Whose face is very dirty,                       [   dirty    ]: (B)
+And when he smiled and showed his               [    his     ]: (C)
+It frightened little Bertie, [teeth.            [   teeth    ]: (D)
+
+U
+U is for Uncle,                                 [   uncle    ]: (A)
+Who brings pockets full of Toys,                [    toys    ]: (B)
+UAnd always loves to romp and play              [    play    ]: (C)
+With little girls and boys.                     [    boys    ]: (B)
+
+W
+W is for Willie,                                [   willie   ]: (A)
+Who is writing on the wall,                     [    wall    ]: (B)
+To let you know he uses                         [    uses    ]: (C)
+Wright’s Coal Tar Soap—                         [    soap    ]: (D)
+that’s	all                                      [    all     ]: (B)
+
+X
+At last - so we've been told-                   [    told    ]: (A)
+The artist's had his hair cut                   [    cut     ]: (B)
+And caught a fearful cold.                      [    cold    ]: (A)
+
+i
+ire a happy                                     [   happy    ]: (A)
+r WRIGHTS                                       [  wrights   ]: (B)
+Coal tar                                        [    tar     ]: (C)
+Soap                                            [    soap    ]: (D)
+BEST                                            [    best    ]: (E)
+Children                                        [  children  ]: (F)
+Y'tAttM                                         [  y'tattm*  ]: (G)
+[e3(5)»UOM.                                     [   »uom*    ]: (H)
+Nonce                                           [   nonce    ]: (I)
+
+
+

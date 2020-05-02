@@ -1,0 +1,243 @@
+A
+A is for apple.                                 [   apple    ]: (A)
+In the city, Bobby finds one on the fruit stand.   [   stand    ]: (B)
+
+B
+B is for boy.                                   [    boy     ]: (A)
+For Bobby                                       [   bobby    ]: (B)
+
+C
+C is for city,                                  [    city    ]: (A)
+where Bobby lives.                              [   lives    ]: (B)
+
+C
+CITY                                            [    city    ]: (A)
+COUNTRY                                         [  country   ]: (B)
+by MORRELL GIPSON                               [   gipson   ]: (C)
+Pictures by LEONARD WEISGARD                    [ weisgard*  ]: (D)
+
+C
+CITY COUNTRY                                    [  country   ]: (A)
+By MORRELL GIPSON                               [   gipson   ]: (B)
+Pictures by                                     [     by     ]: (C)
+LEONARD WEISGARD                                [ weisgard*  ]: (D)
+In This Book                                    [    book    ]: (E)
+is a set of ABC’s for the city, and a set for the country.   [  country   ]: (A)
+The Pictures                                    [  pictures  ]: (F)
+in full color and two colors are by one of the leading illustrators of children's books. The ABC’s stand for objects and people that are important in a child’s country world or city world.   [   world    ]: (G)
+The Book Is                                     [     is     ]: (H)
+an amusing study of the differences in city life and country life, and of course is most of all an ABC book.   [    book    ]: (E)
+A Picture Book                                  [    book    ]: (E)
+From                                            [    from    ]: (I)
+Garden City                                     [    city    ]: (J)
+In a special binding designed for durability and lasting use   [    use     ]: (K)
+
+C
+CITY COUNTRY                                    [  country   ]: (A)
+by Morrell Gipson                               [   gipson   ]: (B)
+Pictures by                                     [     by     ]: (C)
+Leonard Weisgard                                [ weisgard*  ]: (D)
+GARDEN CITY PUBLISHING CO., INC.                [    inc     ]: (E)
+GARDEN CITY NEW YORK                            [    york    ]: (F)
+CREATED BY PICTORIAL BOOKSMITHS, INC.           [    inc     ]: (E)
+COPYRIGHT 1946 BY DUENEWALD PRINTING CORPORATION   [corporation ]: (G)
+LITHOGRAPHED IN THE U.S.A.                      [     a      ]: (H)
+
+D
+D is for dog.                                   [    dog     ]: (A)
+Bobby s dog lives in the house and his name is Spot.   [    spot    ]: (B)
+
+E
+E is for egg.                                   [    egg     ]: (A)
+Bobby buys eggs for his mother at the grocery store.   [   store    ]: (B)
+
+F
+F is for fire.                                  [    fire    ]: (A)
+That burns brightly in Bobby's living room      [    room    ]: (B)
+
+F
+FIRST NURSERY STORIES                           [  stories   ]: (A)
+ILLUSTRATED BY FLORENCE KENT                    [    kent    ]: (B)
+In This Book                                    [    book    ]: (C)
+are eight of the best-loved nursery stories, selected for their folk humor and repetitive word patterns that are such fun:   [    fun     ]: (D)
+THE LITTLE RED HEN                              [    hen     ]: (E)
+THE THREE BILLY GOATS GRUFF                     [   gruff    ]: (F)
+GOLDILOCKS AND THE THREE BEARS                  [   bears    ]: (G)
+HENNY PENNY                                     [   penny    ]: (H)
+THE GINGERBREAD BOY                             [    boy     ]: (I)
+THE THREE LITTLE PIGS                           [    pigs    ]: (J)
+LITTLE RED RIDING HOOD                          [    hood    ]: (K)
+CAPS FOR SALE                                   [    sale    ]: (L)
+The Pictures                                    [  pictures  ]: (M)
+are half in full color, half in two colors, and they are all over the forty-eight pages.   [   pages    ]: (N)
+The Book Is                                     [     is     ]: (O)
+for all younger children—to read, to look at, or listen to.   [     to     ]: (P)
+A Picture Book                                  [    book    ]: (C)
+From                                            [    from    ]: (Q)
+Garden City                                     [    city    ]: (R)
+
+G
+G is for grandfather.                           [grandfather ]: (A)
+Bobby's grandfather tells Bobby stories about when he was a policeman.   [ policeman  ]: (B)
+
+H
+H is for horse.                                 [   horse    ]: (A)
+Bobby gives his apple to the milkman's horse.   [   horse    ]: (A)
+
+I
+I is for ice.                                   [    ice     ]: (A)
+On cold winter mornings Bobby finds it on the lake in the park.   [    park    ]: (B)
+
+J
+J is for jelly.                                 [   jelly    ]: (A)
+Bobby eats it on toast for breakfast.           [ breakfast  ]: (B)
+
+K
+K is for kite                                   [    kite    ]: (A)
+That Bobby flies in the park                    [    park    ]: (B)
+
+L
+L is for ladder.                                [   ladder   ]: (A)
+In the city, Bobby sees a fireman climbing a ladder at a fire.   [    fire    ]: (B)
+
+M
+M is for milk.                                  [    milk    ]: (A)
+Every morning the milkman brings Bobby's milk.   [    milk    ]: (A)
+
+N
+N is for nest.                                  [    nest    ]: (A)
+Bobby finds a robin's nest in a tree.           [    tree    ]: (B)
+
+O
+O is for oven.                                  [    oven    ]: (A)
+Bobby goes to the bakery for a pie right out of the baker's oven.   [    oven    ]: (A)
+
+P
+P is for pool.                                  [    pool    ]: (A)
+Bobby sails his boat on the pool in the park.   [    park    ]: (B)
+
+P
+Picture Books from Garden City                  [    city    ]: (A)
+Snow White                                      [   white    ]: (B)
+illustrated by Ninon MacKnight. A favorite Grimm fairy tale, pictured in the best fairy-tale tradition.   [ tradition  ]: (C)
+Trucks At Work                                  [    work    ]: (D)
+by Mary Elting. Illustrated by Ursula Koering. About all kinds of trucks and truck-drivers, and bow they work.   [    work    ]: (D)
+City Country ABC                                [    abc     ]: (E)
+by Morrell Gipson. Illustrated by Leonard Weisgard. Two sets of ABC’s, and a study of the differences between a child’s country world and city world.   [   world    ]: (F)
+First Nursery Stories                           [  stories   ]: (G)
+illustrated by Florence Kent. Eight of the best-loved nursery storie§, told in the traditional style.   [   style    ]: (H)
+First Nursery Songs                             [   songs    ]: (I)
+arranged by Leonore Rose Smith. Illustrated by Fini. A collection of twenty-four nursery songs, in the simplest possible musical arrangement and voice range.   [   range    ]: (J)
+Away We Go                                      [     go     ]: (K)
+illustrated by Jane Flory. How we travel—on wheels, on water, by plane or ox back, in a gay picture book.   [    book    ]: (L)
+Animals Here And There                          [   there    ]: (M)
+illustrated by Pelagie Doane. An animal book, with big pictures showing animals in their natural surroundings.   [surroundings]: (N)
+A Child’s First Book-                           [    book    ]: (L)
+by Edward Ernest. Illustrated by Einar Nerman. Learning the alphabet, numbers, and how to tell time is made into games.   [   games    ]: (O)
+The Bible Picture Book                          [    book    ]: (L)
+illustrated by Florian. Seven favorite stories from the Old Testament, in the language of the King James version, and with pictures that will stimulate children to read the Bible for themselves.   [ themselves ]: (P)
+EACH HAS 48 PACES, WITH PICTURES THROUGHOUT IN FULL COLOR AND TWO COLORS.   [   colors   ]: (Q)
+
+Q
+Q is for quail.                                 [   quail    ]: (A)
+Bobby sees one in the zoo.                      [    zoo     ]: (B)
+
+R
+R is for river.                                 [   river    ]: (A)
+In the city where Bobby lives, the river is busy with boats and has a big bridge going across it.   [     it     ]: (B)
+
+S
+S is for school.                                [   school   ]: (A)
+Bobby's city school is big and gray.            [    gray    ]: (B)
+
+T
+T is for truck.                                 [   truck    ]: (A)
+Bobby sees a truck come down the street one morning   [  morning   ]: (B)
+
+U
+U is for umbrella.                              [  umbrella  ]: (A)
+When it rains, in the city or country, umbrellas   [ umbrellas  ]: (B)
+
+V
+V is for vegetables.                            [ vegetables ]: (A)
+That come from the vegetable stand for Bobby    [   bobby    ]: (B)
+
+W
+W is for wagon                                  [   wagon    ]: (A)
+That brings milk to Bobby's house               [   house    ]: (B)
+
+X
+X Y Z                                           [     z      ]: (A)
+X, Y, and Z are on Bobby's blocks and Billy's blocks, too.   [    too     ]: (B)
+
+a
+In the country, Billy picks one from a tree.    [    tree    ]: (A)
+
+b
+And for Billy.                                  [   billy    ]: (A)
+
+c
+And C is for country, where Billy lives.        [   lives    ]: (A)
+
+d
+Billy's dog stays outside and his name is Pete.   [    pete    ]: (A)
+
+e
+Billy gathers eggs from the hen's nest for his mother.   [   mother   ]: (A)
+
+f
+And outside at Billy's when he helps his father burn the dead leaves.   [   leaves   ]: (A)
+
+g
+Billy's grandfather tells Billy stories about when he was a farmer.   [   farmer   ]: (A)
+
+h
+And Billy gives his apple to his father's horse.   [   horse    ]: (A)
+
+i
+Billy has to break the ice on the top of Pete's water bowl.   [    bowl    ]: (A)
+
+j
+And Billy does, too!                            [    too     ]: (A)
+
+k
+And Billy flies in the field.                   [   field    ]: (A)
+
+l
+In the country, Billy climbs a ladder up to the hayloft in the barn.   [    barn    ]: (A)
+
+m
+And every morning Billy's father milks his cow.   [    cow     ]: (A)
+
+n
+And in Billy's barn the rooster crows over an egg in the hen's nest.   [    nest    ]: (A)
+
+o
+Billy's mother bakes a pie in her own oven.     [    oven    ]: (A)
+
+p
+Billy finds lily pads on the pool in the woods.   [   woods    ]: (A)
+
+q
+If Billy is very still and watches closely, he can see one in the woods.   [   woods    ]: (A)
+
+r
+In the country where Billy lives, the river is quiet and full of fishes.   [   fishes   ]: (A)
+
+s
+Billy's country school is little and red.       [    red     ]: (A)
+
+t
+And Billy sees the same truck that afternoon going through the country.   [  country   ]: (A)
+
+u
+keep Bobby and Billy from getting wet.          [    wet     ]: (A)
+
+v
+And from the garden for Billy.                  [   billy    ]: (A)
+
+w
+And takes the hay from Billy's farm.            [    farm    ]: (A)
+
+
+

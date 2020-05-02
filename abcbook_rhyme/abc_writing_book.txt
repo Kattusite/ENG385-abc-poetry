@@ -1,0 +1,183 @@
+C
+COLOR and WRITE                                 [   write    ]: (A)
+a b c                                           [     c      ]: (B)
+abc Writing Book                                [    book    ]: (C)
+TEXT BY SU HTET                                 [   htet*    ]: (D)
+ILLUSTRATED BY ZAW WEIK                         [    weik    ]: (E)
+COVER ILLUSTRATION : ZAW WEIK                   [    weik    ]: (E)
+COVER DESIGN : KO KO MYINT                      [   myint*   ]: (F)
+LAYOUT DESIGN : AUNG MYINT NAING                [   naing*   ]: (G)
+COLOUR SEPERATION : ALPHA                       [   alpha    ]: (H)
+FILM : ZIN Oo and Brothers                      [  brothers  ]: (I)
+ALL RIGHT RESERVE                               [  reserve   ]: (J)
+
+F
+Fill in the missing letters.                    [  letters   ]: (A)
+u wx                                            [    wx*     ]: (B)
+
+M
+Match the letters.                              [  letters   ]: (A)
+
+M
+Match the letters.                              [  letters   ]: (A)
+
+M
+Match the letters.                              [  letters   ]: (A)
+
+M
+Match the picture that go together              [  together  ]: (A)
+
+S
+SMALL LETTERS (PRINTED FORM)                    [    form    ]: (A)
+a b c d e f                                     [     f      ]: (B)
+g h i j k i                                     [     i      ]: (C)
+m n 0 p q r                                     [     r      ]: (D)
+s t u V W X                                     [     x      ]: (E)
+
+S
+SMALL LETTERS (WRITTEN FORM)                    [    form    ]: (A)
+a b c d e f                                     [     f      ]: (B)
+g h i j k 1                                     [    five    ]: (C)
+m n o p q r                                     [     r      ]: (D)
+s t u V w X                                     [     x      ]: (E)
+
+T
+This book belongs to:                           [     to     ]: (A)
+NAME:                                           [    name    ]: (B)
+Writing book                                    [    book    ]: (C)
+Let’s colour the picture and trace the letters.   [  letters   ]: (D)
+Illustrated by Zaw Weik                         [    weik    ]: (E)
+Text by Su Htet                                 [   htet*    ]: (F)
+PYI ZONE                                        [    zone    ]: (G)
+PUBLISHING HOUSE                                [   house    ]: (H)
+No.136,36 Street, Kyauktada T/S                 [     s      ]: (I)
+Yangon, Myanmar                                 [  myanmar   ]: (J)
+Tel: 01-253255                                  [    five    ]: (K)
+
+a
+a aeroplane                                     [ aeroplane* ]: (A)
+
+a
+WRITING BOOK                                    [    book    ]: (A)
+COLOUR AND WRITE                                [   write    ]: (B)
+
+a
+word list                                       [    list    ]: (0)
+a aeroplane                                     [ aeroplane* ]: (1)
+b balloon                                       [  balloon   ]: (2)
+c cat                                           [    cat     ]: (3)
+d duck                                          [    duck    ]: (4)
+e elephant                                      [  elephant  ]: (5)
+f frog                                          [    frog    ]: (6)
+g grapes                                        [   grapes   ]: (7)
+h horse                                         [   horse    ]: (8)
+i ice-cream                                     [   cream    ]: (9)
+j jelly                                         [   jelly    ]: (10)
+k keys                                          [    keys    ]: (11)
+l leaf                                          [    leaf    ]: (12)
+m mouse                                         [   mouse    ]: (13)
+n nurse                                         [   nurse    ]: (14)
+o owl                                           [    owl     ]: (15)
+P pencil                                        [   pencil   ]: (16)
+q queen                                         [   queen    ]: (17)
+r rabbit                                        [   rabbit   ]: (18)
+s sun                                           [    sun     ]: (19)
+t tiger                                         [   tiger    ]: (20)
+u umbrella                                      [  umbrella  ]: (21)
+v van                                           [    van     ]: (22)
+w window                                        [   window   ]: (23)
+X xylophone                                     [ xylophone  ]: (24)
+y yacht                                         [   yacht    ]: (25)
+z zebra                                         [   zebra    ]: (26)
+
+b
+b balloon                                       [  balloon   ]: (A)
+
+c
+c cat                                           [    cat     ]: (A)
+
+c
+colours                                         [  colours   ]: (A)
+red purple                                      [   purple   ]: (B)
+blue brown                                      [   brown    ]: (C)
+yellow black                                    [   black    ]: (D)
+green grey                                      [    grey    ]: (E)
+orange pink                                     [    pink    ]: (F)
+dark Blue white                                 [   white    ]: (G)
+PVI ZONE EDUCATION                              [ education  ]: (H)
+MANUSCRIPT PERMIT NO. 767/98(12)                [    five    ]: (I)
+COVER PERMIT NO. 64/99(2)                       [    five    ]: (I)
+DISTRIBUTED BY                                  [     by     ]: (J)
+PYI ZONE PUBLISHING HOUSE                       [   house    ]: (K)
+
+d
+d duck                                          [    duck    ]: (A)
+
+e
+e elephant                                      [  elephant  ]: (A)
+
+f
+f frog                                          [    frog    ]: (A)
+
+g
+g grapes                                        [   grapes   ]: (A)
+
+h
+h horse                                         [   horse    ]: (A)
+
+i
+i ice-cream                                     [   cream    ]: (A)
+
+j
+j jelly                                         [   jelly    ]: (A)
+
+k
+k keys                                          [    keys    ]: (A)
+
+l
+l leaf                                          [    leaf    ]: (A)
+
+m
+m mouse                                         [   mouse    ]: (A)
+
+n
+n nurse                                         [   nurse    ]: (A)
+
+o
+o owl                                           [    owl     ]: (A)
+
+p
+p pencil                                        [   pencil   ]: (A)
+
+q
+q queen                                         [   queen    ]: (A)
+
+r
+r rabbit                                        [   rabbit   ]: (A)
+
+s
+s sun                                           [    sun     ]: (A)
+
+t
+t tiger                                         [   tiger    ]: (A)
+
+u
+u umbrella                                      [  umbrella  ]: (A)
+
+v
+v van                                           [    van     ]: (A)
+
+w
+w Window                                        [   window   ]: (A)
+
+x
+x xylophone                                     [ xylophone  ]: (A)
+
+y
+y yacht                                         [   yacht    ]: (A)
+
+z
+z zebra                                         [   zebra    ]: (A)
+
+
+

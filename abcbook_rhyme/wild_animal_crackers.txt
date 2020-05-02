@@ -1,0 +1,35 @@
+I
+INDEX                                           [   index    ]: (A)
+ANTELOPE                                        [  antelope  ]: (B)
+BEAR                                            [    bear    ]: (C)
+CARABOU                                         [  carabou*  ]: (D)
+DEER                                            [    deer    ]: (E)
+ELEPHANT                                        [  elephant  ]: (F)
+GOAT                                            [    goat    ]: (G)
+HIPPO                                           [   hippo    ]: (H)
+IBER                                            [   iber*    ]: (I)
+JACKRABBIT                                      [ jackrabbit ]: (J)
+KANGAROO                                        [  kangaroo  ]: (K)
+LEOPARD                                         [  leopard   ]: (L)
+MONKEY                                          [   monkey   ]: (M)
+NEW ZEALANDER                                   [ zealander  ]: (N)
+PORCUPINE                                       [ porcupine  ]: (O)
+QUETZAL                                         [  quetzal*  ]: (P)
+REINDEER                                        [  reindeer  ]: (Q)
+SQUIRREL                                        [  squirrel  ]: (R)
+TIGER                                           [   tiger    ]: (S)
+UNICORN                                         [  unicorn   ]: (T)
+VICUGNA                                         [  vicugna*  ]: (U)
+WALRUS                                          [   walrus   ]: (V)
+XERUS                                           [   xerus*   ]: (W)
+ZEBRA                                           [   zebra    ]: (X)
+
+W
+WILD ANIMAL CRACKERS                            [  crackers  ]: (A)
+
+W
+WILD ANIMAL CRACKERS                            [  crackers  ]: (A)
+DESIGNED AND CUT BY IOB ART CLASS 1930          [    five    ]: (B)
+
+
+

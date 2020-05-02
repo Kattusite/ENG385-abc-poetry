@@ -1,0 +1,513 @@
+&
+&nbsp;                                          [   nbsp*    ]: (A)
+
+B
+Beet                                            [    beet    ]: (A)
+Betabel,                                        [  betabel*  ]: (B)
+beterraga,                                      [ beterraga* ]: (C)
+remolacha,                                      [ remolacha* ]: (D)
+three different names                           [   names    ]: (E)
+for just one vegetable.                         [ vegetable  ]: (F)
+Sweet red beets—                                [   beets    ]: (G)
+yet what a pain                                 [    pain    ]: (H)
+they are to harvest!                            [  harvest   ]: (I)
+
+B
+Betabel                                         [  betabel*  ]: (A)
+Betabel, beterraga,                             [ beterraga* ]: (B)
+remolacha,                                      [ remolacha* ]: (C)
+tres nombres                                    [  nombres*  ]: (D)
+para la misma                                   [   misma*   ]: (E)
+verdura colorada.                               [ colorada*  ]: (F)
+Dulce, roja, betabel,                           [  betabel*  ]: (A)
+¡ay, cómo duele la espalda                      [  espalda*  ]: (G)
+agachándose a pizcarla!                         [ pizcarla*  ]: (H)
+
+B
+Bird                                            [    bird    ]: (A)
+Little bird flying over the fields,             [   fields   ]: (B)
+where do you take the dreams                    [   dreams   ]: (C)
+I place upon your wings?                        [   wings    ]: (D)
+
+C
+Carrot                                          [   carrot   ]: (A)
+The carrot hides                                [   hides    ]: (B)
+beneath the earth.                              [   earth    ]: (C)
+After all, she knows                            [   knows    ]: (D)
+the sun's fiery color                           [   color    ]: (E)
+by heart.                                       [   heart    ]: (F)
+
+C
+Cherry Stand                                    [   stand    ]: (A)
+Cherries for sale                               [    sale    ]: (B)
+at a roadside stand.                            [   stand    ]: (A)
+Round and red,                                  [    red     ]: (C)
+their smooth smiles                             [   smiles   ]: (D)
+greet everyone who passes by.                   [     by     ]: (E)
+CHERRIES                                        [  cherries  ]: (F)
+
+C
+César Chávez                                    [  chávez*   ]: (A)
+Ya tus pasos no cruzan los campos polvorientos   [polvorientos*]: (B)
+ni los alumbras con tu buena voz                [    voz*    ]: (C)
+pero tu ejemplo                                 [  ejemplo*  ]: (D)
+y tu palabra                                    [  palabra*  ]: (E)
+retoñan en los surcos                           [  surcos*   ]: (F)
+en brotes de callada esperanza.                 [ esperanza* ]: (G)
+
+C
+César Chávez                                    [  chávez*   ]: (A)
+Your steps no longer cross the dusty fields     [   fields   ]: (B)
+where your strong voice once shone              [   shone    ]: (C)
+yet your example                                [  example   ]: (D)
+and your words                                  [   words    ]: (E)
+sprout anew in the field rows                   [    rows    ]: (F)
+as seedlings of quiet hope.                     [    hope    ]: (G)
+
+D
+Duraznos                                        [ duraznos*  ]: (A)
+Duraznos jugosos,                               [  jugosos*  ]: (B)
+almibarados, dorados,                           [  dorados*  ]: (C)
+como una caricia suave                          [   suave    ]: (D)
+en la palma de la mano.                         [    mano    ]: (E)
+
+F
+FarmWorkers                                     [farmworkers ]: (A)
+Farmworkers nombre en inglés                    [  inglés*   ]: (B)
+para el pueblo campesino,                       [ campesino* ]: (C)
+trabajadores del campo,                         [   campo    ]: (D)
+bajo un mismo cielo unidos.                     [  unidos*   ]: (E)
+Gracias te doy, campesino,                      [ campesino* ]: (C)
+por los frutos de tus manos                     [   manos    ]: (F)
+creceré en fuerza y bondad                      [  bondad*   ]: (G)
+comiendo lo que has sembrado.                   [ sembrado*  ]: (H)
+
+F
+Farmworkers                                     [farmworkers ]: (A)
+Farmworkers is the name we give                 [    give    ]: (B)
+to the people who work the land,                [    land    ]: (C)
+who harvest the fields,                         [   fields   ]: (D)
+united beneath one sky.                         [    sky     ]: (E)
+Thank you, farmworker,                          [ farmworker ]: (F)
+for the fruits your hands have brought me.      [     me     ]: (G)
+I will grow stronger and kinder                 [   kinder   ]: (H)
+as I eat what you have grown.                   [   grown    ]: (I)
+
+F
+Field Girl                                      [    girl    ]: (A)
+Little sparrow of the fields,                   [   fields   ]: (B)
+your open smile                                 [   smile    ]: (C)
+and your joy                                    [    joy     ]: (D)
+are the brightest hope                          [    hope    ]: (E)
+of the new day.                                 [    day     ]: (F)
+
+F
+Field Row                                       [    row     ]: (A)
+In the field row                                [    row     ]: (A)
+lies a seed, all tucked in                      [     in     ]: (B)
+like a baby in the crib.                        [    crib    ]: (C)
+Sleep tight today, seed.                        [    seed    ]: (D)
+Wake up tomorrow, plant.                        [   plant    ]: (E)
+
+G
+Garden                                          [   garden   ]: (A)
+My mother works                                 [   works    ]: (B)
+in a garden                                     [   garden   ]: (A)
+growing carnations                              [ carnations ]: (C)
+both red and white.                             [   white    ]: (D)
+Seeding, watering,                              [  watering  ]: (E)
+and replanting....                              [ replanting ]: (F)
+And when they bloom,                            [   bloom    ]: (G)
+it's pure delight!                              [  delight   ]: (D)
+
+G
+Gathering the Sun                               [    sun     ]: (A)
+An Alphabet in Spanish and English              [  english   ]: (B)
+Alma Flor Ada                                   [    ada     ]: (C)
+English translation by Rosa Zubizarreta         [zubizarreta*]: (D)
+Illustrations by Simón Silva                    [   silva    ]: (E)
+
+G
+Gathering the Sun                               [    sun     ]: (A)
+An Alphabet in Spanish and English              [  english   ]: (B)
+Alma Flor Ada                                   [    ada     ]: (C)
+English translation by Rosa Zubizarreta         [zubizarreta*]: (D)
+Illustrations by Simón Silva                    [   silva    ]: (E)
+LOTHROP, LEE &amp; SHEPARD BOOKS NEW YORK       [    york    ]: (F)
+
+G
+Gracias                                         [  gracias   ]: (A)
+Aire y cielo, lluvia y sol,                     [    sol     ]: (B)
+nube y sombra, campo y flor.                    [    flor    ]: (C)
+Gracias, tierra, por tus frutos                 [  frutos*   ]: (D)
+de delicioso sabor.                             [   sabor*   ]: (E)
+
+H
+Honor                                           [   honor    ]: (A)
+Honor es el trabajo                             [  trabajo*  ]: (B)
+que hacemos en los campos.                      [   campos   ]: (C)
+Honor es la familia                             [  familia*  ]: (D)
+que se quiere y se apoya.                       [   apoya*   ]: (E)
+Honor es ser quien soy,                         [    soy     ]: (F)
+al despertar cada mañana.                       [  mañana*   ]: (G)
+
+H
+Honor                                           [   honor    ]: (A)
+Honor is the work                               [    work    ]: (B)
+we do in the fields.                            [   fields   ]: (C)
+Honor is a family                               [   family   ]: (D)
+who loves and cares for one another.            [  another   ]: (E)
+Honor is being true to myself                   [   myself   ]: (F)
+as I wake up each morning.                      [  morning   ]: (G)
+
+I
+Isla                                            [    isla    ]: (A)
+Trabaja mi padre bueno                          [   bueno    ]: (B)
+desde que el sol amanece                        [  amanece*  ]: (C)
+en las islas del Río Stockton                   [  stockton  ]: (D)
+donde el espárrago crece.                       [   crece*   ]: (E)
+Y cuando el sol ya se pone                      [   pone*    ]: (F)
+en las márgenes del río,                        [    río*    ]: (G)
+regresa a casa mi padre,                        [   padre    ]: (H)
+muy cansado, con mi tío.                        [    tío*    ]: (I)
+
+I
+Island                                          [   island   ]: (A)
+From when the sun first rises                   [   rises    ]: (B)
+my good father works                            [   works    ]: (C)
+on the Stockton River islands                   [  islands   ]: (D)
+where asparagus is grown.                       [   grown    ]: (E)
+And when at last the sun sets                   [    sets    ]: (F)
+on the river shores,                            [   shores   ]: (G)
+both my father and my uncle,                    [   uncle    ]: (H)
+very tired, return home.                        [    home    ]: (I)
+
+J
+Jardín                                          [  jardín*   ]: (A)
+Mi madre trabaja                                [  trabaja*  ]: (B)
+en un jardín.                                   [  jardín*   ]: (A)
+Cultiva claveles                                [ claveles*  ]: (C)
+blanco y carmín.                                [  carmín*   ]: (D)
+Los siembra, los riega                          [   riega*   ]: (E)
+y los transplanta.                              [transplanta*]: (F)
+Cuando florecen                                 [ florecen*  ]: (G)
+¡cómo le encantan!                              [ encantan*  ]: (H)
+
+K
+Kiosco de Cerezas                               [  cerezas*  ]: (A)
+Cerezas en el kiosco                            [  kiosco*   ]: (B)
+al lado del camino.                             [   camino   ]: (C)
+Redondas, rojas, lisas,                         [   lisas*   ]: (D)
+saludando al que pasa                           [   pasa*    ]: (E)
+como sonrisas.                                  [ sonrisas*  ]: (F)
+
+L
+Lechuga                                         [  lechuga   ]: (A)
+Cabecitas rizadas                               [  rizadas*  ]: (B)
+llenas de arrugas                               [  arrugas*  ]: (C)
+frescas, lozanas,                               [  lozanas*  ]: (D)
+verdes lechugas.                                [ lechugas*  ]: (E)
+Cajas y cajas                                   [   cajas*   ]: (F)
+vacías esperan                                  [  esperan*  ]: (G)
+que doblen las espaldas                         [ espaldas*  ]: (H)
+quienes las llenan.                             [  llenan*   ]: (I)
+
+L
+Lettuce                                         [  lettuce   ]: (A)
+Small, curly,                                   [   curly    ]: (B)
+fresh and wrinkled                              [  wrinkled  ]: (C)
+heads of bright                                 [   bright   ]: (D)
+green lettuce.                                  [  lettuce   ]: (A)
+Empty boxes                                     [   boxes    ]: (E)
+wait for us                                     [     us     ]: (F)
+to bend our backs                               [   backs    ]: (G)
+and fill them up.                               [     up     ]: (H)
+
+L
+Llluvia                                         [  llluvia*  ]: (A)
+Plin, plin, piin,                               [   piin*    ]: (B)
+la lluvia suena                                 [   suena*   ]: (C)
+como violín.                                    [  violín*   ]: (D)
+Borrombombón,                                   [borrombombón*]: (E)
+resuena el trueno                               [  trueno*   ]: (F)
+como trombón.                                   [  trombón*  ]: (G)
+
+L
+Love                                            [    love    ]: (A)
+How good it is to love our friends;             [  friends   ]: (B)
+how easy to love our grandparents;              [grandparents]: (C)
+and the finest blossom of all,                  [    all     ]: (D)
+the love we give our parents,                   [  parents   ]: (E)
+our brothers, and our sisters.                  [  sisters   ]: (F)
+
+M
+Mexico                                          [   mexico   ]: (A)
+My grandparents                                 [grandparents]: (B)
+came from Mexico.                               [   mexico   ]: (A)
+My parents                                      [  parents   ]: (C)
+returned to Mexico.                             [   mexico   ]: (A)
+My dream is                                     [     is     ]: (D)
+to visit Mexico.                                [   mexico   ]: (A)
+And you,                                        [    you     ]: (E)
+what is your dream?                             [   dream    ]: (F)
+
+M
+México                                          [  méxico*   ]: (A)
+De México vinieron                              [ vinieron*  ]: (B)
+mis abuelos.                                    [  abuelos*  ]: (C)
+A México regresaron                             [regresaron* ]: (D)
+mis padres.                                     [   padres   ]: (E)
+Con ir a México                                 [  méxico*   ]: (A)
+sueño yo.                                       [     yo     ]: (F)
+Y tú,                                           [    tú*     ]: (G)
+¿con qué sueñas?                                [  sueñas*   ]: (H)
+
+N
+Niña campesina                                  [ campesina* ]: (A)
+Avecita del campo,                              [   campo    ]: (B)
+es tu sonrisa clara                             [   clara    ]: (C)
+y tu alegría                                    [  alegría*  ]: (D)
+la mejor esperanza                              [ esperanza* ]: (E)
+del nuevo día.                                  [    día*    ]: (F)
+
+N
+Nopal                                           [   nopal*   ]: (A)
+Detrás de sus espinas                           [  espinas*  ]: (B)
+el nopal                                        [   nopal*   ]: (A)
+esconde un fruto dulce.                         [   dulce    ]: (C)
+¡Qué gran sorpresa!                             [ sorpresa*  ]: (D)
+
+O
+Not one flower but many,                        [    many    ]: (A)
+each with a different fragrance.                [ fragrance  ]: (B)
+Not one fruit but many,                         [    many    ]: (A)
+each with a different flavor.                   [   flavor   ]: (C)
+Not one tree but—                               [    but     ]: (D)
+a hundred different shades of green!            [   green    ]: (E)
+All together on this planet.                    [   planet   ]: (F)
+
+O
+Orgullo                                         [  orgullo*  ]: (A)
+Orgullosa de mi familia                         [  familia*  ]: (B)
+orgullosa de mi lengua                          [  lengua*   ]: (C)
+orgullosa de mi cultura                         [  cultura*  ]: (D)
+orgullosa de mi raza                            [    raza    ]: (E)
+orgullosa de ser quien soy.                     [    soy     ]: (F)
+
+P
+Peaches                                         [  peaches   ]: (A)
+Juicy, golden peaches,                          [  peaches   ]: (A)
+honey-sweet,                                    [   sweet    ]: (B)
+like a gentle caress                            [   caress   ]: (C)
+in the palm of my hand.                         [    hand    ]: (D)
+
+P
+Prickly Pear                                    [    pear    ]: (A)
+Behind the thorns                               [   thorns   ]: (B)
+of the prickly pear,                            [    pear    ]: (A)
+a sweet fruit is hiding.                        [   hiding   ]: (C)
+Surprise!                                       [  surprise  ]: (D)
+
+P
+Pride                                           [   pride    ]: (A)
+Proud of my family                              [   family   ]: (B)
+proud of my language                            [  language  ]: (C)
+proud of my culture                             [  culture   ]: (D)
+proud of my people                              [   people   ]: (E)
+proud of being who I am.                        [     am     ]: (F)
+
+P
+Pájaro                                          [  pájaro*   ]: (A)
+Pajarito que vuelas sobre el campo              [   campo    ]: (B)
+¿a dónde llevas los sueños                      [  sueños*   ]: (C)
+que pongo sobre tus alas?                       [    alas    ]: (D)
+
+Q
+Querer                                          [  querer*   ]: (A)
+Qué bonito querer a los amigos;                 [   amigos   ]: (B)
+y qué fácil querer a los abuelos;               [  abuelos*  ]: (C)
+y el más lindo querer como un capullo,          [  capullo*  ]: (D)
+a los padres querer                             [  querer*   ]: (A)
+y a los hermanos.                               [ hermanos*  ]: (E)
+
+R
+Rain                                            [    rain    ]: (A)
+Plink, plink, plink,                            [   plink    ]: (B)
+the rain sounds like                            [    like    ]: (C)
+a violin.                                       [   violin   ]: (D)
+Booroomboomboom,                                [booroomboomboom*]: (E)
+the thunder is                                  [     is     ]: (F)
+a deep trombone.                                [  trombone  ]: (G)
+
+R
+Regar                                           [   regar*   ]: (A)
+Tus sonrisas son                                [    son     ]: (B)
+para tus amigos                                 [   amigos   ]: (C)
+como el riego p                                 [     p      ]: (D)
+ara las plantas.                                [  plantas*  ]: (E)
+
+S
+Stars or Flowers?                               [  flowers   ]: (A)
+Are the stars shining flowers                   [  flowers   ]: (A)
+that brighten the night sky?                    [    sky     ]: (B)
+Are the flowers drowsy stars                    [   stars    ]: (C)
+that lie sleeping in the fields?                [   fields   ]: (D)
+
+S
+Surco                                           [   surco*   ]: (A)
+En el surco                                     [   surco*   ]: (A)
+la semilla arropada                             [ arropada*  ]: (B)
+como el niñito en la cuna.                      [   cuna*    ]: (C)
+Duérmete, semilla, hoy.                         [    hoy     ]: (D)
+Despierta, planta, mañana.                      [  mañana*   ]: (E)
+
+T
+TO THE LIVING MEMORY OF CÉSAR CHÁVEZ            [  chávez*   ]: (A)
+To my students: Maria Alvarez, Marta López, Rosario Morales,   [  morales   ]: (B)
+Alfonso Anaya, Ricardo Balderas, Frank Espinoza,   [  espinoza  ]: (C)
+Francisco Reveles, and Isidro Tarango,          [  tarango   ]: (D)
+with gratitude for all they have taught me      [     me     ]: (E)
+about the lives of farmworkers                  [farmworkers ]: (F)
+And to the Zapotec farmworkers from Teotitlán del Valle   [   valle    ]: (G)
+—AFA                                            [    afa*    ]: (H)
+To my wife Maria and my sons Josué and Francisco for all the   [    the     ]: (I)
+love and support they have given me             [     me     ]: (E)
+And to Blanca Solis &amp; all the Past, Present, &amp; Future Migrant Workers.   [  workers   ]: (J)
+May Their Efforts &amp; Struggles be Respected by all. Viva La Raza!   [    raza    ]: (K)
+Author's Note                                   [    note    ]: (L)
+By the year 2000, to make it easier for computers to alphabetize text, Ch and Lll will no longer be considered separate letters in the Spanish alphabet. They have been retained here   [    here    ]: (M)
+as unripe fruit, not yet ready to be taken from the tree, since all of us who love our language   [  language  ]: (N)
+and the traditions it keeps alive will need some time to grow accustomed to this change.   [   change   ]: (O)
+—Alma Flor Ada                                  [    ada     ]: (P)
+
+T
+Thanks                                          [   thanks   ]: (A)
+Wind and sky, rain and sun,                     [    sun     ]: (B)
+cloud and shade, field and flower.              [   flower   ]: (C)
+Thank you, Earth,                               [   earth    ]: (D)
+for all of your delicious fruits.               [   fruits   ]: (E)
+
+T
+Tomates                                         [  tomates*  ]: (A)
+Tomate fresco                                   [   fresco   ]: (B)
+en la ensalada,                                 [ ensalada*  ]: (C)
+en la salsa,                                    [   salsa    ]: (D)
+en la enchilada.                                [ enchilada  ]: (E)
+Tomate rojo                                     [    rojo    ]: (F)
+en la cocina,                                   [  cocina*   ]: (G)
+en los taquitos                                 [ taquitos*  ]: (H)
+de mi madrina.                                  [  madrina*  ]: (I)
+
+T
+Tomatoes                                        [  tomatoes  ]: (A)
+Fresh tomato                                    [   tomato   ]: (B)
+in a salad,                                     [   salad    ]: (C)
+in the salsa,                                   [   salsa    ]: (D)
+in enchiladas.                                  [enchiladas* ]: (E)
+Red tomato                                      [   tomato   ]: (B)
+in the kitchen,                                 [  kitchen   ]: (F)
+in the little tacos                             [   tacos    ]: (G)
+my godmother loves to make.                     [    make    ]: (H)
+
+U
+No hay una flor                                 [    flor    ]: (A)
+sino muchas, todas de distinto olor.            [   olor*    ]: (B)
+No hay un fruto                                 [   fruto*   ]: (C)
+sino muchos, con muy distinto sabor.            [   sabor*   ]: (D)
+No un árbol:                                    [   árbol*   ]: (E)
+¡cientos de verdes distintos!                   [ distintos* ]: (F)
+Todos en este planeta.                          [  planeta*  ]: (G)
+
+V
+Violetas                                        [ violetas*  ]: (A)
+Mis flores un arco iris:                        [    iris    ]: (B)
+rojas, rosadas,                                 [  rosadas*  ]: (C)
+amarillas, azules                               [  azules*   ]: (D)
+y anaranjadas.                                  [anaranjadas*]: (E)
+La más preciada,                                [ preciada*  ]: (F)
+por su color intenso,                           [  intenso*  ]: (G)
+la violeta morada.                              [  morada*   ]: (H)
+
+V
+Violets                                         [  violets   ]: (A)
+My flowers form a rainbow:                      [  rainbow   ]: (B)
+red, pink,                                      [    pink    ]: (C)
+yellow, blue,                                   [    blue    ]: (D)
+and orange.                                     [   orange   ]: (E)
+My favorite,                                    [  favorite  ]: (F)
+for its deep hue:                               [    hue     ]: (D)
+the purple violet.                              [   violet   ]: (G)
+
+W
+Watering                                        [  watering  ]: (A)
+Your smiles                                     [   smiles   ]: (B)
+to your friends                                 [  friends   ]: (C)
+are like water                                  [   water    ]: (D)
+to growing plants.                              [   plants   ]: (E)
+
+X
+Xochitl                                         [  xochitl*  ]: (A)
+Your name,                                      [    name    ]: (B)
+which in Nahuatl means flower,                  [   flower   ]: (C)
+carries the distant fragrance                   [ fragrance  ]: (D)
+of the rich Aztec culture.                      [  culture   ]: (E)
+
+X
+Xóchitl                                         [  xóchitl*  ]: (A)
+Tu nombre,                                      [  nombre*   ]: (B)
+que en náhuatl dice flor,                       [    flor    ]: (C)
+trae aromas lejanos                             [  lejanos*  ]: (D)
+de la cultura azteca.                           [   azteca   ]: (E)
+
+Y
+Yucatan                                         [  yucatan   ]: (A)
+Yucatan,                                        [  yucatan   ]: (A)
+green overcoat                                  [  overcoat  ]: (B)
+of the Mayan people.                            [   people   ]: (C)
+In your rain forest pyramids grow,              [    grow    ]: (D)
+pride of yesterday and tomorrow.                [  tomorrow  ]: (E)
+
+Y
+Yucatán                                         [  yucatán*  ]: (A)
+Yucatán,                                        [  yucatán*  ]: (A)
+abrigo verde                                    [   verde    ]: (B)
+del pueblo maya.                                [    maya    ]: (C)
+En tu selva crecen pirámides,                   [ pirámides* ]: (D)
+orgullo de tu ayer y tu mañana.                 [  mañana*   ]: (E)
+
+Z
+Zanahoria                                       [ zanahoria* ]: (A)
+Esconde bajo la tierra                          [  tierra*   ]: (B)
+su cuerpo, la zanahoria;                        [ zanahoria* ]: (A)
+porque lo rojo del sol                          [    sol     ]: (C)
+¡se lo sabe de memoria!                         [  memoria*  ]: (D)
+
+¿
+¿Estrellas o Flores?                            [   flores   ]: (A)
+¿Son las estrellas flores luminosas             [ luminosas* ]: (B)
+alegrando la noche?                             [   noche*   ]: (C)
+¿Son las flores estrellas                       [ estrellas* ]: (D)
+dormidas en los campos?                         [   campos   ]: (E)
+
+Á
+Árboles                                         [  árboles*  ]: (A)
+Compañeros de mi infancia,                      [ infancia*  ]: (B)
+hermosos gigantes verdes.                       [   verdes   ]: (C)
+Ciruelos, peral, pistachos,                     [ pistachos* ]: (D)
+durazneros, chabacanos,                         [chabacanos* ]: (E)
+almendros, naranjos, kiwi,                      [    kiwi    ]: (F)
+cerezos, nogal, manzanos.                       [ manzanos*  ]: (G)
+Árboles que dan la fruta                        [   fruta*   ]: (H)
+que mis padres van pizcando.                    [ pizcando*  ]: (I)
+Trees                                           [   trees    ]: (J)
+Companions of my childhood,                     [ childhood  ]: (K)
+handsome green giants.                          [   giants   ]: (L)
+Plums, pears, pistachios,                       [ pistachios ]: (M)
+peaches and apricots,                           [  apricots  ]: (N)
+almonds, oranges, kiwis,                        [   kiwis    ]: (O)
+cherries, walnuts, and apples.                  [   apples   ]: (P)
+Trees that bear the fruits                      [   fruits   ]: (Q)
+that my parents harvest.                        [  harvest   ]: (R)
+
+
+
