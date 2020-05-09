@@ -220,7 +220,7 @@ def findRhymes(seg):
     return tuple(scheme), tuple(rhymes), tuple(tidied)
 
 
-def process_rhymes():
+def process_allit():
     """Read all of the input files, finding rhymes in each one. Write an output
     file annotating the original with rhyming information, and return a map
     from file names to the following dict for each file:
@@ -242,7 +242,6 @@ def process_rhymes():
             continue
 
         fileRhymeInfo = {
-            "segs":     [],
             "scheme":   [],
             "endWords": [],
             "tidied":   [],
@@ -285,4 +284,4 @@ def process_rhymes():
 
 
 if __name__ == '__main__':
-    process_rhymes()
+    process_allit()

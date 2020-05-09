@@ -39,7 +39,7 @@ def cleanText(txt):
     return txt
 
 
-def main():
+def process_cleaning():
 
     if not os.path.isdir(out_dir):
         os.mkdir(out_dir)
@@ -93,4 +93,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    process_cleaning()
