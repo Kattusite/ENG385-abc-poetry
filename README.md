@@ -9,7 +9,7 @@
 * TQDM (maybe)
 
 ```bash
-python -m pip install tqdm nltk pronouncing cmudict inflect
+python -m pip install tqdm nltk pronouncing cmudict inflect scipy numpy
 ```
 
 ## Limitations

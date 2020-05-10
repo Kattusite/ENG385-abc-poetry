@@ -51,17 +51,17 @@ function makeResult(book, res) {
   let rhyming = false;
   if (!res.isFormatted) {
     $(d).addClass("unsure");
-    status = "Unsure about rhyming... not enough data!";
+    status = "Oh no! <br><br> This book's data wasn't formatted quite right. We can't tell if it rhymes or not!";
   } else if (res.isRhyming) {
     $(d).addClass("rhyming");
     status = "Rhymes!";
     rhyming = true;
   } else {
     $(d).addClass("norhyming");
-    status = "Doesn't rhyme :(";
+    status = "No rhymes here!";
   }
   let statusSpan = newEl("span");
-  $(statusSpan).text(status);
+  $(statusSpan).html(status);
   $(d).append(statusSpan);
 
   // Add XX% of the book uses an XYZ rhyme scheme
@@ -72,10 +72,18 @@ function makeResult(book, res) {
     let container = div();
     $(container).addClass("bar-container");
 
-    let prevSpan = newEl("span");
+    let prevSpan1 = newEl("span");
+    let prevSpan2 = newEl("span");
     let scheme = res.scheme.join("");
-    $(prevSpan).text(`${res.prevalence}% of lines have ${scheme} rhyme scheme`);
-    $(container).append(prevSpan);
+    // Rhyme scheme of ABBAB
+    // appears in 78% of lines
+    // $(prevSpan).text(`${res.prevalence}% of lines have ${scheme} rhyme scheme`);
+    $(prevSpan1).html(`Rhyme scheme of <b>${scheme}</b>`);
+    $(prevSpan2).text(`appears in ${res.prevalence}% of lines`);
+
+    $(container).append(prevSpan1);
+    $(container).append(newEl("br"));
+    $(container).append(prevSpan2);
 
     let bar = progressBar(res.prevalence);
     $(container).append(bar);
