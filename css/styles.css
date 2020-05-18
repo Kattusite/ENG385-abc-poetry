@@ -7,22 +7,44 @@ body {
   font-family: "Garamond", "Open Sans", sans-serif;
 }
 
-h1 {
-
-}
-
 div#results {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   width: 95%;
 }
 
+div#sort-buttons {
+
+}
+
+div.sortbtn {
+  padding: 4px;
+  border: 1px solid #cceecc;
+  background-color: #88aa88;
+  display: inline-block;
+  margin: 5px;
+  border-radius: 3px;
+}
+
+div.sortbtn:hover {
+  background-color: #668866;
+}
+
 h1 {
   padding-left: 30px;
 }
 
-h2, h3 {
+h2, h3, h4 {
   padding-left: 10px;
+}
+
+h3 {
+  margin-bottom: 0px;
+}
+
+h4 {
+  margin-top: 0px;
+  margin-bottom: 8px;
 }
 
 div {

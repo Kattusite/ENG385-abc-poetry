@@ -1,7 +1,61 @@
-function displayResults() {
+function maj(r) {
+  if (!r.isFormatted) return 1;
+  if (!r.isRhyming) return 2;
+  return 0;
+}
+
+function compare(sortBy) {
+  return (a,b) => {
+    let x = a[sortBy];
+    let y = b[sortBy];
+
+    // "major" index for binning entries at a high level.
+    // entries in lower indexed bins appear before higher ones
+    // 0 for rhyming, 1 for unformatted, 2 for not rhyming
+    let amaj = maj(a);
+    let bmaj = maj(b);
+
+    if (sortBy == "scheme") {
+      if (typeof(x) == typeof([])) x = x.join("");
+      if (typeof(y) == typeof([])) y = y.join("");
+
+      let dmaj = amaj - bmaj;
+      if (dmaj != 0) return dmaj;
+
+      // break ties on rhyme scheme length
+      let d = x.length - y.length;
+      if (d != 0) return d;
+
+      // finally lexicographically sort.
+      return x.localeCompare(y);
+    }
+
+    if (typeof(x) == typeof("")) return x.localeCompare(y);
+    else return x - y;
+  };
+}
+
+function displayResults(sortBy) {
+  if (!sortBy) sortBy = "default";
+
   let $results = $("#results");
+
+  // clear existing entries
+  $results.html("");
+
+  let rs = [];
+
   for (let [book, res] of Object.entries(results)) {
-    el = makeResult(book, res);
+    res.book = book;
+    rs.push(res);
+  }
+
+  if (sortBy != "default") {
+    rs.sort( compare(sortBy));
+  }
+
+  for (let r of rs) {
+    el = makeResult(r.book, r);
     $results.append(el);
   }
 }
@@ -43,6 +97,13 @@ function makeResult(book, res) {
   book = book.replace(/.txt/g, "").replace(/_/g, " ");
   $(title).text(book);
   $(d).append(title);
+
+  // Add year
+  // $(d).append(newEl("br"));
+  let year = newEl("h4");
+  $(year).text(res.year);
+  if (res.year == -1) $(year).text("???");
+  $(d).append(year);
 
   // Add hr
   // $(d).append(newEl("hr"));

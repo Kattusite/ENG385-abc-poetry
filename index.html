@@ -17,6 +17,13 @@
   <script src="js/display.js" defer></script>
 
   <h1>Rhyme Schemes in ABC Books</h1>
+  <div id="sort-buttons">
+    <span style="font-size: small;">(Note: sorting was added after Dean's Date)</span><br>
+    <div class="sortbtn" onclick="displayResults('default')">default</div>
+    <div class="sortbtn" onclick="displayResults('book')">by title</div>
+    <div class="sortbtn" onclick="displayResults('year')">by year</div>
+    <div class="sortbtn" onclick="displayResults('scheme')">by scheme</div>
+  </div>
   <div id="results"></div>
 </body>
 </html>

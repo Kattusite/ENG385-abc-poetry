@@ -1,6 +1,7 @@
 from collections import Counter
 import json
 import os
+from book_data import books
 
 in_dir = './abcbook_clean/'
 out_dir = './abcbook_summary/'
@@ -50,6 +51,8 @@ def process_summary(rhymes, meters, allits):
 
     """
 
+    nmisses = 0
+
     unformatted = []
     results = {}
 
@@ -86,6 +89,17 @@ def process_summary(rhymes, meters, allits):
         # with open(in_dir + filename, "r", encoding="utf-8") as f:
         #     txt = f.read()
 
+
+        # Read and store the book metadata into the result
+        if filename not in books:
+            result["year"] = "-1"
+            nmisses += 1
+        else:
+            metadata = books[filename]
+            result = {**result, **metadata}
+
+        result["year"] = int(result["year"])
+
         # Store the data for this book in the list of results
         results[filename] = result
 
@@ -94,6 +108,7 @@ def process_summary(rhymes, meters, allits):
     # Report unformatted files
     n = len(unformatted)
     print(f"{n} results suppressed due to improper file formatting...")
+    print(f"{nmisses} results had no associated year...")
 
     # Also write a single JSON file summarizing for all books
     if not os.path.isdir(json_out):
